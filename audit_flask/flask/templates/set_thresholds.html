@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Set Thresholds</title>
+</head>
+<body>
+    <h1>Set Thresholds</h1>
+    <p>For columns ending in <em>_diff</em>, set the maximum allowed difference.</p>
+    <p>For columns ending in <em>_sim</em>, set the minimum required similarity (0-100).</p>
+    <form method="POST">
+      <h2>_diff columns</h2>
+      {% for col in diff_cols %}
+        <label for="{{ col }}">{{ col }}</label>
+        <input type="text" name="{{ col }}" value="10.0"><br>
+      {% endfor %}
+
+      <h2>_sim columns</h2>
+      {% for col in sim_cols %}
+        <label for="{{ col }}">{{ col }}</label>
+        <input type="text" name="{{ col }}" value="60.0"><br>
+      {% endfor %}
+      <br>
+      <input type="submit" value="Apply Thresholds">
+    </form>
+</body>
+</html>

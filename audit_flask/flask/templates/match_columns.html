@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Match Columns</title>
+</head>
+<body>
+    <h1>Fuzzy Column Matches</h1>
+    <p>Below are fuzzy suggestions for matching columns from df1 to df2.</p>
+    <form method="POST">
+        <table border="1" cellpadding="5" cellspacing="0">
+            <tr>
+                <th>df1 Column</th>
+                <th>Suggested df2 Match</th>
+                <th>Override?</th>
+            </tr>
+            {% for c1, c2 in col_matches.items() %}
+            <tr>
+                <td>{{ c1 }}</td>
+                <td>{{ c2 }}</td>
+                <td>
+                    <select name="match_{{ c1 }}">
+                        <option value="None">-- None --</option>
+                        {% for possible in df2_columns %}
+                          <option value="{{ possible }}"
+                            {% if possible == c2 %} selected {% endif %}
+                          >
+                            {{ possible }}
+                          </option>
+                        {% endfor %}
+                    </select>
+                </td>
+            </tr>
+            {% endfor %}
+        </table>
+
+        <br>
+        <input type="submit" value="Confirm Matches">
+    </form>
+
+    <p><a href="{{ url_for('guess_roles') }}">Proceed without changes</a></p>
+</body>
+</html>

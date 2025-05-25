@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>SHAP Feature Importance</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container mt-4">
+    <h1>SHAP Feature Importance</h1>
+    <div class="mb-4">
+      <!-- Composite SHAP Plot Image (Base64 encoded) -->
+      <img src="{{ shap_img_data }}" alt="SHAP Composite Plot" class="img-fluid">
+    </div>
+    <h2>Feature Importance Details</h2>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Feature</th>
+          <th>Mean |SHAP Value|</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for feature, importance in feature_importance %}
+        <tr>
+          <td>{{ feature }}</td>
+          <td>{{ importance|round(3) }}</td>
+        </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+    <div class="mt-3">
+      <!-- Pass a query parameter so the backend can forward feature_importance to the fuzzy page -->
+      <a href="{{ url_for('select_fuzzy_features', from_shap='true') }}" class="btn btn-secondary">
+        Back to Select Fuzzy Matching Features
+      </a>
+    </div>
+  </div>
+</body>
+</html>

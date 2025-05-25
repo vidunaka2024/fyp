@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Train Model</title>
+</head>
+<body>
+    <h1>Model Trained</h1>
+    <p>Accuracy on test set: {{ accuracy|round(3) }}</p>
+    <p>The RandomForest model has been saved as <code>trained_model.pkl</code>.</p>
+    <p>
+      <a href="{{ url_for('shap_importance') }}">View SHAP Feature Importance</a>
+    </p>
+</body>
+</html>

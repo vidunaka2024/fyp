@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Select Fuzzy Matching Features</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+</head>
+<body>
+  <div class="container mt-4">
+    <h1>Select Fuzzy Matching Features</h1>
+    
+    <!-- Only show feature importance if it is present in the template context -->
+    {% if feature_importance is defined and feature_importance %}
+      <div class="alert alert-info">
+        <h4>Feature Importance</h4>
+        <table class="table table-bordered">
+          <thead>
+            <tr>
+              <th>Feature</th>
+              <th>Mean |SHAP Value|</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for feature, importance in feature_importance %}
+              <tr>
+                <td>{{ feature }}</td>
+                <td>{{ importance|round(3) }}</td>
+              </tr>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
+    {% endif %}
+    
+    <p>Please choose the columns you want to use for fuzzy matching:</p>
+    <form method="post" action="{{ url_for('select_fuzzy_features') }}">
+      <div class="form-group">
+        {% for col in df1_columns %}
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" name="fuzzy_cols" id="col_{{ col }}" value="{{ col }}">
+            <label class="form-check-label" for="col_{{ col }}">{{ col }}</label>
+          </div>
+        {% endfor %}
+      </div>
+      <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+    <br>
+    <a href="{{ url_for('upload_files') }}">Back to Upload</a>
+  </div>
+</body>
+</html>

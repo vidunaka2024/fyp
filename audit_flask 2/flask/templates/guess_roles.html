@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Guess Roles</title>
+</head>
+<body>
+    <h1>Guessed Roles</h1>
+    <form method="POST">
+        <table border="1" cellpadding="5" cellspacing="0">
+            <tr>
+                <th>df1 Column</th>
+                <th>df2 Column</th>
+                <th>Guessed Role</th>
+                <th>Override?</th>
+            </tr>
+            {% for c1, c2 in col_matches.items() %}
+            <tr>
+                <td>{{ c1 }}</td>
+                <td>{{ c2 }}</td>
+                <td>{{ col_roles[c1] }}</td>
+                <td>
+                    <select name="role_{{ c1 }}">
+                        <option value="date" {% if col_roles[c1]=='date' %}selected{% endif %}>date</option>
+                        <option value="text" {% if col_roles[c1]=='text' %}selected{% endif %}>text</option>
+                        <option value="numeric" {% if col_roles[c1]=='numeric' %}selected{% endif %}>numeric</option>
+                        <option value="ignore" {% if col_roles[c1]=='ignore' %}selected{% endif %}>ignore</option>
+                    </select>
+                </td>
+            </tr>
+            {% endfor %}
+        </table>
+        <br>
+        <input type="submit" value="Confirm Roles">
+    </form>
+</body>
+</html>

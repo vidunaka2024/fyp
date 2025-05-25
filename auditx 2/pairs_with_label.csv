@@ -1,0 +1,1001 @@
+cb_date,bs_date,cb_desc,bs_desc,cb_credit,bs_credit,cb_debit,bs_debit,cb_balance,bs_balance,date_diff,desc_similarity,debit_diff,credit_diff,balance_diff,label
+2020-01-01,2020-01-01,software consulting service payment,software consulting service payment,500000.0,500000.0,0.0,0.0,5500000.0,5500000.0,0,100,0.0,0.0,0.0,0
+2020-01-01,2020-01-01,software consulting service payment,office rent payment - january,500000.0,0.0,0.0,150000.0,5500000.0,5350000.0,0,44,150000.0,500000.0,150000.0,1
+2020-01-01,2020-01-02,software consulting service payment,client payment - custom software development,500000.0,300000.0,0.0,0.0,5500000.0,5650000.0,1,43,0.0,200000.0,150000.0,1
+2020-01-01,2020-01-02,software consulting service payment,software subscription - yearly renewal,500000.0,0.0,0.0,200000.0,5500000.0,5450000.0,1,55,200000.0,500000.0,50000.0,1
+2020-01-01,2020-01-03,software consulting service payment,cloud application development,500000.0,450000.0,0.0,0.0,5500000.0,5900000.0,2,50,0.0,50000.0,400000.0,1
+2020-01-01,2020-01-03,software consulting service payment,staff welfare fund,500000.0,0.0,0.0,50000.0,5500000.0,5850000.0,2,34,50000.0,500000.0,350000.0,1
+2020-01-01,2020-01-04,software consulting service payment,new software release revenue,500000.0,600000.0,0.0,0.0,5500000.0,6450000.0,3,51,0.0,100000.0,950000.0,1
+2020-01-01,2020-01-04,software consulting service payment,marketing campaign - social media ads,500000.0,0.0,0.0,100000.0,5500000.0,6350000.0,3,36,100000.0,500000.0,850000.0,1
+2020-01-01,2020-01-05,software consulting service payment,api integration service - client alpha,500000.0,200000.0,0.0,0.0,5500000.0,6550000.0,4,49,0.0,300000.0,1050000.0,1
+2020-01-01,2020-01-05,software consulting service payment,it hardware purchase,500000.0,0.0,0.0,300000.0,5500000.0,6250000.0,4,40,300000.0,500000.0,750000.0,1
+2020-01-01,2020-01-06,software consulting service payment,software product sale,500000.0,350000.0,0.0,0.0,5500000.0,6600000.0,5,57,0.0,150000.0,1100000.0,1
+2020-01-01,2020-01-06,software consulting service payment,office supplies purchase,500000.0,0.0,0.0,75000.0,5500000.0,6525000.0,5,44,75000.0,500000.0,1025000.0,1
+2020-01-01,2020-01-07,software consulting service payment,saas revenue payment,500000.0,500000.0,0.0,0.0,5500000.0,7025000.0,6,55,0.0,0.0,1525000.0,1
+2020-01-01,2020-01-07,software consulting service payment,server maintenance service,500000.0,0.0,0.0,125000.0,5500000.0,6900000.0,6,49,125000.0,500000.0,1400000.0,1
+2020-01-01,2020-01-08,software consulting service payment,enterprise software development payment,500000.0,650000.0,0.0,0.0,5500000.0,7550000.0,7,54,0.0,150000.0,2050000.0,1
+2020-01-01,2020-01-08,software consulting service payment,freelancer payment - mobile app design,500000.0,0.0,0.0,80000.0,5500000.0,7470000.0,7,41,80000.0,500000.0,1970000.0,1
+2020-01-01,2020-01-09,software consulting service payment,software license fee payment,500000.0,300000.0,0.0,0.0,5500000.0,7770000.0,8,73,0.0,200000.0,2270000.0,1
+2020-01-01,2020-01-09,software consulting service payment,business travel expenses - conference,500000.0,0.0,0.0,120000.0,5500000.0,7650000.0,8,33,120000.0,500000.0,2150000.0,1
+2020-01-01,2020-01-10,software consulting service payment,custom software solution sale,500000.0,450000.0,0.0,0.0,5500000.0,8100000.0,9,56,0.0,50000.0,2600000.0,1
+2020-01-01,2020-01-10,software consulting service payment,office utilities payment,500000.0,0.0,0.0,80000.0,5500000.0,8020000.0,9,58,80000.0,500000.0,2520000.0,1
+2020-01-01,2020-01-11,software consulting service payment,cloud application subscription payment,500000.0,600000.0,0.0,0.0,5500000.0,8620000.0,10,52,0.0,100000.0,3120000.0,1
+2020-01-01,2020-01-11,software consulting service payment,legal fees - ip protection,500000.0,0.0,0.0,75000.0,5500000.0,8545000.0,10,30,75000.0,500000.0,3045000.0,1
+2020-01-01,2020-01-12,software consulting service payment,digital marketing consulting fee,500000.0,700000.0,0.0,0.0,5500000.0,9245000.0,11,54,0.0,200000.0,3745000.0,1
+2020-01-01,2020-01-12,software consulting service payment,staff bonuses,500000.0,0.0,0.0,100000.0,5500000.0,9145000.0,11,38,100000.0,500000.0,3645000.0,1
+2020-01-01,2020-01-13,software consulting service payment,software update revenue,500000.0,550000.0,0.0,0.0,5500000.0,9695000.0,12,55,0.0,50000.0,4195000.0,1
+2020-01-01,2020-01-13,software consulting service payment,business expenses - miscellaneous,500000.0,0.0,0.0,70000.0,5500000.0,9625000.0,12,32,70000.0,500000.0,4125000.0,1
+2020-01-01,2020-01-14,software consulting service payment,api integration service - client beta,500000.0,400000.0,0.0,0.0,5500000.0,10025000.0,13,50,0.0,100000.0,4525000.0,1
+2020-01-01,2020-01-14,software consulting service payment,freelancer payment - backend developer,500000.0,0.0,0.0,150000.0,5500000.0,9875000.0,13,41,150000.0,500000.0,4375000.0,1
+2020-01-01,2020-01-15,software consulting service payment,cloud solution development payment,500000.0,450000.0,0.0,0.0,5500000.0,10325000.0,14,55,0.0,50000.0,4825000.0,1
+2020-01-01,2020-01-15,software consulting service payment,office rent payment,500000.0,0.0,0.0,150000.0,5500000.0,10175000.0,14,52,150000.0,500000.0,4675000.0,1
+2020-01-01,2020-01-16,software consulting service payment,software product licensing fee,500000.0,500000.0,0.0,0.0,5500000.0,10675000.0,15,55,0.0,0.0,5175000.0,1
+2020-01-01,2020-01-16,software consulting service payment,business travel - client meeting expenses,500000.0,0.0,0.0,90000.0,5500000.0,10585000.0,15,42,90000.0,500000.0,5085000.0,1
+2020-01-01,2020-01-17,software consulting service payment,software development service payment,500000.0,600000.0,0.0,0.0,5500000.0,11185000.0,16,79,0.0,100000.0,5685000.0,1
+2020-01-01,2020-01-17,software consulting service payment,office equipment purchase,500000.0,0.0,0.0,200000.0,5500000.0,10985000.0,16,40,200000.0,500000.0,5485000.0,1
+2020-01-01,2020-01-18,software consulting service payment,custom software development service payment,500000.0,700000.0,0.0,0.0,5500000.0,11685000.0,17,72,0.0,200000.0,6185000.0,1
+2020-01-01,2020-01-18,software consulting service payment,staff training session,500000.0,0.0,0.0,120000.0,5500000.0,11565000.0,17,46,120000.0,500000.0,6065000.0,1
+2020-01-01,2020-01-19,software consulting service payment,software consulting revenue,500000.0,400000.0,0.0,0.0,5500000.0,11965000.0,18,77,0.0,100000.0,6465000.0,1
+2020-01-01,2020-01-19,software consulting service payment,office furniture purchase,500000.0,0.0,0.0,150000.0,5500000.0,11815000.0,18,40,150000.0,500000.0,6315000.0,1
+2020-01-01,2020-01-20,software consulting service payment,cloud platform subscription payment,500000.0,600000.0,0.0,0.0,5500000.0,12415000.0,19,49,0.0,100000.0,6915000.0,1
+2020-01-01,2020-01-20,software consulting service payment,business trip expenses - client meeting,500000.0,0.0,0.0,80000.0,5500000.0,12335000.0,19,38,80000.0,500000.0,6835000.0,1
+2020-01-01,2020-01-21,software consulting service payment,legacy software modernization revenue,500000.0,500000.0,0.0,0.0,5500000.0,12835000.0,20,53,0.0,0.0,7335000.0,1
+2020-01-01,2020-01-21,software consulting service payment,website development costs,500000.0,0.0,0.0,250000.0,5500000.0,12585000.0,20,43,250000.0,500000.0,7085000.0,1
+2020-01-01,2020-01-22,software consulting service payment,saas application revenue,500000.0,650000.0,0.0,0.0,5500000.0,13235000.0,21,41,0.0,150000.0,7735000.0,1
+2020-01-01,2020-01-22,software consulting service payment,it equipment upgrade,500000.0,0.0,0.0,175000.0,5500000.0,13060000.0,21,33,175000.0,500000.0,7560000.0,1
+2020-01-01,2020-01-23,software consulting service payment,custom software solution payment,500000.0,500000.0,0.0,0.0,5500000.0,13560000.0,22,66,0.0,0.0,8060000.0,1
+2020-01-01,2020-01-23,software consulting service payment,marketing expense - event sponsorship,500000.0,0.0,0.0,200000.0,5500000.0,13360000.0,22,42,200000.0,500000.0,7860000.0,1
+2020-01-01,2020-01-24,software consulting service payment,cloud data backup service,500000.0,450000.0,0.0,0.0,5500000.0,13810000.0,23,47,0.0,50000.0,8310000.0,1
+2020-01-01,2020-01-24,software consulting service payment,office maintenance - hvac repair,500000.0,0.0,0.0,100000.0,5500000.0,13710000.0,23,39,100000.0,500000.0,8210000.0,1
+2020-01-01,2020-01-25,software consulting service payment,software licensing renewal,500000.0,400000.0,0.0,0.0,5500000.0,14110000.0,24,62,0.0,100000.0,8610000.0,1
+2020-01-01,2020-01-25,software consulting service payment,employee wellness program,500000.0,0.0,0.0,75000.0,5500000.0,14035000.0,24,33,75000.0,500000.0,8535000.0,1
+2020-01-01,2020-01-26,software consulting service payment,software product revenue,500000.0,700000.0,0.0,0.0,5500000.0,14735000.0,25,58,0.0,200000.0,9235000.0,1
+2020-01-01,2020-01-26,software consulting service payment,office cleaning service,500000.0,0.0,0.0,30000.0,5500000.0,14705000.0,25,59,30000.0,500000.0,9205000.0,1
+2020-01-01,2020-01-27,software consulting service payment,it support services - client zeta,500000.0,600000.0,0.0,0.0,5500000.0,15305000.0,26,50,0.0,100000.0,9805000.0,1
+2020-01-01,2020-01-27,software consulting service payment,employee training program - soft skills,500000.0,0.0,0.0,40000.0,5500000.0,15265000.0,26,32,40000.0,500000.0,9765000.0,1
+2020-01-01,2020-01-28,software consulting service payment,software customization payment,500000.0,350000.0,0.0,0.0,5500000.0,15615000.0,27,68,0.0,150000.0,10115000.0,1
+2020-01-01,2020-01-28,software consulting service payment,office supplies replenishment,500000.0,0.0,0.0,60000.0,5500000.0,15555000.0,27,50,60000.0,500000.0,10055000.0,1
+2020-01-01,2020-01-29,software consulting service payment,cloud computing service payment,500000.0,450000.0,0.0,0.0,5500000.0,16005000.0,28,76,0.0,50000.0,10505000.0,1
+2020-01-01,2020-01-29,software consulting service payment,business conference expenses,500000.0,0.0,0.0,50000.0,5500000.0,15955000.0,28,44,50000.0,500000.0,10455000.0,1
+2020-01-01,2020-01-30,software consulting service payment,saas platform payment,500000.0,550000.0,0.0,0.0,5500000.0,16505000.0,29,50,0.0,50000.0,11005000.0,1
+2020-01-01,2020-01-30,software consulting service payment,marketing materials printing,500000.0,0.0,0.0,120000.0,5500000.0,16385000.0,29,48,120000.0,500000.0,10885000.0,1
+2020-01-01,2020-01-31,software consulting service payment,software development revenue,500000.0,500000.0,0.0,0.0,5500000.0,16885000.0,30,54,0.0,0.0,11385000.0,1
+2020-01-01,2020-01-31,software consulting service payment,freelancer payment - software testing,500000.0,0.0,0.0,90000.0,5500000.0,16795000.0,30,42,90000.0,500000.0,11295000.0,1
+2020-01-01,2020-02-01,software consulting service payment,custom software development service payment,500000.0,600000.0,0.0,0.0,5500000.0,17395000.0,31,72,0.0,100000.0,11895000.0,1
+2020-01-01,2020-02-01,software consulting service payment,office lease payment - february,500000.0,0.0,0.0,100000.0,5500000.0,17295000.0,31,45,100000.0,500000.0,11795000.0,1
+2020-01-01,2020-02-01,software consulting service payment,staff training - project management,500000.0,0.0,0.0,50000.0,5500000.0,17245000.0,31,49,50000.0,500000.0,11745000.0,1
+2020-01-01,2020-02-02,software consulting service payment,cloud application development revenue,500000.0,450000.0,0.0,0.0,5500000.0,17695000.0,32,44,0.0,50000.0,12195000.0,1
+2020-01-01,2020-02-02,software consulting service payment,it infrastructure upgrade,500000.0,0.0,0.0,200000.0,5500000.0,17495000.0,32,40,200000.0,500000.0,11995000.0,1
+2020-01-01,2020-02-02,software consulting service payment,business travel - client meeting expenses,500000.0,0.0,0.0,75000.0,5500000.0,17420000.0,32,42,75000.0,500000.0,11920000.0,1
+2020-01-01,2020-02-03,software consulting service payment,saas application revenue,500000.0,550000.0,0.0,0.0,5500000.0,17970000.0,33,41,0.0,50000.0,12470000.0,1
+2020-01-01,2020-02-03,software consulting service payment,freelancer payment - mobile app design,500000.0,0.0,0.0,120000.0,5500000.0,17850000.0,33,41,120000.0,500000.0,12350000.0,1
+2020-01-01,2020-02-03,software consulting service payment,office furniture purchase,500000.0,0.0,0.0,80000.0,5500000.0,17770000.0,33,40,80000.0,500000.0,12270000.0,1
+2020-01-01,2020-02-04,software consulting service payment,enterprise software development revenue,500000.0,500000.0,0.0,0.0,5500000.0,18270000.0,34,46,0.0,0.0,12770000.0,1
+2020-01-01,2020-02-04,software consulting service payment,office maintenance - monthly cleaning,500000.0,0.0,0.0,25000.0,5500000.0,18245000.0,34,39,25000.0,500000.0,12745000.0,1
+2020-01-01,2020-02-04,software consulting service payment,employee bonuses - performance rewards,500000.0,0.0,0.0,150000.0,5500000.0,18095000.0,34,36,150000.0,500000.0,12595000.0,1
+2020-01-01,2020-02-05,software consulting service payment,cloud service subscription renewal,500000.0,400000.0,0.0,0.0,5500000.0,18495000.0,35,43,0.0,100000.0,12995000.0,1
+2020-01-01,2020-02-05,software consulting service payment,freelancer payment - backend development,500000.0,0.0,0.0,100000.0,5500000.0,18395000.0,35,43,100000.0,500000.0,12895000.0,1
+2020-01-01,2020-02-05,software consulting service payment,software licensing fee - annual,500000.0,0.0,0.0,75000.0,5500000.0,18320000.0,35,64,75000.0,500000.0,12820000.0,1
+2020-01-01,2020-02-06,software consulting service payment,software product sales - revenue,500000.0,600000.0,0.0,0.0,5500000.0,18920000.0,36,57,0.0,100000.0,13420000.0,1
+2020-01-01,2020-02-06,software consulting service payment,it support services - monthly subscription,500000.0,0.0,0.0,50000.0,5500000.0,18870000.0,36,44,50000.0,500000.0,13370000.0,1
+2020-01-01,2020-02-06,software consulting service payment,marketing campaign - social media ads,500000.0,0.0,0.0,80000.0,5500000.0,18790000.0,36,36,80000.0,500000.0,13290000.0,1
+2020-01-01,2020-02-07,software consulting service payment,software product development - client payment,500000.0,700000.0,0.0,0.0,5500000.0,19490000.0,37,62,0.0,200000.0,13990000.0,1
+2020-01-01,2020-02-07,software consulting service payment,office equipment purchase - new computers,500000.0,0.0,0.0,150000.0,5500000.0,19340000.0,37,37,150000.0,500000.0,13840000.0,1
+2020-01-01,2020-02-07,software consulting service payment,business travel expenses - conference,500000.0,0.0,0.0,120000.0,5500000.0,19220000.0,37,33,120000.0,500000.0,13720000.0,1
+2020-01-01,2020-02-08,software consulting service payment,custom software development payment,500000.0,550000.0,0.0,0.0,5500000.0,19770000.0,38,57,0.0,50000.0,14270000.0,1
+2020-01-01,2020-02-08,software consulting service payment,office supplies purchase - monthly stock,500000.0,0.0,0.0,30000.0,5500000.0,19740000.0,38,43,30000.0,500000.0,14240000.0,1
+2020-01-01,2020-02-08,software consulting service payment,freelancer payment - ui/ux design,500000.0,0.0,0.0,100000.0,5500000.0,19640000.0,38,44,100000.0,500000.0,14140000.0,1
+2020-01-01,2020-02-09,software consulting service payment,cloud application development - client payment,500000.0,800000.0,0.0,0.0,5500000.0,20440000.0,39,49,0.0,300000.0,14940000.0,1
+2020-01-01,2020-02-09,software consulting service payment,staff health insurance premium,500000.0,0.0,0.0,40000.0,5500000.0,20400000.0,39,46,40000.0,500000.0,14900000.0,1
+2020-01-01,2020-02-09,software consulting service payment,marketing campaign - online ads,500000.0,0.0,0.0,90000.0,5500000.0,20310000.0,39,39,90000.0,500000.0,14810000.0,1
+2020-01-01,2020-02-10,software consulting service payment,enterprise software development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,20910000.0,40,55,0.0,100000.0,15410000.0,1
+2020-01-01,2020-02-10,software consulting service payment,office lease payment - february,500000.0,0.0,0.0,100000.0,5500000.0,20810000.0,40,45,100000.0,500000.0,15310000.0,1
+2020-01-01,2020-02-10,software consulting service payment,staff training - project management workshop,500000.0,0.0,0.0,60000.0,5500000.0,20750000.0,40,43,60000.0,500000.0,15250000.0,1
+2020-01-01,2020-02-11,software consulting service payment,saas revenue - subscription renewal,500000.0,500000.0,0.0,0.0,5500000.0,21250000.0,41,40,0.0,0.0,15750000.0,1
+2020-01-01,2020-02-11,software consulting service payment,it equipment maintenance,500000.0,0.0,0.0,150000.0,5500000.0,21100000.0,41,34,150000.0,500000.0,15600000.0,1
+2020-01-01,2020-02-11,software consulting service payment,freelancer payment - backend development,500000.0,0.0,0.0,120000.0,5500000.0,20980000.0,41,43,120000.0,500000.0,15480000.0,1
+2020-01-01,2020-02-12,software consulting service payment,software licensing payment,500000.0,400000.0,0.0,0.0,5500000.0,21380000.0,42,75,0.0,100000.0,15880000.0,1
+2020-01-01,2020-02-12,software consulting service payment,office snacks - monthly refill,500000.0,0.0,0.0,15000.0,5500000.0,21365000.0,42,34,15000.0,500000.0,15865000.0,1
+2020-01-01,2020-02-12,software consulting service payment,business consulting fee - retainer,500000.0,300000.0,0.0,0.0,5500000.0,21665000.0,42,55,0.0,200000.0,16165000.0,1
+2020-01-01,2020-02-13,software consulting service payment,custom software development service payment,500000.0,650000.0,0.0,0.0,5500000.0,22315000.0,43,72,0.0,150000.0,16815000.0,1
+2020-01-01,2020-02-13,software consulting service payment,office equipment maintenance,500000.0,0.0,0.0,80000.0,5500000.0,22235000.0,43,38,80000.0,500000.0,16735000.0,1
+2020-01-01,2020-02-13,software consulting service payment,employee bonuses - annual performance,500000.0,0.0,0.0,200000.0,5500000.0,22035000.0,43,36,200000.0,500000.0,16535000.0,1
+2020-01-01,2020-02-14,software consulting service payment,software product sales - client payment,500000.0,700000.0,0.0,0.0,5500000.0,22735000.0,44,68,0.0,200000.0,17235000.0,1
+2020-01-01,2020-02-14,software consulting service payment,office lease payment - february,500000.0,0.0,0.0,100000.0,5500000.0,22635000.0,44,45,100000.0,500000.0,17135000.0,1
+2020-01-01,2020-02-14,software consulting service payment,it support services - monthly fee,500000.0,0.0,0.0,50000.0,5500000.0,22585000.0,44,50,50000.0,500000.0,17085000.0,1
+2020-01-01,2020-02-15,software consulting service payment,cloud application development - client payment,500000.0,550000.0,0.0,0.0,5500000.0,23135000.0,45,49,0.0,50000.0,17635000.0,1
+2020-01-01,2020-02-15,software consulting service payment,marketing campaign - seo services,500000.0,0.0,0.0,70000.0,5500000.0,23065000.0,45,44,70000.0,500000.0,17565000.0,1
+2020-01-01,2020-02-15,software consulting service payment,staff training - software development workshop,500000.0,0.0,0.0,60000.0,5500000.0,23005000.0,45,44,60000.0,500000.0,17505000.0,1
+2020-01-01,2020-02-16,software consulting service payment,enterprise software development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,23605000.0,46,55,0.0,100000.0,18105000.0,1
+2020-01-01,2020-02-16,software consulting service payment,office supplies purchase,500000.0,0.0,0.0,30000.0,5500000.0,23575000.0,46,44,30000.0,500000.0,18075000.0,1
+2020-01-01,2020-02-16,software consulting service payment,freelancer payment - front-end developer,500000.0,0.0,0.0,100000.0,5500000.0,23475000.0,46,40,100000.0,500000.0,17975000.0,1
+2020-01-01,2020-02-17,software consulting service payment,saas product sales - client subscription,500000.0,700000.0,0.0,0.0,5500000.0,24175000.0,47,43,0.0,200000.0,18675000.0,1
+2020-01-01,2020-02-17,software consulting service payment,employee health insurance premiums,500000.0,0.0,0.0,40000.0,5500000.0,24135000.0,47,41,40000.0,500000.0,18635000.0,1
+2020-01-01,2020-02-17,software consulting service payment,business travel expenses - client meeting,500000.0,0.0,0.0,120000.0,5500000.0,24015000.0,47,37,120000.0,500000.0,18515000.0,1
+2020-01-01,2020-02-18,software consulting service payment,cloud service revenue - client payment,500000.0,500000.0,0.0,0.0,5500000.0,24515000.0,48,52,0.0,0.0,19015000.0,1
+2020-01-01,2020-02-18,software consulting service payment,office renovation costs - furniture & fixtures,500000.0,0.0,0.0,150000.0,5500000.0,24365000.0,48,37,150000.0,500000.0,18865000.0,1
+2020-01-01,2020-02-18,software consulting service payment,marketing campaign - content creation,500000.0,0.0,0.0,90000.0,5500000.0,24275000.0,48,39,90000.0,500000.0,18775000.0,1
+2020-01-01,2020-02-19,software consulting service payment,custom software development - client payment,500000.0,750000.0,0.0,0.0,5500000.0,25025000.0,49,58,0.0,250000.0,19525000.0,1
+2020-01-01,2020-02-19,software consulting service payment,office lease payment - march,500000.0,0.0,0.0,120000.0,5500000.0,24905000.0,49,48,120000.0,500000.0,19405000.0,1
+2020-01-01,2020-02-19,software consulting service payment,employee training - leadership development,500000.0,0.0,0.0,80000.0,5500000.0,24825000.0,49,44,80000.0,500000.0,19325000.0,1
+2020-01-01,2020-02-20,software consulting service payment,saas subscription renewal - client payment,500000.0,500000.0,0.0,0.0,5500000.0,25325000.0,50,52,0.0,0.0,19825000.0,1
+2020-01-01,2020-02-20,software consulting service payment,it equipment purchase - new servers,500000.0,0.0,0.0,200000.0,5500000.0,25125000.0,50,34,200000.0,500000.0,19625000.0,1
+2020-01-01,2020-02-20,software consulting service payment,marketing campaign - email marketing,500000.0,0.0,0.0,50000.0,5500000.0,25075000.0,50,39,50000.0,500000.0,19575000.0,1
+2020-01-01,2020-02-21,software consulting service payment,software licensing renewal - client payment,500000.0,600000.0,0.0,0.0,5500000.0,25675000.0,51,69,0.0,100000.0,20175000.0,1
+2020-01-01,2020-02-21,software consulting service payment,office maintenance - hvac repair,500000.0,0.0,0.0,40000.0,5500000.0,25635000.0,51,39,40000.0,500000.0,20135000.0,1
+2020-01-01,2020-02-21,software consulting service payment,freelancer payment - mobile app development,500000.0,0.0,0.0,130000.0,5500000.0,25505000.0,51,41,130000.0,500000.0,20005000.0,1
+2020-01-01,2020-02-22,software consulting service payment,enterprise software development - client payment,500000.0,700000.0,0.0,0.0,5500000.0,26205000.0,52,55,0.0,200000.0,20705000.0,1
+2020-01-01,2020-02-22,software consulting service payment,business consulting fee - retainer,500000.0,350000.0,0.0,0.0,5500000.0,26555000.0,52,55,0.0,150000.0,21055000.0,1
+2020-01-01,2020-02-22,software consulting service payment,employee training - soft skills workshop,500000.0,0.0,0.0,50000.0,5500000.0,26505000.0,52,32,50000.0,500000.0,21005000.0,1
+2020-01-01,2020-02-23,software consulting service payment,saas product sales - client payment,500000.0,600000.0,0.0,0.0,5500000.0,27105000.0,53,54,0.0,100000.0,21605000.0,1
+2020-01-01,2020-02-23,software consulting service payment,office snacks - monthly refill,500000.0,0.0,0.0,15000.0,5500000.0,27090000.0,53,34,15000.0,500000.0,21590000.0,1
+2020-01-01,2020-02-23,software consulting service payment,legal fees - contract review,500000.0,0.0,0.0,40000.0,5500000.0,27050000.0,53,38,40000.0,500000.0,21550000.0,1
+2020-01-01,2020-02-24,software consulting service payment,cloud application development - client payment,500000.0,750000.0,0.0,0.0,5500000.0,27800000.0,54,49,0.0,250000.0,22300000.0,1
+2020-01-01,2020-02-24,software consulting service payment,it equipment purchase - networking hardware,500000.0,0.0,0.0,100000.0,5500000.0,27700000.0,54,33,100000.0,500000.0,22200000.0,1
+2020-01-01,2020-02-24,software consulting service payment,marketing materials - brochure design,500000.0,0.0,0.0,25000.0,5500000.0,27675000.0,54,44,25000.0,500000.0,22175000.0,1
+2020-01-01,2020-02-25,software consulting service payment,legacy software modernization - client payment,500000.0,900000.0,0.0,0.0,5500000.0,28575000.0,55,62,0.0,400000.0,23075000.0,1
+2020-01-01,2020-02-25,software consulting service payment,freelancer payment - backend developer,500000.0,0.0,0.0,200000.0,5500000.0,28375000.0,55,41,200000.0,500000.0,22875000.0,1
+2020-01-01,2020-02-25,software consulting service payment,office lease payment - march,500000.0,0.0,0.0,120000.0,5500000.0,28255000.0,55,48,120000.0,500000.0,22755000.0,1
+2020-01-01,2020-02-26,software consulting service payment,custom software development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,28755000.0,56,58,0.0,0.0,23255000.0,1
+2020-01-01,2020-02-26,software consulting service payment,employee bonuses - performance awards,500000.0,0.0,0.0,150000.0,5500000.0,28605000.0,56,36,150000.0,500000.0,23105000.0,1
+2020-01-01,2020-02-26,software consulting service payment,staff health insurance premiums,500000.0,0.0,0.0,40000.0,5500000.0,28565000.0,56,45,40000.0,500000.0,23065000.0,1
+2020-01-01,2020-02-27,software consulting service payment,saas subscription renewal - client payment,500000.0,700000.0,0.0,0.0,5500000.0,29265000.0,57,52,0.0,200000.0,23765000.0,1
+2020-01-01,2020-02-27,software consulting service payment,office maintenance - cleaning services,500000.0,0.0,0.0,25000.0,5500000.0,29240000.0,57,52,25000.0,500000.0,23740000.0,1
+2020-01-01,2020-02-27,software consulting service payment,digital marketing services - campaign expenses,500000.0,0.0,0.0,100000.0,5500000.0,29140000.0,57,52,100000.0,500000.0,23640000.0,1
+2020-01-01,2020-02-28,software consulting service payment,cloud application development - client payment,500000.0,750000.0,0.0,0.0,5500000.0,29890000.0,58,49,0.0,250000.0,24390000.0,1
+2020-01-01,2020-02-28,software consulting service payment,it equipment purchase - new computers,500000.0,0.0,0.0,250000.0,5500000.0,29640000.0,58,33,250000.0,500000.0,24140000.0,1
+2020-01-01,2020-02-28,software consulting service payment,employee training - leadership development,500000.0,0.0,0.0,100000.0,5500000.0,29540000.0,58,44,100000.0,500000.0,24040000.0,1
+2020-01-01,2020-03-01,software consulting service payment,custom software development - client payment,500000.0,850000.0,0.0,0.0,5500000.0,30390000.0,60,58,0.0,350000.0,24890000.0,1
+2020-01-01,2020-03-01,software consulting service payment,mobile application development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,30990000.0,60,49,0.0,100000.0,25490000.0,1
+2020-01-01,2020-03-01,software consulting service payment,office lease payment - april,500000.0,0.0,0.0,120000.0,5500000.0,30870000.0,60,48,120000.0,500000.0,25370000.0,1
+2020-01-01,2020-03-02,software consulting service payment,devops automation - client payment,500000.0,700000.0,0.0,0.0,5500000.0,31570000.0,61,52,0.0,200000.0,26070000.0,1
+2020-01-01,2020-03-02,software consulting service payment,software prototyping - client payment,500000.0,500000.0,0.0,0.0,5500000.0,32070000.0,61,69,0.0,0.0,26570000.0,1
+2020-01-01,2020-03-02,software consulting service payment,marketing campaign - social media ads,500000.0,0.0,0.0,80000.0,5500000.0,31990000.0,61,36,80000.0,500000.0,26490000.0,1
+2020-01-01,2020-03-03,software consulting service payment,web application development - client payment,500000.0,750000.0,0.0,0.0,5500000.0,32740000.0,62,51,0.0,250000.0,27240000.0,1
+2020-01-01,2020-03-03,software consulting service payment,cloud computing - client payment,500000.0,900000.0,0.0,0.0,5500000.0,33640000.0,62,60,0.0,400000.0,28140000.0,1
+2020-01-01,2020-03-03,software consulting service payment,freelancer payment - backend developer,500000.0,0.0,0.0,150000.0,5500000.0,33490000.0,62,41,150000.0,500000.0,27990000.0,1
+2020-01-01,2020-03-04,software consulting service payment,quality assurance - client payment,500000.0,800000.0,0.0,0.0,5500000.0,34290000.0,63,49,0.0,300000.0,28790000.0,1
+2020-01-01,2020-03-04,software consulting service payment,systems integration - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,35290000.0,63,54,0.0,500000.0,29790000.0,1
+2020-01-01,2020-03-04,software consulting service payment,office snacks - monthly refill,500000.0,0.0,0.0,15000.0,5500000.0,35275000.0,63,34,15000.0,500000.0,29775000.0,1
+2020-01-01,2020-03-05,software consulting service payment,devops automation - system implementation,500000.0,650000.0,0.0,0.0,5500000.0,35925000.0,64,42,0.0,150000.0,30425000.0,1
+2020-01-01,2020-03-05,software consulting service payment,custom software development - maintenance,500000.0,500000.0,0.0,0.0,5500000.0,36425000.0,64,45,0.0,0.0,30925000.0,1
+2020-01-01,2020-03-05,software consulting service payment,it hardware purchase - new workstations,500000.0,0.0,0.0,250000.0,5500000.0,36175000.0,64,35,250000.0,500000.0,30675000.0,1
+2020-01-01,2020-03-06,software consulting service payment,mobile application development - maintenance,500000.0,400000.0,0.0,0.0,5500000.0,36575000.0,65,41,0.0,100000.0,31075000.0,1
+2020-01-01,2020-03-06,software consulting service payment,software prototyping - client payment,500000.0,600000.0,0.0,0.0,5500000.0,37175000.0,65,69,0.0,100000.0,31675000.0,1
+2020-01-01,2020-03-06,software consulting service payment,office cleaning services - monthly,500000.0,0.0,0.0,30000.0,5500000.0,37145000.0,65,61,30000.0,500000.0,31645000.0,1
+2020-01-01,2020-03-07,software consulting service payment,custom software development - final payment,500000.0,750000.0,0.0,0.0,5500000.0,37895000.0,66,56,0.0,250000.0,32395000.0,1
+2020-01-01,2020-03-07,software consulting service payment,cloud computing - service fees,500000.0,0.0,0.0,100000.0,5500000.0,37795000.0,66,58,100000.0,500000.0,32295000.0,1
+2020-01-01,2020-03-07,software consulting service payment,freelancer payment - ui/ux designer,500000.0,0.0,0.0,200000.0,5500000.0,37595000.0,66,43,200000.0,500000.0,32095000.0,1
+2020-01-01,2020-03-08,software consulting service payment,software prototyping - client payment,500000.0,850000.0,0.0,0.0,5500000.0,38445000.0,67,69,0.0,350000.0,32945000.0,1
+2020-01-01,2020-03-08,software consulting service payment,office lease payment - april,500000.0,0.0,0.0,120000.0,5500000.0,38325000.0,67,48,120000.0,500000.0,32825000.0,1
+2020-01-01,2020-03-08,software consulting service payment,marketing materials - brochure design,500000.0,0.0,0.0,60000.0,5500000.0,38265000.0,67,44,60000.0,500000.0,32765000.0,1
+2020-01-01,2020-03-09,software consulting service payment,web application development - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,39265000.0,68,51,0.0,500000.0,33765000.0,1
+2020-01-01,2020-03-09,software consulting service payment,office snacks - monthly refill,500000.0,0.0,0.0,18000.0,5500000.0,39247000.0,68,34,18000.0,500000.0,33747000.0,1
+2020-01-01,2020-03-09,software consulting service payment,cloud application development - service fees,500000.0,0.0,0.0,100000.0,5500000.0,39147000.0,68,43,100000.0,500000.0,33647000.0,1
+2020-01-01,2020-03-10,software consulting service payment,mobile application development - final payment,500000.0,500000.0,0.0,0.0,5500000.0,39647000.0,69,47,0.0,0.0,34147000.0,1
+2020-01-01,2020-03-10,software consulting service payment,it equipment purchase - laptops,500000.0,0.0,0.0,200000.0,5500000.0,39447000.0,69,36,200000.0,500000.0,33947000.0,1
+2020-01-01,2020-03-10,software consulting service payment,freelancer payment - backend developer,500000.0,0.0,0.0,150000.0,5500000.0,39297000.0,69,41,150000.0,500000.0,33797000.0,1
+2020-01-01,2020-03-11,software consulting service payment,systems integration - final payment,500000.0,1200000.0,0.0,0.0,5500000.0,40497000.0,70,51,0.0,700000.0,34997000.0,1
+2020-01-01,2020-03-11,software consulting service payment,office maintenance - hvac repairs,500000.0,0.0,0.0,80000.0,5500000.0,40417000.0,70,38,80000.0,500000.0,34917000.0,1
+2020-01-01,2020-03-11,software consulting service payment,staff health insurance premiums,500000.0,0.0,0.0,45000.0,5500000.0,40372000.0,70,45,45000.0,500000.0,34872000.0,1
+2020-01-01,2020-03-12,software consulting service payment,quality assurance - service fees,500000.0,600000.0,0.0,0.0,5500000.0,40972000.0,71,45,0.0,100000.0,35472000.0,1
+2020-01-01,2020-03-12,software consulting service payment,software development - client payment,500000.0,800000.0,0.0,0.0,5500000.0,41772000.0,71,64,0.0,300000.0,36272000.0,1
+2020-01-01,2020-03-12,software consulting service payment,office lease payment - may,500000.0,0.0,0.0,120000.0,5500000.0,41652000.0,71,49,120000.0,500000.0,36152000.0,1
+2020-01-01,2020-03-13,software consulting service payment,software prototyping - service fee,500000.0,500000.0,0.0,0.0,5500000.0,42152000.0,72,70,0.0,0.0,36652000.0,1
+2020-01-01,2020-03-13,software consulting service payment,cloud computing - monthly payment,500000.0,0.0,0.0,150000.0,5500000.0,42002000.0,72,53,150000.0,500000.0,36502000.0,1
+2020-01-01,2020-03-13,software consulting service payment,business travel - client meeting,500000.0,0.0,0.0,80000.0,5500000.0,41922000.0,72,39,80000.0,500000.0,36422000.0,1
+2020-01-01,2020-03-14,software consulting service payment,mobile application development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,42522000.0,73,49,0.0,100000.0,37022000.0,1
+2020-01-01,2020-03-14,software consulting service payment,office snacks - monthly refill,500000.0,0.0,0.0,20000.0,5500000.0,42502000.0,73,34,20000.0,500000.0,37002000.0,1
+2020-01-01,2020-03-14,software consulting service payment,marketing campaign - digital ads,500000.0,0.0,0.0,90000.0,5500000.0,42412000.0,73,39,90000.0,500000.0,36912000.0,1
+2020-01-01,2020-03-15,software consulting service payment,custom software development - client payment,500000.0,800000.0,0.0,0.0,5500000.0,43212000.0,74,58,0.0,300000.0,37712000.0,1
+2020-01-01,2020-03-15,software consulting service payment,it equipment - new servers,500000.0,0.0,0.0,400000.0,5500000.0,42812000.0,74,36,400000.0,500000.0,37312000.0,1
+2020-01-01,2020-03-15,software consulting service payment,freelancer payment - frontend developer,500000.0,0.0,0.0,250000.0,5500000.0,42562000.0,74,41,250000.0,500000.0,37062000.0,1
+2020-01-01,2020-03-16,software consulting service payment,devops automation - service payment,500000.0,700000.0,0.0,0.0,5500000.0,43262000.0,75,66,0.0,200000.0,37762000.0,1
+2020-01-01,2020-03-16,software consulting service payment,systems integration - final service payment,500000.0,1000000.0,0.0,0.0,5500000.0,44262000.0,75,62,0.0,500000.0,38762000.0,1
+2020-01-01,2020-03-16,software consulting service payment,office maintenance - plumbing repair,500000.0,0.0,0.0,75000.0,5500000.0,44187000.0,75,42,75000.0,500000.0,38687000.0,1
+2020-01-01,2020-03-17,software consulting service payment,web application development - client payment,500000.0,850000.0,0.0,0.0,5500000.0,45037000.0,76,51,0.0,350000.0,39537000.0,1
+2020-01-01,2020-03-17,software consulting service payment,quality assurance - monthly testing fees,500000.0,0.0,0.0,50000.0,5500000.0,44987000.0,76,40,50000.0,500000.0,39487000.0,1
+2020-01-01,2020-03-17,software consulting service payment,staff bonuses - performance awards,500000.0,0.0,0.0,300000.0,5500000.0,44687000.0,76,41,300000.0,500000.0,39187000.0,1
+2020-01-01,2020-03-18,software consulting service payment,custom software development - client payment,500000.0,900000.0,0.0,0.0,5500000.0,45587000.0,77,58,0.0,400000.0,40087000.0,1
+2020-01-01,2020-03-18,software consulting service payment,cloud computing - service subscription,500000.0,0.0,0.0,120000.0,5500000.0,45467000.0,77,55,120000.0,500000.0,39967000.0,1
+2020-01-01,2020-03-18,software consulting service payment,freelancer payment - graphic designer,500000.0,0.0,0.0,75000.0,5500000.0,45392000.0,77,42,75000.0,500000.0,39892000.0,1
+2020-01-01,2020-03-19,software consulting service payment,mobile application development - client payment,500000.0,650000.0,0.0,0.0,5500000.0,46042000.0,78,49,0.0,150000.0,40542000.0,1
+2020-01-01,2020-03-19,software consulting service payment,office lease payment - june,500000.0,0.0,0.0,130000.0,5500000.0,45912000.0,78,48,130000.0,500000.0,40412000.0,1
+2020-01-01,2020-03-19,software consulting service payment,business travel - seminar,500000.0,0.0,0.0,60000.0,5500000.0,45852000.0,78,33,60000.0,500000.0,40352000.0,1
+2020-01-01,2020-03-20,software consulting service payment,web application development - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,47052000.0,79,51,0.0,700000.0,41552000.0,1
+2020-01-01,2020-03-20,software consulting service payment,it hardware purchase - servers,500000.0,0.0,0.0,300000.0,5500000.0,46752000.0,79,43,300000.0,500000.0,41252000.0,1
+2020-01-01,2020-03-20,software consulting service payment,marketing campaign - social media ads,500000.0,0.0,0.0,150000.0,5500000.0,46602000.0,79,36,150000.0,500000.0,41102000.0,1
+2020-01-01,2020-03-21,software consulting service payment,software prototyping - client payment,500000.0,500000.0,0.0,0.0,5500000.0,47102000.0,80,69,0.0,0.0,41602000.0,1
+2020-01-01,2020-03-21,software consulting service payment,freelancer payment - backend developer,500000.0,0.0,0.0,250000.0,5500000.0,46852000.0,80,41,250000.0,500000.0,41352000.0,1
+2020-01-01,2020-03-21,software consulting service payment,staff training - leadership development,500000.0,0.0,0.0,120000.0,5500000.0,46732000.0,80,49,120000.0,500000.0,41232000.0,1
+2020-01-01,2020-03-22,software consulting service payment,cloud computing - service subscription,500000.0,0.0,0.0,100000.0,5500000.0,46632000.0,81,55,100000.0,500000.0,41132000.0,1
+2020-01-01,2020-03-22,software consulting service payment,quality assurance - client testing fees,500000.0,450000.0,0.0,0.0,5500000.0,47082000.0,81,41,0.0,50000.0,41582000.0,1
+2020-01-01,2020-03-22,software consulting service payment,office snacks - monthly refill,500000.0,0.0,0.0,25000.0,5500000.0,47057000.0,81,34,25000.0,500000.0,41557000.0,1
+2020-01-01,2020-03-23,software consulting service payment,systems integration - final service payment,500000.0,1000000.0,0.0,0.0,5500000.0,48057000.0,82,62,0.0,500000.0,42557000.0,1
+2020-01-01,2020-03-23,software consulting service payment,office maintenance - electrical repairs,500000.0,0.0,0.0,70000.0,5500000.0,47987000.0,82,41,70000.0,500000.0,42487000.0,1
+2020-01-01,2020-03-23,software consulting service payment,marketing materials - brochure printing,500000.0,0.0,0.0,40000.0,5500000.0,47947000.0,82,46,40000.0,500000.0,42447000.0,1
+2020-01-01,2020-03-24,software consulting service payment,mobile application development - final payment,500000.0,1500000.0,0.0,0.0,5500000.0,49447000.0,83,47,0.0,1000000.0,43947000.0,1
+2020-01-01,2020-03-24,software consulting service payment,legal fees - contract negotiations,500000.0,0.0,0.0,150000.0,5500000.0,49297000.0,83,35,150000.0,500000.0,43797000.0,1
+2020-01-01,2020-03-24,software consulting service payment,staff bonuses - performance rewards,500000.0,0.0,0.0,200000.0,5500000.0,49097000.0,83,40,200000.0,500000.0,43597000.0,1
+2020-01-01,2020-03-25,software consulting service payment,devops automation - service payment,500000.0,750000.0,0.0,0.0,5500000.0,49847000.0,84,66,0.0,250000.0,44347000.0,1
+2020-01-01,2020-03-25,software consulting service payment,office cleaning services - monthly,500000.0,0.0,0.0,15000.0,5500000.0,49832000.0,84,61,15000.0,500000.0,44332000.0,1
+2020-01-01,2020-03-25,software consulting service payment,it equipment - new workstations,500000.0,0.0,0.0,350000.0,5500000.0,49482000.0,84,30,350000.0,500000.0,43982000.0,1
+2020-01-01,2020-03-26,software consulting service payment,custom software development - final payment,500000.0,1200000.0,0.0,0.0,5500000.0,50682000.0,85,56,0.0,700000.0,45182000.0,1
+2020-01-01,2020-03-26,software consulting service payment,freelancer payment - graphic designer,500000.0,0.0,0.0,100000.0,5500000.0,50582000.0,85,42,100000.0,500000.0,45082000.0,1
+2020-01-01,2020-03-26,software consulting service payment,business travel - client presentation,500000.0,0.0,0.0,75000.0,5500000.0,50507000.0,85,42,75000.0,500000.0,45007000.0,1
+2020-01-01,2020-03-27,software consulting service payment,software prototyping - service payment,500000.0,400000.0,0.0,0.0,5500000.0,50907000.0,86,82,0.0,100000.0,45407000.0,1
+2020-01-01,2020-03-27,software consulting service payment,marketing campaign - influencer collaboration,500000.0,0.0,0.0,250000.0,5500000.0,50657000.0,86,35,250000.0,500000.0,45157000.0,1
+2020-01-01,2020-03-27,software consulting service payment,office lease payment - april,500000.0,0.0,0.0,130000.0,5500000.0,50527000.0,86,48,130000.0,500000.0,45027000.0,1
+2020-01-01,2020-03-28,software consulting service payment,web application development - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,51527000.0,87,51,0.0,500000.0,46027000.0,1
+2020-01-01,2020-03-28,software consulting service payment,staff training - cloud service workshop,500000.0,0.0,0.0,200000.0,5500000.0,51327000.0,87,49,200000.0,500000.0,45827000.0,1
+2020-01-01,2020-03-28,software consulting service payment,it equipment - new servers,500000.0,0.0,0.0,500000.0,5500000.0,50827000.0,87,36,500000.0,500000.0,45327000.0,1
+2020-01-01,2020-03-29,software consulting service payment,mobile application development - client payment,500000.0,800000.0,0.0,0.0,5500000.0,51627000.0,88,49,0.0,300000.0,46127000.0,1
+2020-01-01,2020-03-29,software consulting service payment,legal expenses - patent filing,500000.0,0.0,0.0,100000.0,5500000.0,51527000.0,88,34,100000.0,500000.0,46027000.0,1
+2020-01-01,2020-03-29,software consulting service payment,office snacks - monthly refill,500000.0,0.0,0.0,30000.0,5500000.0,51497000.0,88,34,30000.0,500000.0,45997000.0,1
+2020-01-01,2020-03-30,software consulting service payment,custom software development - service payment,500000.0,700000.0,0.0,0.0,5500000.0,52197000.0,89,70,0.0,200000.0,46697000.0,1
+2020-01-01,2020-03-30,software consulting service payment,it support services - emergency fix,500000.0,0.0,0.0,250000.0,5500000.0,51947000.0,89,49,250000.0,500000.0,46447000.0,1
+2020-01-01,2020-03-30,software consulting service payment,staff health insurance - monthly premium,500000.0,0.0,0.0,50000.0,5500000.0,51897000.0,89,43,50000.0,500000.0,46397000.0,1
+2020-01-01,2020-03-31,software consulting service payment,devops automation - service subscription,500000.0,650000.0,0.0,0.0,5500000.0,52547000.0,90,48,0.0,150000.0,47047000.0,1
+2020-01-01,2020-03-31,software consulting service payment,software prototyping - client feedback payment,500000.0,500000.0,0.0,0.0,5500000.0,53047000.0,90,62,0.0,0.0,47547000.0,1
+2020-01-01,2020-03-31,software consulting service payment,office lease payment - may,500000.0,0.0,0.0,130000.0,5500000.0,52917000.0,90,49,130000.0,500000.0,47417000.0,1
+2020-01-01,2020-04-01,software consulting service payment,custom software development - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,53917000.0,91,58,0.0,500000.0,48417000.0,1
+2020-01-01,2020-04-01,software consulting service payment,artificial intelligence (ai) development - service fee,500000.0,0.0,0.0,200000.0,5500000.0,53717000.0,91,38,200000.0,500000.0,48217000.0,1
+2020-01-01,2020-04-01,software consulting service payment,office supplies - monthly refill,500000.0,0.0,0.0,50000.0,5500000.0,53667000.0,91,39,50000.0,500000.0,48167000.0,1
+2020-01-01,2020-04-02,software consulting service payment,bespoke software development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,54167000.0,92,57,0.0,0.0,48667000.0,1
+2020-01-01,2020-04-02,software consulting service payment,custom crm development - final payment,500000.0,700000.0,0.0,0.0,5500000.0,54867000.0,92,47,0.0,200000.0,49367000.0,1
+2020-01-01,2020-04-02,software consulting service payment,it hardware purchase - laptops for staff,500000.0,0.0,0.0,350000.0,5500000.0,54517000.0,92,37,350000.0,500000.0,49017000.0,1
+2020-01-01,2020-04-03,software consulting service payment,erp - service payment,500000.0,1200000.0,0.0,0.0,5500000.0,55717000.0,93,64,0.0,700000.0,50217000.0,1
+2020-01-01,2020-04-03,software consulting service payment,warehouse management system - final payment,500000.0,800000.0,0.0,0.0,5500000.0,56517000.0,93,51,0.0,300000.0,51017000.0,1
+2020-01-01,2020-04-03,software consulting service payment,software subscription fees - cloud hosting,500000.0,0.0,0.0,150000.0,5500000.0,56367000.0,93,49,150000.0,500000.0,50867000.0,1
+2020-01-01,2020-04-04,software consulting service payment,custom software development - client payment,500000.0,900000.0,0.0,0.0,5500000.0,57267000.0,94,58,0.0,400000.0,51767000.0,1
+2020-01-01,2020-04-04,software consulting service payment,erp - service subscription,500000.0,0.0,0.0,250000.0,5500000.0,57017000.0,94,43,250000.0,500000.0,51517000.0,1
+2020-01-01,2020-04-04,software consulting service payment,business travel - client meeting,500000.0,0.0,0.0,100000.0,5500000.0,56917000.0,94,39,100000.0,500000.0,51417000.0,1
+2020-01-01,2020-04-05,software consulting service payment,artificial intelligence (ai) development - final payment,500000.0,750000.0,0.0,0.0,5500000.0,57667000.0,95,42,0.0,250000.0,52167000.0,1
+2020-01-01,2020-04-05,software consulting service payment,bespoke software development - project completion,500000.0,1100000.0,0.0,0.0,5500000.0,58767000.0,95,45,0.0,600000.0,53267000.0,1
+2020-01-01,2020-04-05,software consulting service payment,marketing campaign - google ads,500000.0,0.0,0.0,200000.0,5500000.0,58567000.0,95,36,200000.0,500000.0,53067000.0,1
+2020-01-01,2020-04-06,software consulting service payment,custom crm development - monthly subscription,500000.0,0.0,0.0,80000.0,5500000.0,58487000.0,96,35,80000.0,500000.0,52987000.0,1
+2020-01-01,2020-04-06,software consulting service payment,erp - final service fee,500000.0,500000.0,0.0,0.0,5500000.0,58987000.0,96,48,0.0,0.0,53487000.0,1
+2020-01-01,2020-04-06,software consulting service payment,office lease payment - may,500000.0,0.0,0.0,120000.0,5500000.0,58867000.0,96,49,120000.0,500000.0,53367000.0,1
+2020-01-01,2020-04-07,software consulting service payment,custom software development - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,59867000.0,97,58,0.0,500000.0,54367000.0,1
+2020-01-01,2020-04-07,software consulting service payment,warehouse management system - service payment,500000.0,600000.0,0.0,0.0,5500000.0,60467000.0,97,60,0.0,100000.0,54967000.0,1
+2020-01-01,2020-04-07,software consulting service payment,office maintenance - electrical repairs,500000.0,0.0,0.0,50000.0,5500000.0,60417000.0,97,41,50000.0,500000.0,54917000.0,1
+2020-01-01,2020-04-08,software consulting service payment,artificial intelligence (ai) development - service subscription,500000.0,0.0,0.0,250000.0,5500000.0,60167000.0,98,37,250000.0,500000.0,54667000.0,1
+2020-01-01,2020-04-08,software consulting service payment,custom crm development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,60617000.0,98,49,0.0,50000.0,55117000.0,1
+2020-01-01,2020-04-08,software consulting service payment,it support - server maintenance,500000.0,0.0,0.0,150000.0,5500000.0,60467000.0,98,45,150000.0,500000.0,54967000.0,1
+2020-01-01,2020-04-09,software consulting service payment,erp - monthly service subscription,500000.0,0.0,0.0,300000.0,5500000.0,60167000.0,99,46,300000.0,500000.0,54667000.0,1
+2020-01-01,2020-04-09,software consulting service payment,bespoke software development - service payment,500000.0,750000.0,0.0,0.0,5500000.0,60917000.0,99,69,0.0,250000.0,55417000.0,1
+2020-01-01,2020-04-09,software consulting service payment,marketing campaign - website ads,500000.0,0.0,0.0,180000.0,5500000.0,60737000.0,99,39,180000.0,500000.0,55237000.0,1
+2020-01-01,2020-04-10,software consulting service payment,custom software development - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,61737000.0,100,58,0.0,500000.0,56237000.0,1
+2020-01-01,2020-04-10,software consulting service payment,warehouse management system - monthly service,500000.0,0.0,0.0,100000.0,5500000.0,61637000.0,100,43,100000.0,500000.0,56137000.0,1
+2020-01-01,2020-04-10,software consulting service payment,legal fees - contract drafting,500000.0,0.0,0.0,200000.0,5500000.0,61437000.0,100,37,200000.0,500000.0,55937000.0,1
+2020-01-01,2020-04-11,software consulting service payment,artificial intelligence (ai) development - final payment,500000.0,600000.0,0.0,0.0,5500000.0,62037000.0,101,42,0.0,100000.0,56537000.0,1
+2020-01-01,2020-04-11,software consulting service payment,custom crm development - client payment,500000.0,700000.0,0.0,0.0,5500000.0,62737000.0,101,49,0.0,200000.0,57237000.0,1
+2020-01-01,2020-04-11,software consulting service payment,office supplies - printer ink,500000.0,0.0,0.0,30000.0,5500000.0,62707000.0,101,44,30000.0,500000.0,57207000.0,1
+2020-01-01,2020-04-12,software consulting service payment,erp - service payment,500000.0,1500000.0,0.0,0.0,5500000.0,64207000.0,102,64,0.0,1000000.0,58707000.0,1
+2020-01-01,2020-04-12,software consulting service payment,bespoke software development - client payment,500000.0,850000.0,0.0,0.0,5500000.0,65057000.0,102,57,0.0,350000.0,59557000.0,1
+2020-01-01,2020-04-12,software consulting service payment,it equipment - monitors for staff,500000.0,0.0,0.0,250000.0,5500000.0,64807000.0,102,29,250000.0,500000.0,59307000.0,1
+2020-01-01,2020-04-13,software consulting service payment,custom software development - client payment,500000.0,900000.0,0.0,0.0,5500000.0,65707000.0,103,58,0.0,400000.0,60207000.0,1
+2020-01-01,2020-04-13,software consulting service payment,warehouse management system - software update,500000.0,0.0,0.0,200000.0,5500000.0,65507000.0,103,43,200000.0,500000.0,60007000.0,1
+2020-01-01,2020-04-13,software consulting service payment,marketing campaign - influencer promotion,500000.0,0.0,0.0,120000.0,5500000.0,65387000.0,103,39,120000.0,500000.0,59887000.0,1
+2020-01-01,2020-04-14,software consulting service payment,custom software development - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,66387000.0,104,58,0.0,500000.0,60887000.0,1
+2020-01-01,2020-04-14,software consulting service payment,inventory management system - service payment,500000.0,800000.0,0.0,0.0,5500000.0,67187000.0,104,55,0.0,300000.0,61687000.0,1
+2020-01-01,2020-04-14,software consulting service payment,office furniture purchase,500000.0,0.0,0.0,150000.0,5500000.0,67037000.0,104,40,150000.0,500000.0,61537000.0,1
+2020-01-01,2020-04-15,software consulting service payment,artificial intelligence (ai) development - final payment,500000.0,650000.0,0.0,0.0,5500000.0,67687000.0,105,42,0.0,150000.0,62187000.0,1
+2020-01-01,2020-04-15,software consulting service payment,custom crm development - monthly service fee,500000.0,0.0,0.0,100000.0,5500000.0,67587000.0,105,46,100000.0,500000.0,62087000.0,1
+2020-01-01,2020-04-15,software consulting service payment,marketing campaign - email marketing,500000.0,0.0,0.0,80000.0,5500000.0,67507000.0,105,39,80000.0,500000.0,62007000.0,1
+2020-01-01,2020-04-16,software consulting service payment,erp - service payment,500000.0,1000000.0,0.0,0.0,5500000.0,68507000.0,106,64,0.0,500000.0,63007000.0,1
+2020-01-01,2020-04-16,software consulting service payment,bespoke software development - final payment,500000.0,900000.0,0.0,0.0,5500000.0,69407000.0,106,56,0.0,400000.0,63907000.0,1
+2020-01-01,2020-04-16,software consulting service payment,it support - monthly maintenance,500000.0,0.0,0.0,120000.0,5500000.0,69287000.0,106,36,120000.0,500000.0,63787000.0,1
+2020-01-01,2020-04-17,software consulting service payment,custom software development - client payment,500000.0,1100000.0,0.0,0.0,5500000.0,70387000.0,107,58,0.0,600000.0,64887000.0,1
+2020-01-01,2020-04-17,software consulting service payment,warehouse management system - monthly fee,500000.0,0.0,0.0,180000.0,5500000.0,70207000.0,107,39,180000.0,500000.0,64707000.0,1
+2020-01-01,2020-04-17,software consulting service payment,staff training - software tools,500000.0,0.0,0.0,75000.0,5500000.0,70132000.0,107,42,75000.0,500000.0,64632000.0,1
+2020-01-01,2020-04-18,software consulting service payment,artificial intelligence (ai) development - new project,500000.0,500000.0,0.0,0.0,5500000.0,70632000.0,108,36,0.0,0.0,65132000.0,1
+2020-01-01,2020-04-18,software consulting service payment,custom crm development - project fee,500000.0,650000.0,0.0,0.0,5500000.0,71282000.0,108,37,0.0,150000.0,65782000.0,1
+2020-01-01,2020-04-18,software consulting service payment,office utilities - water and electricity bills,500000.0,0.0,0.0,60000.0,5500000.0,71222000.0,108,37,60000.0,500000.0,65722000.0,1
+2020-01-01,2020-04-19,software consulting service payment,erp - customization service payment,500000.0,1200000.0,0.0,0.0,5500000.0,72422000.0,109,66,0.0,700000.0,66922000.0,1
+2020-01-01,2020-04-19,software consulting service payment,inventory management system - software upgrade,500000.0,500000.0,0.0,0.0,5500000.0,72922000.0,109,35,0.0,0.0,67422000.0,1
+2020-01-01,2020-04-19,software consulting service payment,legal fees - licensing,500000.0,0.0,0.0,150000.0,5500000.0,72772000.0,109,32,150000.0,500000.0,67272000.0,1
+2020-01-01,2020-04-20,software consulting service payment,custom software development - client payment,500000.0,900000.0,0.0,0.0,5500000.0,73672000.0,110,58,0.0,400000.0,68172000.0,1
+2020-01-01,2020-04-20,software consulting service payment,warehouse management system - training payment,500000.0,0.0,0.0,200000.0,5500000.0,73472000.0,110,52,200000.0,500000.0,67972000.0,1
+2020-01-01,2020-04-20,software consulting service payment,it equipment - servers,500000.0,0.0,0.0,400000.0,5500000.0,73072000.0,110,39,400000.0,500000.0,67572000.0,1
+2020-01-01,2020-04-21,software consulting service payment,artificial intelligence (ai) development - project fee,500000.0,600000.0,0.0,0.0,5500000.0,73672000.0,111,36,0.0,100000.0,68172000.0,1
+2020-01-01,2020-04-21,software consulting service payment,custom crm development - client payment,500000.0,800000.0,0.0,0.0,5500000.0,74472000.0,111,49,0.0,300000.0,68972000.0,1
+2020-01-01,2020-04-21,software consulting service payment,office snacks and beverages - monthly refill,500000.0,0.0,0.0,50000.0,5500000.0,74422000.0,111,38,50000.0,500000.0,68922000.0,1
+2020-01-01,2020-04-22,software consulting service payment,erp - implementation service payment,500000.0,1100000.0,0.0,0.0,5500000.0,75522000.0,112,62,0.0,600000.0,70022000.0,1
+2020-01-01,2020-04-22,software consulting service payment,bespoke software development - client payment,500000.0,750000.0,0.0,0.0,5500000.0,76272000.0,112,57,0.0,250000.0,70772000.0,1
+2020-01-01,2020-04-22,software consulting service payment,cloud storage service fee - monthly,500000.0,0.0,0.0,80000.0,5500000.0,76192000.0,112,49,80000.0,500000.0,70692000.0,1
+2020-01-01,2020-04-23,software consulting service payment,custom software development - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,77392000.0,113,58,0.0,700000.0,71892000.0,1
+2020-01-01,2020-04-23,software consulting service payment,inventory management system - maintenance fee,500000.0,0.0,0.0,150000.0,5500000.0,77242000.0,113,32,150000.0,500000.0,71742000.0,1
+2020-01-01,2020-04-23,software consulting service payment,staff bonus - quarterly performance,500000.0,0.0,0.0,200000.0,5500000.0,77042000.0,113,43,200000.0,500000.0,71542000.0,1
+2020-01-01,2020-04-24,software consulting service payment,artificial intelligence (ai) development - final payment,500000.0,700000.0,0.0,0.0,5500000.0,77742000.0,114,42,0.0,200000.0,72242000.0,1
+2020-01-01,2020-04-24,software consulting service payment,erp - licensing renewal,500000.0,0.0,0.0,400000.0,5500000.0,77342000.0,114,41,400000.0,500000.0,71842000.0,1
+2020-01-01,2020-04-24,software consulting service payment,office lease payment - may,500000.0,0.0,0.0,120000.0,5500000.0,77222000.0,114,49,120000.0,500000.0,71722000.0,1
+2020-01-01,2020-04-25,software consulting service payment,custom crm development - client payment,500000.0,900000.0,0.0,0.0,5500000.0,78122000.0,115,49,0.0,400000.0,72622000.0,1
+2020-01-01,2020-04-25,software consulting service payment,bespoke software development - service payment,500000.0,850000.0,0.0,0.0,5500000.0,78972000.0,115,69,0.0,350000.0,73472000.0,1
+2020-01-01,2020-04-25,software consulting service payment,staff welfare fund - annual contribution,500000.0,0.0,0.0,50000.0,5500000.0,78922000.0,115,37,50000.0,500000.0,73422000.0,1
+2020-01-01,2020-04-26,software consulting service payment,custom software development - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,79922000.0,116,58,0.0,500000.0,74422000.0,1
+2020-01-01,2020-04-26,software consulting service payment,erp - maintenance service,500000.0,0.0,0.0,250000.0,5500000.0,79672000.0,116,43,250000.0,500000.0,74172000.0,1
+2020-01-01,2020-04-26,software consulting service payment,marketing campaign - influencer payment,500000.0,0.0,0.0,120000.0,5500000.0,79552000.0,116,51,120000.0,500000.0,74052000.0,1
+2020-01-01,2020-04-27,software consulting service payment,artificial intelligence (ai) development - service fee,500000.0,600000.0,0.0,0.0,5500000.0,80152000.0,117,38,0.0,100000.0,74652000.0,1
+2020-01-01,2020-04-27,software consulting service payment,inventory management system - setup payment,500000.0,500000.0,0.0,0.0,5500000.0,80652000.0,117,44,0.0,0.0,75152000.0,1
+2020-01-01,2020-04-27,software consulting service payment,office equipment - desks & chairs,500000.0,0.0,0.0,150000.0,5500000.0,80502000.0,117,32,150000.0,500000.0,75002000.0,1
+2020-01-01,2020-04-28,software consulting service payment,custom crm development - final payment,500000.0,750000.0,0.0,0.0,5500000.0,81252000.0,118,47,0.0,250000.0,75752000.0,1
+2020-01-01,2020-04-28,software consulting service payment,erp - customization service,500000.0,0.0,0.0,100000.0,5500000.0,81152000.0,118,48,100000.0,500000.0,75652000.0,1
+2020-01-01,2020-04-28,software consulting service payment,business consulting service fee,500000.0,0.0,0.0,200000.0,5500000.0,80952000.0,118,70,200000.0,500000.0,75452000.0,1
+2020-01-01,2020-04-29,software consulting service payment,bespoke software development - final payment,500000.0,800000.0,0.0,0.0,5500000.0,81752000.0,119,56,0.0,300000.0,76252000.0,1
+2020-01-01,2020-04-29,software consulting service payment,custom software development - final payment,500000.0,900000.0,0.0,0.0,5500000.0,82652000.0,119,56,0.0,400000.0,77152000.0,1
+2020-01-01,2020-04-29,software consulting service payment,it hardware purchase - servers,500000.0,0.0,0.0,500000.0,5500000.0,82152000.0,119,43,500000.0,500000.0,76652000.0,1
+2020-01-01,2020-04-30,software consulting service payment,custom software development - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,83352000.0,120,58,0.0,700000.0,77852000.0,1
+2020-01-01,2020-04-30,software consulting service payment,erp - customization service payment,500000.0,0.0,0.0,300000.0,5500000.0,83052000.0,120,66,300000.0,500000.0,77552000.0,1
+2020-01-01,2020-04-30,software consulting service payment,office rent - final payment,500000.0,0.0,0.0,350000.0,5500000.0,82702000.0,120,52,350000.0,500000.0,77202000.0,1
+2020-01-01,2020-05-01,software consulting service payment,custom software development - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,84202000.0,121,58,0.0,1000000.0,78702000.0,1
+2020-01-01,2020-05-01,software consulting service payment,software licenses - renewal payment,500000.0,0.0,0.0,250000.0,5500000.0,83952000.0,121,69,250000.0,500000.0,78452000.0,1
+2020-01-01,2020-05-02,software consulting service payment,artificial intelligence development - contract,500000.0,2000000.0,0.0,0.0,5500000.0,85952000.0,122,40,0.0,1500000.0,80452000.0,1
+2020-01-01,2020-05-02,software consulting service payment,cloud computing - subscription fees,500000.0,0.0,0.0,200000.0,5500000.0,85752000.0,122,43,200000.0,500000.0,80252000.0,1
+2020-01-01,2020-05-03,software consulting service payment,bespoke software development - client deposit,500000.0,500000.0,0.0,0.0,5500000.0,86252000.0,123,45,0.0,0.0,80752000.0,1
+2020-01-01,2020-05-03,software consulting service payment,office utilities - water and electricity bills,500000.0,0.0,0.0,30000.0,5500000.0,86222000.0,123,37,30000.0,500000.0,80722000.0,1
+2020-01-01,2020-05-04,software consulting service payment,custom crm development - advance payment,500000.0,1000000.0,0.0,0.0,5500000.0,87222000.0,124,51,0.0,500000.0,81722000.0,1
+2020-01-01,2020-05-04,software consulting service payment,it equipment purchase - new servers,500000.0,0.0,0.0,500000.0,5500000.0,86722000.0,124,34,500000.0,500000.0,81222000.0,1
+2020-01-01,2020-05-05,software consulting service payment,warehouse management system - payment received,500000.0,750000.0,0.0,0.0,5500000.0,87472000.0,125,47,0.0,250000.0,81972000.0,1
+2020-01-01,2020-05-05,software consulting service payment,internet and communication services - office,500000.0,0.0,0.0,35000.0,5500000.0,87437000.0,125,51,35000.0,500000.0,81937000.0,1
+2020-01-01,2020-05-06,software consulting service payment,erp - implementation services - payment,500000.0,1250000.0,0.0,0.0,5500000.0,88687000.0,126,59,0.0,750000.0,83187000.0,1
+2020-01-01,2020-05-06,software consulting service payment,business travel - conference participation,500000.0,0.0,0.0,100000.0,5500000.0,88587000.0,126,42,100000.0,500000.0,83087000.0,1
+2020-01-01,2020-05-07,software consulting service payment,custom software development - final payment,500000.0,1750000.0,0.0,0.0,5500000.0,90337000.0,127,56,0.0,1250000.0,84837000.0,1
+2020-01-01,2020-05-07,software consulting service payment,freelancer payment - front-end developer,500000.0,0.0,0.0,150000.0,5500000.0,90187000.0,127,40,150000.0,500000.0,84687000.0,1
+2020-01-01,2020-05-08,software consulting service payment,cloud computing - additional services payment,500000.0,500000.0,0.0,0.0,5500000.0,90687000.0,128,62,0.0,0.0,85187000.0,1
+2020-01-01,2020-05-08,software consulting service payment,office snacks and supplies - monthly refill,500000.0,0.0,0.0,25000.0,5500000.0,90662000.0,128,38,25000.0,500000.0,85162000.0,1
+2020-01-01,2020-05-09,software consulting service payment,software prototyping - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,91662000.0,129,69,0.0,500000.0,86162000.0,1
+2020-01-01,2020-05-09,software consulting service payment,staff training program - workshop fees,500000.0,0.0,0.0,75000.0,5500000.0,91587000.0,129,36,75000.0,500000.0,86087000.0,1
+2020-01-01,2020-05-10,software consulting service payment,devops automation - service payment,500000.0,750000.0,0.0,0.0,5500000.0,92337000.0,130,66,0.0,250000.0,86837000.0,1
+2020-01-01,2020-05-10,software consulting service payment,business consulting - retainer payment,500000.0,0.0,0.0,200000.0,5500000.0,92137000.0,130,68,200000.0,500000.0,86637000.0,1
+2020-01-01,2020-05-11,software consulting service payment,web application development - milestone payment,500000.0,1500000.0,0.0,0.0,5500000.0,93637000.0,131,49,0.0,1000000.0,88137000.0,1
+2020-01-01,2020-05-11,software consulting service payment,marketing campaign - paid ads,500000.0,0.0,0.0,120000.0,5500000.0,93517000.0,131,38,120000.0,500000.0,88017000.0,1
+2020-01-01,2020-05-12,software consulting service payment,mobile application development - payment,500000.0,2000000.0,0.0,0.0,5500000.0,95517000.0,132,51,0.0,1500000.0,90017000.0,1
+2020-01-01,2020-05-12,software consulting service payment,office furniture - new equipment purchase,500000.0,0.0,0.0,300000.0,5500000.0,95217000.0,132,39,300000.0,500000.0,89717000.0,1
+2020-01-01,2020-05-13,software consulting service payment,artificial intelligence development - client payment,500000.0,1250000.0,0.0,0.0,5500000.0,96467000.0,133,46,0.0,750000.0,90967000.0,1
+2020-01-01,2020-05-13,software consulting service payment,legal expenses - ip protection,500000.0,0.0,0.0,150000.0,5500000.0,96317000.0,133,31,150000.0,500000.0,90817000.0,1
+2020-01-01,2020-05-14,software consulting service payment,custom software development - payment received,500000.0,1000000.0,0.0,0.0,5500000.0,97317000.0,134,52,0.0,500000.0,91817000.0,1
+2020-01-01,2020-05-14,software consulting service payment,it hardware purchase - networking equipment,500000.0,0.0,0.0,500000.0,5500000.0,96817000.0,134,51,500000.0,500000.0,91317000.0,1
+2020-01-01,2020-05-15,software consulting service payment,bespoke software development - client payment,500000.0,800000.0,0.0,0.0,5500000.0,97617000.0,135,57,0.0,300000.0,92117000.0,1
+2020-01-01,2020-05-15,software consulting service payment,staff salary payment - monthly,500000.0,0.0,0.0,1000000.0,5500000.0,96617000.0,135,46,1000000.0,500000.0,91117000.0,1
+2020-01-01,2020-05-16,software consulting service payment,cloud computing - subscription renewal,500000.0,500000.0,0.0,0.0,5500000.0,97117000.0,136,44,0.0,0.0,91617000.0,1
+2020-01-01,2020-05-16,software consulting service payment,office rent - monthly payment,500000.0,0.0,0.0,600000.0,5500000.0,96517000.0,136,50,600000.0,500000.0,91017000.0,1
+2020-01-01,2020-05-17,software consulting service payment,quality assurance - service payment,500000.0,600000.0,0.0,0.0,5500000.0,97117000.0,137,60,0.0,100000.0,91617000.0,1
+2020-01-01,2020-05-17,software consulting service payment,travel costs - business trip,500000.0,0.0,0.0,150000.0,5500000.0,96967000.0,137,44,150000.0,500000.0,91467000.0,1
+2020-01-01,2020-05-18,software consulting service payment,software prototyping - client invoice,500000.0,1200000.0,0.0,0.0,5500000.0,98167000.0,138,56,0.0,700000.0,92667000.0,1
+2020-01-01,2020-05-18,software consulting service payment,marketing expenses - paid campaign,500000.0,0.0,0.0,200000.0,5500000.0,97967000.0,138,43,200000.0,500000.0,92467000.0,1
+2020-01-01,2020-05-19,software consulting service payment,web application development - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,99467000.0,139,51,0.0,1000000.0,93967000.0,1
+2020-01-01,2020-05-19,software consulting service payment,office supplies - monthly purchase,500000.0,0.0,0.0,50000.0,5500000.0,99417000.0,139,41,50000.0,500000.0,93917000.0,1
+2020-01-01,2020-05-20,software consulting service payment,mobile application development - final payment,500000.0,1000000.0,0.0,0.0,5500000.0,100417000.0,140,47,0.0,500000.0,94917000.0,1
+2020-01-01,2020-05-20,software consulting service payment,staff benefits - health insurance,500000.0,0.0,0.0,250000.0,5500000.0,100167000.0,140,41,250000.0,500000.0,94667000.0,1
+2020-01-01,2020-05-21,software consulting service payment,erp - custom module development payment,500000.0,1200000.0,0.0,0.0,5500000.0,101367000.0,141,49,0.0,700000.0,95867000.0,1
+2020-01-01,2020-05-21,software consulting service payment,advertising campaign - sponsorship fee,500000.0,0.0,0.0,100000.0,5500000.0,101267000.0,141,33,100000.0,500000.0,95767000.0,1
+2020-01-01,2020-05-22,software consulting service payment,warehouse management system - final payment,500000.0,1500000.0,0.0,0.0,5500000.0,102767000.0,142,51,0.0,1000000.0,97267000.0,1
+2020-01-01,2020-05-22,software consulting service payment,office cleaning - service payment,500000.0,0.0,0.0,50000.0,5500000.0,102717000.0,142,74,50000.0,500000.0,97217000.0,1
+2020-01-01,2020-05-23,software consulting service payment,custom crm development - payment,500000.0,1500000.0,0.0,0.0,5500000.0,104217000.0,143,48,0.0,1000000.0,98717000.0,1
+2020-01-01,2020-05-23,software consulting service payment,utility bills - office payment,500000.0,0.0,0.0,75000.0,5500000.0,104142000.0,143,49,75000.0,500000.0,98642000.0,1
+2020-01-01,2020-05-24,software consulting service payment,bespoke software development - final payment,500000.0,1000000.0,0.0,0.0,5500000.0,105142000.0,144,56,0.0,500000.0,99642000.0,1
+2020-01-01,2020-05-24,software consulting service payment,office furniture - chairs and desks,500000.0,0.0,0.0,150000.0,5500000.0,104992000.0,144,34,150000.0,500000.0,99492000.0,1
+2020-01-01,2020-05-25,software consulting service payment,artificial intelligence development - service fee,500000.0,1200000.0,0.0,0.0,5500000.0,106192000.0,145,40,0.0,700000.0,100692000.0,1
+2020-01-01,2020-05-25,software consulting service payment,business expenses - monthly office costs,500000.0,0.0,0.0,200000.0,5500000.0,105992000.0,145,32,200000.0,500000.0,100492000.0,1
+2020-01-01,2020-05-26,software consulting service payment,software licensing fee - payment,500000.0,1000000.0,0.0,0.0,5500000.0,106992000.0,146,78,0.0,500000.0,101492000.0,1
+2020-01-01,2020-05-26,software consulting service payment,staff salaries - additional payment,500000.0,0.0,0.0,500000.0,5500000.0,106492000.0,146,49,500000.0,500000.0,100992000.0,1
+2020-01-01,2020-05-27,software consulting service payment,erp system update - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,107992000.0,147,49,0.0,1000000.0,102492000.0,1
+2020-01-01,2020-05-27,software consulting service payment,office rent - final payment for month,500000.0,0.0,0.0,300000.0,5500000.0,107692000.0,147,44,300000.0,500000.0,102192000.0,1
+2020-01-01,2020-05-28,software consulting service payment,custom software development - additional payment,500000.0,2000000.0,0.0,0.0,5500000.0,109692000.0,148,53,0.0,1500000.0,104192000.0,1
+2020-01-01,2020-05-28,software consulting service payment,marketing campaign - sponsored content,500000.0,0.0,0.0,150000.0,5500000.0,109542000.0,148,41,150000.0,500000.0,104042000.0,1
+2020-01-01,2020-05-29,software consulting service payment,mobile app development - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,111042000.0,149,46,0.0,1000000.0,105542000.0,1
+2020-01-01,2020-05-29,software consulting service payment,office equipment - new printers,500000.0,0.0,0.0,200000.0,5500000.0,110842000.0,149,39,200000.0,500000.0,105342000.0,1
+2020-01-01,2020-05-30,software consulting service payment,custom software development - payment,500000.0,1000000.0,0.0,0.0,5500000.0,111842000.0,150,58,0.0,500000.0,106342000.0,1
+2020-01-01,2020-05-30,software consulting service payment,staff benefits - medical insurance payments,500000.0,0.0,0.0,100000.0,5500000.0,111742000.0,150,54,100000.0,500000.0,106242000.0,1
+2020-01-01,2020-06-01,software consulting service payment,custom software development - payment,500000.0,1500000.0,0.0,0.0,5500000.0,113242000.0,152,58,0.0,1000000.0,107742000.0,1
+2020-01-01,2020-06-01,software consulting service payment,office supplies - purchase,500000.0,0.0,0.0,75000.0,5500000.0,113167000.0,152,43,75000.0,500000.0,107667000.0,1
+2020-01-01,2020-06-02,software consulting service payment,erp - system upgrade payment,500000.0,1000000.0,0.0,0.0,5500000.0,114167000.0,153,51,0.0,500000.0,108667000.0,1
+2020-01-01,2020-06-02,software consulting service payment,office rent - monthly payment,500000.0,0.0,0.0,500000.0,5500000.0,113667000.0,153,50,500000.0,500000.0,108167000.0,1
+2020-01-01,2020-06-03,software consulting service payment,mobile app development - payment,500000.0,1200000.0,0.0,0.0,5500000.0,114867000.0,154,45,0.0,700000.0,109367000.0,1
+2020-01-01,2020-06-03,software consulting service payment,travel expenses - business trip,500000.0,0.0,0.0,150000.0,5500000.0,114717000.0,154,39,150000.0,500000.0,109217000.0,1
+2020-01-01,2020-06-04,software consulting service payment,cloud computing - service subscription,500000.0,500000.0,0.0,0.0,5500000.0,115217000.0,155,55,0.0,0.0,109717000.0,1
+2020-01-01,2020-06-04,software consulting service payment,staff salaries - monthly payment,500000.0,0.0,0.0,2000000.0,5500000.0,113217000.0,155,51,2000000.0,500000.0,107717000.0,1
+2020-01-01,2020-06-05,software consulting service payment,quality assurance - service payment,500000.0,600000.0,0.0,0.0,5500000.0,113817000.0,156,60,0.0,100000.0,108317000.0,1
+2020-01-01,2020-06-05,software consulting service payment,marketing expenses - sponsored ads,500000.0,0.0,0.0,100000.0,5500000.0,113717000.0,156,41,100000.0,500000.0,108217000.0,1
+2020-01-01,2020-06-06,software consulting service payment,devops automation - service fee,500000.0,1000000.0,0.0,0.0,5500000.0,114717000.0,157,52,0.0,500000.0,109217000.0,1
+2020-01-01,2020-06-06,software consulting service payment,office furniture - purchase,500000.0,0.0,0.0,300000.0,5500000.0,114417000.0,157,39,300000.0,500000.0,108917000.0,1
+2020-01-01,2020-06-07,software consulting service payment,web application development - payment,500000.0,2000000.0,0.0,0.0,5500000.0,116417000.0,158,53,0.0,1500000.0,110917000.0,1
+2020-01-01,2020-06-07,software consulting service payment,legal fees - ip protection,500000.0,0.0,0.0,150000.0,5500000.0,116267000.0,158,30,150000.0,500000.0,110767000.0,1
+2020-01-01,2020-06-08,software consulting service payment,custom software development - payment,500000.0,1500000.0,0.0,0.0,5500000.0,117767000.0,159,58,0.0,1000000.0,112267000.0,1
+2020-01-01,2020-06-08,software consulting service payment,software licensing - renewal,500000.0,0.0,0.0,200000.0,5500000.0,117567000.0,159,60,200000.0,500000.0,112067000.0,1
+2020-01-01,2020-06-09,software consulting service payment,mobile application development - payment,500000.0,1000000.0,0.0,0.0,5500000.0,118567000.0,160,51,0.0,500000.0,113067000.0,1
+2020-01-01,2020-06-09,software consulting service payment,staff bonuses - monthly,500000.0,0.0,0.0,500000.0,5500000.0,118067000.0,160,45,500000.0,500000.0,112567000.0,1
+2020-01-01,2020-06-10,software consulting service payment,cloud computing - service renewal,500000.0,500000.0,0.0,0.0,5500000.0,118567000.0,161,59,0.0,0.0,113067000.0,1
+2020-01-01,2020-06-10,software consulting service payment,office supplies - monthly purchase,500000.0,0.0,0.0,50000.0,5500000.0,118517000.0,161,41,50000.0,500000.0,113017000.0,1
+2020-01-01,2020-06-11,software consulting service payment,software prototyping - payment,500000.0,800000.0,0.0,0.0,5500000.0,119317000.0,162,71,0.0,300000.0,113817000.0,1
+2020-01-01,2020-06-11,software consulting service payment,office rent - additional payment,500000.0,0.0,0.0,300000.0,5500000.0,119017000.0,162,48,300000.0,500000.0,113517000.0,1
+2020-01-01,2020-06-12,software consulting service payment,artificial intelligence - service payment,500000.0,1000000.0,0.0,0.0,5500000.0,120017000.0,163,61,0.0,500000.0,114517000.0,1
+2020-01-01,2020-06-12,software consulting service payment,staff training program - monthly fee,500000.0,0.0,0.0,150000.0,5500000.0,119867000.0,163,39,150000.0,500000.0,114367000.0,1
+2020-01-01,2020-06-13,software consulting service payment,warehouse management system - payment,500000.0,1200000.0,0.0,0.0,5500000.0,121067000.0,164,53,0.0,700000.0,115567000.0,1
+2020-01-01,2020-06-13,software consulting service payment,business travel - flight costs,500000.0,0.0,0.0,200000.0,5500000.0,120867000.0,164,34,200000.0,500000.0,115367000.0,1
+2020-01-01,2020-06-14,software consulting service payment,bespoke software development - payment,500000.0,1500000.0,0.0,0.0,5500000.0,122367000.0,165,58,0.0,1000000.0,116867000.0,1
+2020-01-01,2020-06-14,software consulting service payment,it infrastructure - hardware purchase,500000.0,0.0,0.0,1000000.0,5500000.0,121367000.0,165,36,1000000.0,500000.0,115867000.0,1
+2020-01-01,2020-06-15,software consulting service payment,cloud computing - subscription fee,500000.0,1000000.0,0.0,0.0,5500000.0,122367000.0,166,43,0.0,500000.0,116867000.0,1
+2020-01-01,2020-06-15,software consulting service payment,staff salaries - additional payment,500000.0,0.0,0.0,3000000.0,5500000.0,119367000.0,166,49,3000000.0,500000.0,113867000.0,1
+2020-01-01,2020-06-16,software consulting service payment,custom crm development - final payment,500000.0,1500000.0,0.0,0.0,5500000.0,120867000.0,167,47,0.0,1000000.0,115367000.0,1
+2020-01-01,2020-06-16,software consulting service payment,travel expenses - business expenses,500000.0,0.0,0.0,500000.0,5500000.0,120367000.0,167,40,500000.0,500000.0,114867000.0,1
+2020-01-01,2020-06-17,software consulting service payment,mobile app development - final payment,500000.0,1000000.0,0.0,0.0,5500000.0,121367000.0,168,44,0.0,500000.0,115867000.0,1
+2020-01-01,2020-06-17,software consulting service payment,office rent - final payment for the month,500000.0,0.0,0.0,600000.0,5500000.0,120767000.0,168,42,600000.0,500000.0,115267000.0,1
+2020-01-01,2020-06-18,software consulting service payment,web application development - final payment,500000.0,1200000.0,0.0,0.0,5500000.0,121967000.0,169,49,0.0,700000.0,116467000.0,1
+2020-01-01,2020-06-18,software consulting service payment,office supplies - monthly purchase,500000.0,0.0,0.0,250000.0,5500000.0,121717000.0,169,41,250000.0,500000.0,116217000.0,1
+2020-01-01,2020-06-19,software consulting service payment,erp - custom module payment,500000.0,1000000.0,0.0,0.0,5500000.0,122717000.0,170,48,0.0,500000.0,117217000.0,1
+2020-01-01,2020-06-19,software consulting service payment,legal fees - contract review,500000.0,0.0,0.0,150000.0,5500000.0,122567000.0,170,38,150000.0,500000.0,117067000.0,1
+2020-01-01,2020-06-20,software consulting service payment,staff salaries - additional payment,500000.0,0.0,0.0,3000000.0,5500000.0,119567000.0,171,49,3000000.0,500000.0,114067000.0,1
+2020-01-01,2020-06-20,software consulting service payment,cloud computing - subscription fee,500000.0,0.0,0.0,1000000.0,5500000.0,118567000.0,171,43,1000000.0,500000.0,113067000.0,1
+2020-01-01,2020-06-21,software consulting service payment,mobile app development - payment,500000.0,500000.0,0.0,0.0,5500000.0,119067000.0,172,45,0.0,0.0,113567000.0,1
+2020-01-01,2020-06-21,software consulting service payment,marketing expenses - ad campaign,500000.0,0.0,0.0,400000.0,5500000.0,118667000.0,172,42,400000.0,500000.0,113167000.0,1
+2020-01-01,2020-06-22,software consulting service payment,custom software development - payment,500000.0,1000000.0,0.0,0.0,5500000.0,119667000.0,173,58,0.0,500000.0,114167000.0,1
+2020-01-01,2020-06-22,software consulting service payment,it infrastructure - hardware repair,500000.0,0.0,0.0,250000.0,5500000.0,119417000.0,173,34,250000.0,500000.0,113917000.0,1
+2020-01-01,2020-06-23,software consulting service payment,devops automation - service payment,500000.0,500000.0,0.0,0.0,5500000.0,119917000.0,174,66,0.0,0.0,114417000.0,1
+2020-01-01,2020-06-23,software consulting service payment,office supplies - monthly purchase,500000.0,0.0,0.0,75000.0,5500000.0,119842000.0,174,41,75000.0,500000.0,114342000.0,1
+2020-01-01,2020-06-24,software consulting service payment,cloud computing - service renewal,500000.0,1000000.0,0.0,0.0,5500000.0,120842000.0,175,59,0.0,500000.0,115342000.0,1
+2020-01-01,2020-06-24,software consulting service payment,travel expenses - client meeting,500000.0,0.0,0.0,250000.0,5500000.0,120592000.0,175,39,250000.0,500000.0,115092000.0,1
+2020-01-01,2020-06-25,software consulting service payment,software prototyping - service fee,500000.0,800000.0,0.0,0.0,5500000.0,121392000.0,176,70,0.0,300000.0,115892000.0,1
+2020-01-01,2020-06-25,software consulting service payment,staff bonuses - monthly payment,500000.0,0.0,0.0,1500000.0,5500000.0,119892000.0,176,52,1500000.0,500000.0,114392000.0,1
+2020-01-01,2020-06-26,software consulting service payment,erp - custom module payment,500000.0,500000.0,0.0,0.0,5500000.0,120392000.0,177,48,0.0,0.0,114892000.0,1
+2020-01-01,2020-06-26,software consulting service payment,office rent - monthly payment,500000.0,0.0,0.0,600000.0,5500000.0,119792000.0,177,50,600000.0,500000.0,114292000.0,1
+2020-01-01,2020-06-27,software consulting service payment,warehouse management system - service fee,500000.0,500000.0,0.0,0.0,5500000.0,120292000.0,178,47,0.0,0.0,114792000.0,1
+2020-01-01,2020-06-27,software consulting service payment,legal fees - contract review,500000.0,0.0,0.0,150000.0,5500000.0,120142000.0,178,38,150000.0,500000.0,114642000.0,1
+2020-01-01,2020-06-28,software consulting service payment,mobile application development - payment,500000.0,800000.0,0.0,0.0,5500000.0,120942000.0,179,51,0.0,300000.0,115442000.0,1
+2020-01-01,2020-06-28,software consulting service payment,staff salaries - additional payment,500000.0,0.0,0.0,2000000.0,5500000.0,118942000.0,179,49,2000000.0,500000.0,113442000.0,1
+2020-01-01,2020-06-29,software consulting service payment,custom crm development - payment,500000.0,500000.0,0.0,0.0,5500000.0,119442000.0,180,48,0.0,0.0,113942000.0,1
+2020-01-01,2020-06-29,software consulting service payment,utility bills - monthly payment,500000.0,0.0,0.0,150000.0,5500000.0,119292000.0,180,39,150000.0,500000.0,113792000.0,1
+2020-01-01,2020-06-30,software consulting service payment,software prototyping - service fee,500000.0,700000.0,0.0,0.0,5500000.0,119992000.0,181,70,0.0,200000.0,114492000.0,1
+2020-01-01,2020-06-30,software consulting service payment,server maintenance - emergency service payment,500000.0,0.0,0.0,450000.0,5500000.0,119542000.0,181,59,450000.0,500000.0,114042000.0,1
+2020-01-01,2020-06-30,software consulting service payment,travel expenses - client onboarding,500000.0,0.0,0.0,500000.0,5500000.0,119042000.0,181,37,500000.0,500000.0,113542000.0,1
+2020-01-01,2020-06-30,software consulting service payment,office maintenance - hvac repair,500000.0,0.0,0.0,150000.0,5500000.0,118892000.0,181,39,150000.0,500000.0,113392000.0,1
+2020-01-01,2020-06-30,software consulting service payment,staff bonuses - performance rewards,500000.0,0.0,0.0,1000000.0,5500000.0,117892000.0,181,40,1000000.0,500000.0,112392000.0,1
+2020-01-01,2020-06-30,software consulting service payment,legal expenses - documentation review,500000.0,0.0,0.0,150000.0,5500000.0,117742000.0,181,36,150000.0,500000.0,112242000.0,1
+2020-01-01,2020-07-01,software consulting service payment,custom software development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,118242000.0,182,58,0.0,0.0,112742000.0,1
+2020-01-01,2020-07-01,software consulting service payment,office rent - monthly payment,500000.0,0.0,0.0,600000.0,5500000.0,117642000.0,182,50,600000.0,500000.0,112142000.0,1
+2020-01-01,2020-07-02,software consulting service payment,ai development - service fee,500000.0,300000.0,0.0,0.0,5500000.0,117942000.0,183,48,0.0,200000.0,112442000.0,1
+2020-01-01,2020-07-02,software consulting service payment,marketing expenses - social media campaign,500000.0,0.0,0.0,200000.0,5500000.0,117742000.0,183,42,200000.0,500000.0,112242000.0,1
+2020-01-01,2020-07-03,software consulting service payment,cloud application development - payment,500000.0,400000.0,0.0,0.0,5500000.0,118142000.0,184,51,0.0,100000.0,112642000.0,1
+2020-01-01,2020-07-03,software consulting service payment,employee health insurance premium,500000.0,0.0,0.0,500000.0,5500000.0,117642000.0,184,41,500000.0,500000.0,112142000.0,1
+2020-01-01,2020-07-04,software consulting service payment,mobile application development - payment,500000.0,600000.0,0.0,0.0,5500000.0,118242000.0,185,51,0.0,100000.0,112742000.0,1
+2020-01-01,2020-07-04,software consulting service payment,software licensing fees - annual renewal,500000.0,0.0,0.0,800000.0,5500000.0,117442000.0,185,59,800000.0,500000.0,111942000.0,1
+2020-01-01,2020-07-05,software consulting service payment,erp system customization - service fee,500000.0,500000.0,0.0,0.0,5500000.0,117942000.0,186,52,0.0,0.0,112442000.0,1
+2020-01-01,2020-07-05,software consulting service payment,staff salaries - monthly payment,500000.0,0.0,0.0,2000000.0,5500000.0,115942000.0,186,51,2000000.0,500000.0,110442000.0,1
+2020-01-01,2020-07-06,software consulting service payment,warehouse management system - payment,500000.0,300000.0,0.0,0.0,5500000.0,116242000.0,187,53,0.0,200000.0,110742000.0,1
+2020-01-01,2020-07-06,software consulting service payment,it infrastructure - hardware purchase,500000.0,0.0,0.0,1000000.0,5500000.0,115242000.0,187,36,1000000.0,500000.0,109742000.0,1
+2020-01-01,2020-07-07,software consulting service payment,legacy software modernization - payment,500000.0,200000.0,0.0,0.0,5500000.0,115442000.0,188,62,0.0,300000.0,109942000.0,1
+2020-01-01,2020-07-07,software consulting service payment,cloud hosting - monthly subscription fee,500000.0,0.0,0.0,150000.0,5500000.0,115292000.0,188,37,150000.0,500000.0,109792000.0,1
+2020-01-01,2020-07-08,software consulting service payment,custom crm development - client payment,500000.0,300000.0,0.0,0.0,5500000.0,115592000.0,189,49,0.0,200000.0,110092000.0,1
+2020-01-01,2020-07-08,software consulting service payment,utility bills - office maintenance,500000.0,0.0,0.0,100000.0,5500000.0,115492000.0,189,35,100000.0,500000.0,109992000.0,1
+2020-01-01,2020-07-09,software consulting service payment,web application development - service payment,500000.0,400000.0,0.0,0.0,5500000.0,115892000.0,190,60,0.0,100000.0,110392000.0,1
+2020-01-01,2020-07-09,software consulting service payment,office supplies - monthly purchase,500000.0,0.0,0.0,200000.0,5500000.0,115692000.0,190,41,200000.0,500000.0,110192000.0,1
+2020-01-01,2020-07-10,software consulting service payment,software prototyping - service fee,500000.0,300000.0,0.0,0.0,5500000.0,115992000.0,191,70,0.0,200000.0,110492000.0,1
+2020-01-01,2020-07-10,software consulting service payment,employee bonus payment - quarterly,500000.0,0.0,0.0,1500000.0,5500000.0,114492000.0,191,43,1500000.0,500000.0,108992000.0,1
+2020-01-01,2020-07-11,software consulting service payment,custom software development - client payment,500000.0,400000.0,0.0,0.0,5500000.0,114892000.0,192,58,0.0,100000.0,109392000.0,1
+2020-01-01,2020-07-11,software consulting service payment,travel costs - business meeting,500000.0,0.0,0.0,300000.0,5500000.0,114592000.0,192,48,300000.0,500000.0,109092000.0,1
+2020-01-01,2020-07-12,software consulting service payment,erp software update - service fee,500000.0,500000.0,0.0,0.0,5500000.0,115092000.0,193,62,0.0,0.0,109592000.0,1
+2020-01-01,2020-07-12,software consulting service payment,office rent - additional payment,500000.0,0.0,0.0,600000.0,5500000.0,114492000.0,193,48,600000.0,500000.0,108992000.0,1
+2020-01-01,2020-07-13,software consulting service payment,systems integration - service fee,500000.0,350000.0,0.0,0.0,5500000.0,114842000.0,194,53,0.0,150000.0,109342000.0,1
+2020-01-01,2020-07-13,software consulting service payment,office cleaning services - monthly fee,500000.0,0.0,0.0,100000.0,5500000.0,114742000.0,194,58,100000.0,500000.0,109242000.0,1
+2020-01-01,2020-07-14,software consulting service payment,legacy software modernization - payment,500000.0,300000.0,0.0,0.0,5500000.0,115042000.0,195,62,0.0,200000.0,109542000.0,1
+2020-01-01,2020-07-14,software consulting service payment,internet and telephone bill - office,500000.0,0.0,0.0,200000.0,5500000.0,114842000.0,195,31,200000.0,500000.0,109342000.0,1
+2020-01-01,2020-07-15,software consulting service payment,custom crm development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,115342000.0,196,49,0.0,0.0,109842000.0,1
+2020-01-01,2020-07-15,software consulting service payment,it support services - monthly payment,500000.0,0.0,0.0,250000.0,5500000.0,115092000.0,196,58,250000.0,500000.0,109592000.0,1
+2020-01-01,2020-07-16,software consulting service payment,software licensing - annual renewal,500000.0,350000.0,0.0,0.0,5500000.0,115442000.0,197,57,0.0,150000.0,109942000.0,1
+2020-01-01,2020-07-16,software consulting service payment,business trip - client onboarding,500000.0,0.0,0.0,400000.0,5500000.0,115042000.0,197,35,400000.0,500000.0,109542000.0,1
+2020-01-01,2020-07-17,software consulting service payment,web development services - payment,500000.0,450000.0,0.0,0.0,5500000.0,115492000.0,198,64,0.0,50000.0,109992000.0,1
+2020-01-01,2020-07-17,software consulting service payment,office snacks and pantry - monthly refill,500000.0,0.0,0.0,80000.0,5500000.0,115412000.0,198,37,80000.0,500000.0,109912000.0,1
+2020-01-01,2020-07-18,software consulting service payment,ai development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,116012000.0,199,48,0.0,100000.0,110512000.0,1
+2020-01-01,2020-07-18,software consulting service payment,utility bills - july,500000.0,0.0,0.0,150000.0,5500000.0,115862000.0,199,25,150000.0,500000.0,110362000.0,1
+2020-01-01,2020-07-19,software consulting service payment,cloud hosting services - monthly fee,500000.0,0.0,0.0,200000.0,5500000.0,115662000.0,200,56,200000.0,500000.0,110162000.0,1
+2020-01-01,2020-07-19,software consulting service payment,staff training - cloud technologies,500000.0,200000.0,0.0,0.0,5500000.0,115862000.0,200,37,0.0,300000.0,110362000.0,1
+2020-01-01,2020-07-20,software consulting service payment,saas subscription - client payment,500000.0,500000.0,0.0,0.0,5500000.0,116362000.0,201,55,0.0,0.0,110862000.0,1
+2020-01-01,2020-07-20,software consulting service payment,office equipment purchase - new devices,500000.0,0.0,0.0,700000.0,5500000.0,115662000.0,201,38,700000.0,500000.0,110162000.0,1
+2020-01-01,2020-07-21,software consulting service payment,digital marketing - campaign,500000.0,250000.0,0.0,0.0,5500000.0,115912000.0,202,41,0.0,250000.0,110412000.0,1
+2020-01-01,2020-07-21,software consulting service payment,staff bonuses - performance rewards,500000.0,0.0,0.0,500000.0,5500000.0,115412000.0,202,40,500000.0,500000.0,109912000.0,1
+2020-01-01,2020-07-22,software consulting service payment,business consulting fees - retainer,500000.0,350000.0,0.0,0.0,5500000.0,115762000.0,203,54,0.0,150000.0,110262000.0,1
+2020-01-01,2020-07-22,software consulting service payment,legal expenses - ip protection,500000.0,0.0,0.0,250000.0,5500000.0,115512000.0,203,31,250000.0,500000.0,110012000.0,1
+2020-01-01,2020-07-23,software consulting service payment,saas licensing fee - annual,500000.0,450000.0,0.0,0.0,5500000.0,115962000.0,204,48,0.0,50000.0,110462000.0,1
+2020-01-01,2020-07-23,software consulting service payment,software update - client payment,500000.0,0.0,0.0,300000.0,5500000.0,115662000.0,204,66,300000.0,500000.0,110162000.0,1
+2020-01-01,2020-07-24,software consulting service payment,ai research grant - payment,500000.0,600000.0,0.0,0.0,5500000.0,116262000.0,205,48,0.0,100000.0,110762000.0,1
+2020-01-01,2020-07-24,software consulting service payment,office supplies - monthly refill,500000.0,0.0,0.0,150000.0,5500000.0,116112000.0,205,39,150000.0,500000.0,110612000.0,1
+2020-01-01,2020-07-25,software consulting service payment,custom software development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,116562000.0,206,58,0.0,50000.0,111062000.0,1
+2020-01-01,2020-07-25,software consulting service payment,staff health insurance premiums,500000.0,0.0,0.0,250000.0,5500000.0,116312000.0,206,45,250000.0,500000.0,110812000.0,1
+2020-01-01,2020-07-26,software consulting service payment,cloud computing - client payment,500000.0,400000.0,0.0,0.0,5500000.0,116712000.0,207,60,0.0,100000.0,111212000.0,1
+2020-01-01,2020-07-26,software consulting service payment,office maintenance - hvac repairs,500000.0,0.0,0.0,150000.0,5500000.0,116562000.0,207,38,150000.0,500000.0,111062000.0,1
+2020-01-01,2020-07-27,software consulting service payment,web application development - client payment,500000.0,350000.0,0.0,0.0,5500000.0,116912000.0,208,51,0.0,150000.0,111412000.0,1
+2020-01-01,2020-07-27,software consulting service payment,marketing campaign - expenses,500000.0,0.0,0.0,300000.0,5500000.0,116612000.0,208,41,300000.0,500000.0,111112000.0,1
+2020-01-01,2020-07-28,software consulting service payment,ai development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,117112000.0,209,48,0.0,0.0,111612000.0,1
+2020-01-01,2020-07-28,software consulting service payment,employee bonus payment - monthly,500000.0,0.0,0.0,600000.0,5500000.0,116512000.0,209,45,600000.0,500000.0,111012000.0,1
+2020-01-01,2020-07-29,software consulting service payment,mobile application development - client payment,500000.0,350000.0,0.0,0.0,5500000.0,116862000.0,210,49,0.0,150000.0,111362000.0,1
+2020-01-01,2020-07-29,software consulting service payment,office snacks and pantry - monthly refill,500000.0,0.0,0.0,80000.0,5500000.0,116782000.0,210,37,80000.0,500000.0,111282000.0,1
+2020-01-01,2020-07-30,software consulting service payment,custom crm development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,117282000.0,211,49,0.0,0.0,111782000.0,1
+2020-01-01,2020-07-30,software consulting service payment,travel costs - business seminar,500000.0,0.0,0.0,200000.0,5500000.0,117082000.0,211,45,200000.0,500000.0,111582000.0,1
+2020-01-01,2020-07-31,software consulting service payment,erp system upgrade - payment,500000.0,400000.0,0.0,0.0,5500000.0,117482000.0,212,51,0.0,100000.0,111982000.0,1
+2020-01-01,2020-07-31,software consulting service payment,office equipment - new laptops purchase,500000.0,0.0,0.0,700000.0,5500000.0,116782000.0,212,35,700000.0,500000.0,111282000.0,1
+2020-01-01,2020-08-01,software consulting service payment,custom software development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,117282000.0,213,58,0.0,0.0,111782000.0,1
+2020-01-01,2020-08-01,software consulting service payment,staff training - cloud services,500000.0,0.0,0.0,150000.0,5500000.0,117132000.0,213,48,150000.0,500000.0,111632000.0,1
+2020-01-01,2020-08-02,software consulting service payment,software prototyping - client payment,500000.0,350000.0,0.0,0.0,5500000.0,117482000.0,214,69,0.0,150000.0,111982000.0,1
+2020-01-01,2020-08-02,software consulting service payment,office rent payment - monthly,500000.0,0.0,0.0,450000.0,5500000.0,117032000.0,214,44,450000.0,500000.0,111532000.0,1
+2020-01-01,2020-08-03,software consulting service payment,web application development - client payment,500000.0,400000.0,0.0,0.0,5500000.0,117432000.0,215,51,0.0,100000.0,111932000.0,1
+2020-01-01,2020-08-03,software consulting service payment,it infrastructure maintenance,500000.0,0.0,0.0,200000.0,5500000.0,117232000.0,215,38,200000.0,500000.0,111732000.0,1
+2020-01-01,2020-08-04,software consulting service payment,mobile application development - client payment,500000.0,350000.0,0.0,0.0,5500000.0,117582000.0,216,49,0.0,150000.0,112082000.0,1
+2020-01-01,2020-08-04,software consulting service payment,marketing campaign - monthly fees,500000.0,0.0,0.0,100000.0,5500000.0,117482000.0,216,41,100000.0,500000.0,111982000.0,1
+2020-01-01,2020-08-05,software consulting service payment,cloud computing - client payment,500000.0,500000.0,0.0,0.0,5500000.0,117982000.0,217,60,0.0,0.0,112482000.0,1
+2020-01-01,2020-08-05,software consulting service payment,freelancers payment - graphics design,500000.0,0.0,0.0,180000.0,5500000.0,117802000.0,217,42,180000.0,500000.0,112302000.0,1
+2020-01-01,2020-08-06,software consulting service payment,ai development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,118252000.0,218,48,0.0,50000.0,112752000.0,1
+2020-01-01,2020-08-06,software consulting service payment,office cleaning services - monthly,500000.0,0.0,0.0,60000.0,5500000.0,118192000.0,218,61,60000.0,500000.0,112692000.0,1
+2020-01-01,2020-08-07,software consulting service payment,custom crm development - client payment,500000.0,550000.0,0.0,0.0,5500000.0,118742000.0,219,49,0.0,50000.0,113242000.0,1
+2020-01-01,2020-08-07,software consulting service payment,business travel - conference fees,500000.0,0.0,0.0,250000.0,5500000.0,118492000.0,219,41,250000.0,500000.0,112992000.0,1
+2020-01-01,2020-08-08,software consulting service payment,erp system customization - client payment,500000.0,400000.0,0.0,0.0,5500000.0,118892000.0,220,53,0.0,100000.0,113392000.0,1
+2020-01-01,2020-08-08,software consulting service payment,office utilities - monthly payment,500000.0,0.0,0.0,130000.0,5500000.0,118762000.0,220,49,130000.0,500000.0,113262000.0,1
+2020-01-01,2020-08-09,software consulting service payment,inventory management system - client payment,500000.0,450000.0,0.0,0.0,5500000.0,119212000.0,221,46,0.0,50000.0,113712000.0,1
+2020-01-01,2020-08-09,software consulting service payment,staff welfare - health benefits,500000.0,0.0,0.0,100000.0,5500000.0,119112000.0,221,39,100000.0,500000.0,113612000.0,1
+2020-01-01,2020-08-10,software consulting service payment,bespoke software development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,119612000.0,222,57,0.0,0.0,114112000.0,1
+2020-01-01,2020-08-10,software consulting service payment,it software licenses purchase,500000.0,0.0,0.0,120000.0,5500000.0,119492000.0,222,56,120000.0,500000.0,113992000.0,1
+2020-01-01,2020-08-11,software consulting service payment,custom software development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,119942000.0,223,58,0.0,50000.0,114442000.0,1
+2020-01-01,2020-08-11,software consulting service payment,software upgrades - monthly maintenance fees,500000.0,0.0,0.0,200000.0,5500000.0,119742000.0,223,48,200000.0,500000.0,114242000.0,1
+2020-01-01,2020-08-12,software consulting service payment,software prototyping - client payment,500000.0,350000.0,0.0,0.0,5500000.0,120092000.0,224,69,0.0,150000.0,114592000.0,1
+2020-01-01,2020-08-12,software consulting service payment,legal services - monthly fees,500000.0,0.0,0.0,120000.0,5500000.0,119972000.0,224,44,120000.0,500000.0,114472000.0,1
+2020-01-01,2020-08-13,software consulting service payment,web application development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,120472000.0,225,51,0.0,0.0,114972000.0,1
+2020-01-01,2020-08-13,software consulting service payment,rent payment for new office,500000.0,0.0,0.0,700000.0,5500000.0,119772000.0,225,39,700000.0,500000.0,114272000.0,1
+2020-01-01,2020-08-14,software consulting service payment,mobile application development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,120222000.0,226,49,0.0,50000.0,114722000.0,1
+2020-01-01,2020-08-14,software consulting service payment,office supplies purchase,500000.0,0.0,0.0,80000.0,5500000.0,120142000.0,226,44,80000.0,500000.0,114642000.0,1
+2020-01-01,2020-08-15,software consulting service payment,cloud computing - client payment,500000.0,600000.0,0.0,0.0,5500000.0,120742000.0,227,60,0.0,100000.0,115242000.0,1
+2020-01-01,2020-08-15,software consulting service payment,employee salaries - monthly,500000.0,0.0,0.0,500000.0,5500000.0,120242000.0,227,39,500000.0,500000.0,114742000.0,1
+2020-01-01,2020-08-16,software consulting service payment,ai development - client payment,500000.0,550000.0,0.0,0.0,5500000.0,120792000.0,228,48,0.0,50000.0,115292000.0,1
+2020-01-01,2020-08-16,software consulting service payment,travel expenses - business meeting,500000.0,0.0,0.0,180000.0,5500000.0,120612000.0,228,41,180000.0,500000.0,115112000.0,1
+2020-01-01,2020-08-17,software consulting service payment,custom crm development - client payment,500000.0,400000.0,0.0,0.0,5500000.0,121012000.0,229,49,0.0,100000.0,115512000.0,1
+2020-01-01,2020-08-17,software consulting service payment,marketing and branding costs,500000.0,0.0,0.0,250000.0,5500000.0,120762000.0,229,38,250000.0,500000.0,115262000.0,1
+2020-01-01,2020-08-18,software consulting service payment,erp system customization - client payment,500000.0,350000.0,0.0,0.0,5500000.0,121112000.0,230,53,0.0,150000.0,115612000.0,1
+2020-01-01,2020-08-18,software consulting service payment,office maintenance and repairs,500000.0,0.0,0.0,150000.0,5500000.0,120962000.0,230,37,150000.0,500000.0,115462000.0,1
+2020-01-01,2020-08-19,software consulting service payment,inventory management system - client payment,500000.0,500000.0,0.0,0.0,5500000.0,121462000.0,231,46,0.0,0.0,115962000.0,1
+2020-01-01,2020-08-19,software consulting service payment,data backup and storage fees,500000.0,0.0,0.0,60000.0,5500000.0,121402000.0,231,38,60000.0,500000.0,115902000.0,1
+2020-01-01,2020-08-20,software consulting service payment,bespoke software development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,121852000.0,232,57,0.0,50000.0,116352000.0,1
+2020-01-01,2020-08-20,software consulting service payment,freelancer payments - contractual work,500000.0,0.0,0.0,120000.0,5500000.0,121732000.0,232,41,120000.0,500000.0,116232000.0,1
+2020-01-01,2020-08-21,software consulting service payment,custom software development - client payment,500000.0,550000.0,0.0,0.0,5500000.0,122282000.0,233,58,0.0,50000.0,116782000.0,1
+2020-01-01,2020-08-21,software consulting service payment,business consulting fees - monthly retainer,500000.0,0.0,0.0,200000.0,5500000.0,122082000.0,233,51,200000.0,500000.0,116582000.0,1
+2020-01-01,2020-08-22,software consulting service payment,software upgrades - client payment,500000.0,450000.0,0.0,0.0,5500000.0,122532000.0,234,64,0.0,50000.0,117032000.0,1
+2020-01-01,2020-08-22,software consulting service payment,telephone and communication bill,500000.0,0.0,0.0,50000.0,5500000.0,122482000.0,234,33,50000.0,500000.0,116982000.0,1
+2020-01-01,2020-08-23,software consulting service payment,software testing and qa - client payment,500000.0,500000.0,0.0,0.0,5500000.0,122982000.0,235,67,0.0,0.0,117482000.0,1
+2020-01-01,2020-08-23,software consulting service payment,office snacks and refreshments,500000.0,0.0,0.0,20000.0,5500000.0,122962000.0,235,46,20000.0,500000.0,117462000.0,1
+2020-01-01,2020-08-24,software consulting service payment,ai research - client payment,500000.0,600000.0,0.0,0.0,5500000.0,123562000.0,236,51,0.0,100000.0,118062000.0,1
+2020-01-01,2020-08-24,software consulting service payment,office furniture purchase,500000.0,0.0,0.0,150000.0,5500000.0,123412000.0,236,40,150000.0,500000.0,117912000.0,1
+2020-01-01,2020-08-25,software consulting service payment,custom crm development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,123912000.0,237,49,0.0,0.0,118412000.0,1
+2020-01-01,2020-08-25,software consulting service payment,electricity and water bills,500000.0,0.0,0.0,100000.0,5500000.0,123812000.0,237,32,100000.0,500000.0,118312000.0,1
+2020-01-01,2020-08-26,software consulting service payment,software product development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,124262000.0,238,62,0.0,50000.0,118762000.0,1
+2020-01-01,2020-08-26,software consulting service payment,staff health and insurance payments,500000.0,0.0,0.0,90000.0,5500000.0,124172000.0,238,57,90000.0,500000.0,118672000.0,1
+2020-01-01,2020-08-27,software consulting service payment,cloud computing - client payment,500000.0,600000.0,0.0,0.0,5500000.0,124772000.0,239,60,0.0,100000.0,119272000.0,1
+2020-01-01,2020-08-27,software consulting service payment,office equipment maintenance,500000.0,0.0,0.0,150000.0,5500000.0,124622000.0,239,38,150000.0,500000.0,119122000.0,1
+2020-01-01,2020-08-28,software consulting service payment,custom software development - client payment,500000.0,400000.0,0.0,0.0,5500000.0,125022000.0,240,58,0.0,100000.0,119522000.0,1
+2020-01-01,2020-08-28,software consulting service payment,marketing materials and collateral,500000.0,0.0,0.0,70000.0,5500000.0,124952000.0,240,43,70000.0,500000.0,119452000.0,1
+2020-01-01,2020-08-29,software consulting service payment,devops automation - client payment,500000.0,500000.0,0.0,0.0,5500000.0,125452000.0,241,52,0.0,0.0,119952000.0,1
+2020-01-01,2020-08-29,software consulting service payment,software subscription fees,500000.0,0.0,0.0,200000.0,5500000.0,125252000.0,241,56,200000.0,500000.0,119752000.0,1
+2020-01-01,2020-08-30,software consulting service payment,software prototyping - client payment,500000.0,450000.0,0.0,0.0,5500000.0,125702000.0,242,69,0.0,50000.0,120202000.0,1
+2020-01-01,2020-08-30,software consulting service payment,office supplies - monthly purchase,500000.0,0.0,0.0,80000.0,5500000.0,125622000.0,242,41,80000.0,500000.0,120122000.0,1
+2020-01-01,2020-08-31,software consulting service payment,web application development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,126122000.0,243,51,0.0,0.0,120622000.0,1
+2020-01-01,2020-08-31,software consulting service payment,business insurance premiums,500000.0,0.0,0.0,150000.0,5500000.0,125972000.0,243,39,150000.0,500000.0,120472000.0,1
+2020-01-01,2020-09-01,software consulting service payment,software prototyping - client payment,500000.0,500000.0,0.0,0.0,5500000.0,126472000.0,244,69,0.0,0.0,120972000.0,1
+2020-01-01,2020-09-02,software consulting service payment,cloud computing - client payment,500000.0,600000.0,0.0,0.0,5500000.0,127072000.0,245,60,0.0,100000.0,121572000.0,1
+2020-01-01,2020-09-02,software consulting service payment,staff training costs,500000.0,0.0,0.0,100000.0,5500000.0,126972000.0,245,40,100000.0,500000.0,121472000.0,1
+2020-01-01,2020-09-03,software consulting service payment,erp system development - client payment,500000.0,700000.0,0.0,0.0,5500000.0,127672000.0,246,49,0.0,200000.0,122172000.0,1
+2020-01-01,2020-09-04,software consulting service payment,employee salaries,500000.0,0.0,0.0,600000.0,5500000.0,127072000.0,247,31,600000.0,500000.0,121572000.0,1
+2020-01-01,2020-09-05,software consulting service payment,web application development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,127522000.0,248,51,0.0,50000.0,122022000.0,1
+2020-01-01,2020-09-06,software consulting service payment,marketing expenses,500000.0,0.0,0.0,150000.0,5500000.0,127372000.0,249,45,150000.0,500000.0,121872000.0,1
+2020-01-01,2020-09-07,software consulting service payment,custom software development - client payment,500000.0,550000.0,0.0,0.0,5500000.0,127922000.0,250,58,0.0,50000.0,122422000.0,1
+2020-01-01,2020-09-08,software consulting service payment,rent payment for office space,500000.0,0.0,0.0,700000.0,5500000.0,127222000.0,251,44,700000.0,500000.0,121722000.0,1
+2020-01-01,2020-09-09,software consulting service payment,software testing and qa - client payment,500000.0,600000.0,0.0,0.0,5500000.0,127822000.0,252,67,0.0,100000.0,122322000.0,1
+2020-01-01,2020-09-10,software consulting service payment,office supplies purchase,500000.0,0.0,0.0,80000.0,5500000.0,127742000.0,253,44,80000.0,500000.0,122242000.0,1
+2020-01-01,2020-09-11,software consulting service payment,ai development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,128192000.0,254,48,0.0,50000.0,122692000.0,1
+2020-01-01,2020-09-12,software consulting service payment,business insurance premiums,500000.0,0.0,0.0,100000.0,5500000.0,128092000.0,255,39,100000.0,500000.0,122592000.0,1
+2020-01-01,2020-09-13,software consulting service payment,custom crm development - client payment,500000.0,550000.0,0.0,0.0,5500000.0,128642000.0,256,49,0.0,50000.0,123142000.0,1
+2020-01-01,2020-09-14,software consulting service payment,office maintenance costs,500000.0,0.0,0.0,150000.0,5500000.0,128492000.0,257,37,150000.0,500000.0,122992000.0,1
+2020-01-01,2020-09-15,software consulting service payment,mobile application development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,129092000.0,258,49,0.0,100000.0,123592000.0,1
+2020-01-01,2020-09-16,software consulting service payment,software subscription fees,500000.0,0.0,0.0,200000.0,5500000.0,128892000.0,259,56,200000.0,500000.0,123392000.0,1
+2020-01-01,2020-09-16,software consulting service payment,custom crm development - client payment,500000.0,550000.0,0.0,0.0,5500000.0,129442000.0,259,49,0.0,50000.0,123942000.0,1
+2020-01-01,2020-09-16,software consulting service payment,software and website maintenance,500000.0,0.0,0.0,130000.0,5500000.0,129312000.0,259,54,130000.0,500000.0,123812000.0,1
+2020-01-01,2020-09-16,software consulting service payment,office snacks and refreshments,500000.0,0.0,0.0,50000.0,5500000.0,129262000.0,259,46,50000.0,500000.0,123762000.0,1
+2020-01-01,2020-09-17,software consulting service payment,software product development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,129762000.0,260,62,0.0,0.0,124262000.0,1
+2020-01-01,2020-09-17,software consulting service payment,printer and office equipment purchase,500000.0,0.0,0.0,40000.0,5500000.0,129722000.0,260,39,40000.0,500000.0,124222000.0,1
+2020-01-01,2020-09-17,software consulting service payment,ai research - client payment,500000.0,600000.0,0.0,0.0,5500000.0,130322000.0,260,51,0.0,100000.0,124822000.0,1
+2020-01-01,2020-09-18,software consulting service payment,custom software development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,130772000.0,261,58,0.0,50000.0,125272000.0,1
+2020-01-01,2020-09-18,software consulting service payment,health and safety measures (covid-19),500000.0,0.0,0.0,100000.0,5500000.0,130672000.0,261,31,100000.0,500000.0,125172000.0,1
+2020-01-01,2020-09-18,software consulting service payment,office cleaning services,500000.0,0.0,0.0,30000.0,5500000.0,130642000.0,261,58,30000.0,500000.0,125142000.0,1
+2020-01-01,2020-09-19,software consulting service payment,devops automation - client payment,500000.0,550000.0,0.0,0.0,5500000.0,131192000.0,262,52,0.0,50000.0,125692000.0,1
+2020-01-01,2020-09-19,software consulting service payment,staff training and development costs,500000.0,0.0,0.0,70000.0,5500000.0,131122000.0,262,48,70000.0,500000.0,125622000.0,1
+2020-01-01,2020-09-19,software consulting service payment,software licensing fees,500000.0,0.0,0.0,180000.0,5500000.0,130942000.0,262,62,180000.0,500000.0,125442000.0,1
+2020-01-01,2020-09-20,software consulting service payment,erp system development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,131542000.0,263,49,0.0,100000.0,126042000.0,1
+2020-01-01,2020-09-20,software consulting service payment,office snacks and refreshments,500000.0,0.0,0.0,50000.0,5500000.0,131492000.0,263,46,50000.0,500000.0,125992000.0,1
+2020-01-01,2020-09-20,software consulting service payment,office furniture purchase,500000.0,0.0,0.0,80000.0,5500000.0,131412000.0,263,40,80000.0,500000.0,125912000.0,1
+2020-01-01,2020-09-21,software consulting service payment,software prototyping - client payment,500000.0,450000.0,0.0,0.0,5500000.0,131862000.0,264,69,0.0,50000.0,126362000.0,1
+2020-01-01,2020-09-21,software consulting service payment,"office utilities (internet, phone)",500000.0,0.0,0.0,60000.0,5500000.0,131802000.0,264,43,60000.0,500000.0,126302000.0,1
+2020-01-01,2020-09-21,software consulting service payment,advertising and promotion expenses,500000.0,0.0,0.0,250000.0,5500000.0,131552000.0,264,38,250000.0,500000.0,126052000.0,1
+2020-01-01,2020-09-22,software consulting service payment,custom software development - client payment,500000.0,450000.0,0.0,0.0,5500000.0,132002000.0,265,58,0.0,50000.0,126502000.0,1
+2020-01-01,2020-09-22,software consulting service payment,freelance software developer payment,500000.0,0.0,0.0,300000.0,5500000.0,131702000.0,265,56,300000.0,500000.0,126202000.0,1
+2020-01-01,2020-09-22,software consulting service payment,legal fees for contracts,500000.0,0.0,0.0,150000.0,5500000.0,131552000.0,265,37,150000.0,500000.0,126052000.0,1
+2020-01-01,2020-09-23,software consulting service payment,mobile application development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,132152000.0,266,49,0.0,100000.0,126652000.0,1
+2020-01-01,2020-09-23,software consulting service payment,office furniture repair,500000.0,0.0,0.0,90000.0,5500000.0,132062000.0,266,38,90000.0,500000.0,126562000.0,1
+2020-01-01,2020-09-23,software consulting service payment,software testing - client payment,500000.0,450000.0,0.0,0.0,5500000.0,132512000.0,266,74,0.0,50000.0,127012000.0,1
+2020-01-01,2020-09-24,software consulting service payment,business insurances,500000.0,0.0,0.0,200000.0,5500000.0,132312000.0,267,33,200000.0,500000.0,126812000.0,1
+2020-01-01,2020-09-24,software consulting service payment,staff welfare and bonus,500000.0,0.0,0.0,150000.0,5500000.0,132162000.0,267,38,150000.0,500000.0,126662000.0,1
+2020-01-01,2020-09-24,software consulting service payment,cloud computing - client payment,500000.0,600000.0,0.0,0.0,5500000.0,132762000.0,267,60,0.0,100000.0,127262000.0,1
+2020-01-01,2020-09-25,software consulting service payment,devops automation - client payment,500000.0,450000.0,0.0,0.0,5500000.0,133212000.0,268,52,0.0,50000.0,127712000.0,1
+2020-01-01,2020-09-25,software consulting service payment,advertising agency fees,500000.0,0.0,0.0,120000.0,5500000.0,133092000.0,268,38,120000.0,500000.0,127592000.0,1
+2020-01-01,2020-09-25,software consulting service payment,office maintenance costs,500000.0,0.0,0.0,100000.0,5500000.0,132992000.0,268,37,100000.0,500000.0,127492000.0,1
+2020-01-01,2020-09-26,software consulting service payment,software prototyping - client payment,500000.0,500000.0,0.0,0.0,5500000.0,133492000.0,269,69,0.0,0.0,127992000.0,1
+2020-01-01,2020-09-26,software consulting service payment,business insurance payment,500000.0,0.0,0.0,200000.0,5500000.0,133292000.0,269,56,200000.0,500000.0,127792000.0,1
+2020-01-01,2020-09-26,software consulting service payment,office renovation costs,500000.0,0.0,0.0,150000.0,5500000.0,133142000.0,269,38,150000.0,500000.0,127642000.0,1
+2020-01-01,2020-09-27,software consulting service payment,custom crm development - client payment,500000.0,550000.0,0.0,0.0,5500000.0,133692000.0,270,49,0.0,50000.0,128192000.0,1
+2020-01-01,2020-09-27,software consulting service payment,printer and office equipment purchase,500000.0,0.0,0.0,40000.0,5500000.0,133652000.0,270,39,40000.0,500000.0,128152000.0,1
+2020-01-01,2020-09-27,software consulting service payment,staff training and development costs,500000.0,0.0,0.0,70000.0,5500000.0,133582000.0,270,48,70000.0,500000.0,128082000.0,1
+2020-01-01,2020-09-28,software consulting service payment,ai development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,134182000.0,271,48,0.0,100000.0,128682000.0,1
+2020-01-01,2020-09-28,software consulting service payment,office renovation costs,500000.0,0.0,0.0,200000.0,5500000.0,133982000.0,271,38,200000.0,500000.0,128482000.0,1
+2020-01-01,2020-09-28,software consulting service payment,office cleaning services,500000.0,0.0,0.0,30000.0,5500000.0,133952000.0,271,58,30000.0,500000.0,128452000.0,1
+2020-01-01,2020-09-29,software consulting service payment,software testing and qa - client payment,500000.0,450000.0,0.0,0.0,5500000.0,134402000.0,272,67,0.0,50000.0,128902000.0,1
+2020-01-01,2020-09-29,software consulting service payment,legal consultation fees,500000.0,0.0,0.0,100000.0,5500000.0,134302000.0,272,48,100000.0,500000.0,128802000.0,1
+2020-01-01,2020-09-29,software consulting service payment,cloud computing - client payment,500000.0,600000.0,0.0,0.0,5500000.0,134902000.0,272,60,0.0,100000.0,129402000.0,1
+2020-01-01,2020-09-30,software consulting service payment,web development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,135402000.0,273,51,0.0,0.0,129902000.0,1
+2020-01-01,2020-09-30,software consulting service payment,"office utilities (internet, phone)",500000.0,0.0,0.0,60000.0,5500000.0,135342000.0,273,43,60000.0,500000.0,129842000.0,1
+2020-01-01,2020-09-30,software consulting service payment,software licensing fees,500000.0,0.0,0.0,180000.0,5500000.0,135162000.0,273,62,180000.0,500000.0,129662000.0,1
+2020-01-01,2020-10-01,software consulting service payment,sap s/4hana cloud implementation - client payment,500000.0,550000.0,0.0,0.0,5500000.0,135712000.0,274,50,0.0,50000.0,130212000.0,1
+2020-01-01,2020-10-01,software consulting service payment,financial management solution purchase,500000.0,0.0,0.0,250000.0,5500000.0,135462000.0,274,38,250000.0,500000.0,129962000.0,1
+2020-01-01,2020-10-01,software consulting service payment,business technology platform subscription,500000.0,0.0,0.0,100000.0,5500000.0,135362000.0,274,34,100000.0,500000.0,129862000.0,1
+2020-01-01,2020-10-02,software consulting service payment,crm and customer experience integration - payment,500000.0,600000.0,0.0,0.0,5500000.0,135962000.0,275,45,0.0,100000.0,130462000.0,1
+2020-01-01,2020-10-02,software consulting service payment,human capital management system - payment,500000.0,0.0,0.0,200000.0,5500000.0,135762000.0,275,45,200000.0,500000.0,130262000.0,1
+2020-01-01,2020-10-02,software consulting service payment,sap business network access - subscription fee,500000.0,0.0,0.0,150000.0,5500000.0,135612000.0,275,35,150000.0,500000.0,130112000.0,1
+2020-01-01,2020-10-03,software consulting service payment,spend management solution payment,500000.0,500000.0,0.0,0.0,5500000.0,136112000.0,276,50,0.0,0.0,130612000.0,1
+2020-01-01,2020-10-03,software consulting service payment,supply chain management solution purchase,500000.0,0.0,0.0,300000.0,5500000.0,135812000.0,276,37,300000.0,500000.0,130312000.0,1
+2020-01-01,2020-10-03,software consulting service payment,software maintenance and support - payment,500000.0,0.0,0.0,50000.0,5500000.0,135762000.0,276,60,50000.0,500000.0,130262000.0,1
+2020-01-01,2020-10-04,software consulting service payment,financial management - client payment,500000.0,600000.0,0.0,0.0,5500000.0,136362000.0,277,47,0.0,100000.0,130862000.0,1
+2020-01-01,2020-10-04,software consulting service payment,supply chain management system subscription fee,500000.0,0.0,0.0,250000.0,5500000.0,136112000.0,277,32,250000.0,500000.0,130612000.0,1
+2020-01-01,2020-10-04,software consulting service payment,human capital management - talent management fees,500000.0,0.0,0.0,150000.0,5500000.0,135962000.0,277,33,150000.0,500000.0,130462000.0,1
+2020-01-01,2020-10-05,software consulting service payment,sap s/4hana cloud subscription - client payment,500000.0,550000.0,0.0,0.0,5500000.0,136512000.0,278,51,0.0,50000.0,131012000.0,1
+2020-01-01,2020-10-05,software consulting service payment,crm and customer experience platform payment,500000.0,0.0,0.0,200000.0,5500000.0,136312000.0,278,48,200000.0,500000.0,130812000.0,1
+2020-01-01,2020-10-05,software consulting service payment,business technology platform integration fees,500000.0,0.0,0.0,100000.0,5500000.0,136212000.0,278,35,100000.0,500000.0,130712000.0,1
+2020-01-01,2020-10-06,software consulting service payment,supply chain management solution payment,500000.0,600000.0,0.0,0.0,5500000.0,136812000.0,279,45,0.0,100000.0,131312000.0,1
+2020-01-01,2020-10-06,software consulting service payment,spend management solution - client payment,500000.0,0.0,0.0,300000.0,5500000.0,136512000.0,279,52,300000.0,500000.0,131012000.0,1
+2020-01-01,2020-10-06,software consulting service payment,office supplies and stationery,500000.0,0.0,0.0,50000.0,5500000.0,136462000.0,279,43,50000.0,500000.0,130962000.0,1
+2020-01-01,2020-10-07,software consulting service payment,financial management system - client payment,500000.0,500000.0,0.0,0.0,5500000.0,136962000.0,280,48,0.0,0.0,131462000.0,1
+2020-01-01,2020-10-07,software consulting service payment,business technology platform usage fees,500000.0,0.0,0.0,150000.0,5500000.0,136812000.0,280,32,150000.0,500000.0,131312000.0,1
+2020-01-01,2020-10-07,software consulting service payment,office rent payment,500000.0,0.0,0.0,200000.0,5500000.0,136612000.0,280,52,200000.0,500000.0,131112000.0,1
+2020-01-01,2020-10-08,software consulting service payment,crm system - customer payment,500000.0,600000.0,0.0,0.0,5500000.0,137212000.0,281,53,0.0,100000.0,131712000.0,1
+2020-01-01,2020-10-08,software consulting service payment,supply chain management training,500000.0,0.0,0.0,120000.0,5500000.0,137092000.0,281,33,120000.0,500000.0,131592000.0,1
+2020-01-01,2020-10-08,software consulting service payment,software development expense,500000.0,0.0,0.0,80000.0,5500000.0,137012000.0,281,54,80000.0,500000.0,131512000.0,1
+2020-01-01,2020-10-09,software consulting service payment,sap business network subscription,500000.0,400000.0,0.0,0.0,5500000.0,137412000.0,282,35,0.0,100000.0,131912000.0,1
+2020-01-01,2020-10-09,software consulting service payment,spend management software - payment,500000.0,0.0,0.0,200000.0,5500000.0,137212000.0,282,49,200000.0,500000.0,131712000.0,1
+2020-01-01,2020-10-09,software consulting service payment,human capital management system subscription fee,500000.0,0.0,0.0,150000.0,5500000.0,137062000.0,282,31,150000.0,500000.0,131562000.0,1
+2020-01-01,2020-10-10,software consulting service payment,supply chain management solution implementation,500000.0,500000.0,0.0,0.0,5500000.0,137562000.0,283,39,0.0,0.0,132062000.0,1
+2020-01-01,2020-10-10,software consulting service payment,financial management training - client fees,500000.0,0.0,0.0,100000.0,5500000.0,137462000.0,283,33,100000.0,500000.0,131962000.0,1
+2020-01-01,2020-10-10,software consulting service payment,office utility payments,500000.0,0.0,0.0,50000.0,5500000.0,137412000.0,283,55,50000.0,500000.0,131912000.0,1
+2020-01-01,2020-10-11,software consulting service payment,business technology platform subscription fees,500000.0,350000.0,0.0,0.0,5500000.0,137762000.0,284,32,0.0,150000.0,132262000.0,1
+2020-01-01,2020-10-11,software consulting service payment,crm and customer experience solution payment,500000.0,0.0,0.0,200000.0,5500000.0,137562000.0,284,48,200000.0,500000.0,132062000.0,1
+2020-01-01,2020-10-11,software consulting service payment,erp system license renewal,500000.0,0.0,0.0,150000.0,5500000.0,137412000.0,284,39,150000.0,500000.0,131912000.0,1
+2020-01-01,2020-10-12,software consulting service payment,spend management system - client payment,500000.0,600000.0,0.0,0.0,5500000.0,138012000.0,285,48,0.0,100000.0,132512000.0,1
+2020-01-01,2020-10-12,software consulting service payment,erp system implementation payment,500000.0,0.0,0.0,250000.0,5500000.0,137762000.0,285,47,250000.0,500000.0,132262000.0,1
+2020-01-01,2020-10-12,software consulting service payment,office furniture purchase,500000.0,0.0,0.0,100000.0,5500000.0,137662000.0,285,40,100000.0,500000.0,132162000.0,1
+2020-01-01,2020-10-13,software consulting service payment,sap s/4hana cloud solution payment,500000.0,450000.0,0.0,0.0,5500000.0,138112000.0,286,52,0.0,50000.0,132612000.0,1
+2020-01-01,2020-10-13,software consulting service payment,cloud computing solution payment,500000.0,0.0,0.0,300000.0,5500000.0,137812000.0,286,60,300000.0,500000.0,132312000.0,1
+2020-01-01,2020-10-13,software consulting service payment,staff salaries,500000.0,0.0,0.0,200000.0,5500000.0,137612000.0,286,37,200000.0,500000.0,132112000.0,1
+2020-01-01,2020-10-14,software consulting service payment,sap business network subscription fee,500000.0,500000.0,0.0,0.0,5500000.0,138112000.0,287,36,0.0,0.0,132612000.0,1
+2020-01-01,2020-10-14,software consulting service payment,supply chain management client payment,500000.0,0.0,0.0,150000.0,5500000.0,137962000.0,287,47,150000.0,500000.0,132462000.0,1
+2020-01-01,2020-10-14,software consulting service payment,office insurance payment,500000.0,0.0,0.0,80000.0,5500000.0,137882000.0,287,61,80000.0,500000.0,132382000.0,1
+2020-01-01,2020-10-15,software consulting service payment,financial management system subscription fee,500000.0,400000.0,0.0,0.0,5500000.0,138282000.0,288,33,0.0,100000.0,132782000.0,1
+2020-01-01,2020-10-15,software consulting service payment,cloud computing subscription payment,500000.0,0.0,0.0,200000.0,5500000.0,138082000.0,288,59,200000.0,500000.0,132582000.0,1
+2020-01-01,2020-10-15,software consulting service payment,business consulting fees,500000.0,0.0,0.0,150000.0,5500000.0,137932000.0,288,54,150000.0,500000.0,132432000.0,1
+2020-01-01,2020-10-16,software consulting service payment,custom software development project - payment,500000.0,800000.0,0.0,0.0,5500000.0,138732000.0,289,57,0.0,300000.0,133232000.0,1
+2020-01-01,2020-10-16,software consulting service payment,erp system implementation - client fees,500000.0,0.0,0.0,250000.0,5500000.0,138482000.0,289,35,250000.0,500000.0,132982000.0,1
+2020-01-01,2020-10-16,software consulting service payment,cloud application development - client payment,500000.0,0.0,0.0,200000.0,5500000.0,138282000.0,289,49,200000.0,500000.0,132782000.0,1
+2020-01-01,2020-10-17,software consulting service payment,web application development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,138882000.0,290,51,0.0,100000.0,133382000.0,1
+2020-01-01,2020-10-17,software consulting service payment,software prototyping - client payment,500000.0,0.0,0.0,180000.0,5500000.0,138702000.0,290,69,180000.0,500000.0,133202000.0,1
+2020-01-01,2020-10-17,software consulting service payment,office lease payment,500000.0,0.0,0.0,300000.0,5500000.0,138402000.0,290,55,300000.0,500000.0,132902000.0,1
+2020-01-01,2020-10-18,software consulting service payment,mobile application development - client payment,500000.0,700000.0,0.0,0.0,5500000.0,139102000.0,291,49,0.0,200000.0,133602000.0,1
+2020-01-01,2020-10-18,software consulting service payment,qa testing services - client payment,500000.0,0.0,0.0,100000.0,5500000.0,139002000.0,291,65,100000.0,500000.0,133502000.0,1
+2020-01-01,2020-10-18,software consulting service payment,inventory management system development,500000.0,0.0,0.0,150000.0,5500000.0,138852000.0,291,41,150000.0,500000.0,133352000.0,1
+2020-01-01,2020-10-19,software consulting service payment,custom crm development - client payment,500000.0,500000.0,0.0,0.0,5500000.0,139352000.0,292,49,0.0,0.0,133852000.0,1
+2020-01-01,2020-10-19,software consulting service payment,artificial intelligence development - client payment,500000.0,0.0,0.0,350000.0,5500000.0,139002000.0,292,46,350000.0,500000.0,133502000.0,1
+2020-01-01,2020-10-19,software consulting service payment,staff health insurance,500000.0,0.0,0.0,80000.0,5500000.0,138922000.0,292,42,80000.0,500000.0,133422000.0,1
+2020-01-01,2020-10-20,software consulting service payment,custom software development - new contract,500000.0,900000.0,0.0,0.0,5500000.0,139822000.0,293,44,0.0,400000.0,134322000.0,1
+2020-01-01,2020-10-20,software consulting service payment,software prototyping - payment,500000.0,0.0,0.0,250000.0,5500000.0,139572000.0,293,71,250000.0,500000.0,134072000.0,1
+2020-01-01,2020-10-20,software consulting service payment,office supplies purchase,500000.0,0.0,0.0,50000.0,5500000.0,139522000.0,293,44,50000.0,500000.0,134022000.0,1
+2020-01-01,2020-10-21,software consulting service payment,erp system subscription renewal,500000.0,400000.0,0.0,0.0,5500000.0,139922000.0,294,39,0.0,100000.0,134422000.0,1
+2020-01-01,2020-10-21,software consulting service payment,business consulting services - client payment,500000.0,0.0,0.0,150000.0,5500000.0,139772000.0,294,72,150000.0,500000.0,134272000.0,1
+2020-01-01,2020-10-21,software consulting service payment,it hardware purchase,500000.0,0.0,0.0,200000.0,5500000.0,139572000.0,294,40,200000.0,500000.0,134072000.0,1
+2020-01-01,2020-10-22,software consulting service payment,cloud computing - new client payment,500000.0,750000.0,0.0,0.0,5500000.0,140322000.0,295,59,0.0,250000.0,134822000.0,1
+2020-01-01,2020-10-22,software consulting service payment,custom crm development - client payment,500000.0,0.0,0.0,150000.0,5500000.0,140172000.0,295,49,150000.0,500000.0,134672000.0,1
+2020-01-01,2020-10-22,software consulting service payment,staff salaries,500000.0,0.0,0.0,450000.0,5500000.0,139722000.0,295,37,450000.0,500000.0,134222000.0,1
+2020-01-01,2020-10-23,software consulting service payment,sap s/4hana cloud subscription - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,140722000.0,296,51,0.0,500000.0,135222000.0,1
+2020-01-01,2020-10-23,software consulting service payment,systems integration - client payment,500000.0,0.0,0.0,250000.0,5500000.0,140472000.0,296,54,250000.0,500000.0,134972000.0,1
+2020-01-01,2020-10-23,software consulting service payment,employee training - devops workshop,500000.0,0.0,0.0,120000.0,5500000.0,140352000.0,296,34,120000.0,500000.0,134852000.0,1
+2020-01-01,2020-10-24,software consulting service payment,crm and cx solutions development - client payment,500000.0,800000.0,0.0,0.0,5500000.0,141152000.0,297,50,0.0,300000.0,135652000.0,1
+2020-01-01,2020-10-24,software consulting service payment,mobile application development - client payment,500000.0,0.0,0.0,180000.0,5500000.0,140972000.0,297,49,180000.0,500000.0,135472000.0,1
+2020-01-01,2020-10-24,software consulting service payment,cloud application development - client payment,500000.0,0.0,0.0,100000.0,5500000.0,140872000.0,297,49,100000.0,500000.0,135372000.0,1
+2020-01-01,2020-10-25,software consulting service payment,quality assurance services - client payment,500000.0,450000.0,0.0,0.0,5500000.0,141322000.0,298,54,0.0,50000.0,135822000.0,1
+2020-01-01,2020-10-25,software consulting service payment,artificial intelligence (ai) development - client payment,500000.0,0.0,0.0,200000.0,5500000.0,141122000.0,298,43,200000.0,500000.0,135622000.0,1
+2020-01-01,2020-10-25,software consulting service payment,legal expenses - software patent,500000.0,0.0,0.0,150000.0,5500000.0,140972000.0,298,42,150000.0,500000.0,135472000.0,1
+2020-01-01,2020-10-26,software consulting service payment,supply chain management system development - payment,500000.0,700000.0,0.0,0.0,5500000.0,141672000.0,299,44,0.0,200000.0,136172000.0,1
+2020-01-01,2020-10-26,software consulting service payment,enterprise resource planning (erp) development,500000.0,0.0,0.0,300000.0,5500000.0,141372000.0,299,49,300000.0,500000.0,135872000.0,1
+2020-01-01,2020-10-26,software consulting service payment,it equipment - hardware purchase,500000.0,0.0,0.0,200000.0,5500000.0,141172000.0,299,36,200000.0,500000.0,135672000.0,1
+2020-01-01,2020-10-27,software consulting service payment,financial management software subscription - client payment,500000.0,650000.0,0.0,0.0,5500000.0,141822000.0,300,53,0.0,150000.0,136322000.0,1
+2020-01-01,2020-10-27,software consulting service payment,business technology platform development - client payment,500000.0,0.0,0.0,150000.0,5500000.0,141672000.0,300,43,150000.0,500000.0,136172000.0,1
+2020-01-01,2020-10-27,software consulting service payment,office rent - payment for november,500000.0,0.0,0.0,350000.0,5500000.0,141322000.0,300,43,350000.0,500000.0,135822000.0,1
+2020-01-01,2020-10-28,software consulting service payment,software as a service (saas) product development,500000.0,900000.0,0.0,0.0,5500000.0,142222000.0,301,58,0.0,400000.0,136722000.0,1
+2020-01-01,2020-10-28,software consulting service payment,crm and customer experience development,500000.0,0.0,0.0,250000.0,5500000.0,141972000.0,301,46,250000.0,500000.0,136472000.0,1
+2020-01-01,2020-10-28,software consulting service payment,cloud storage fees - payment for next quarter,500000.0,0.0,0.0,100000.0,5500000.0,141872000.0,301,40,100000.0,500000.0,136372000.0,1
+2020-01-01,2020-10-29,software consulting service payment,business network development - client payment,500000.0,600000.0,0.0,0.0,5500000.0,142472000.0,302,48,0.0,100000.0,136972000.0,1
+2020-01-01,2020-10-29,software consulting service payment,sap s/4hana cloud implementation - client payment,500000.0,0.0,0.0,500000.0,5500000.0,141972000.0,302,50,500000.0,500000.0,136472000.0,1
+2020-01-01,2020-10-29,software consulting service payment,office utilities payment,500000.0,0.0,0.0,50000.0,5500000.0,141922000.0,302,58,50000.0,500000.0,136422000.0,1
+2020-01-01,2020-10-30,software consulting service payment,mobile application development - client payment,500000.0,750000.0,0.0,0.0,5500000.0,142672000.0,303,49,0.0,250000.0,137172000.0,1
+2020-01-01,2020-10-30,software consulting service payment,cloud application development - client payment,500000.0,0.0,0.0,300000.0,5500000.0,142372000.0,303,49,300000.0,500000.0,136872000.0,1
+2020-01-01,2020-10-30,software consulting service payment,staff bonuses - performance incentives,500000.0,0.0,0.0,200000.0,5500000.0,142172000.0,303,44,200000.0,500000.0,136672000.0,1
+2020-01-01,2020-10-31,software consulting service payment,software prototyping - client payment,500000.0,500000.0,0.0,0.0,5500000.0,142672000.0,304,69,0.0,0.0,137172000.0,1
+2020-01-01,2020-10-31,software consulting service payment,it equipment purchase - server,500000.0,0.0,0.0,350000.0,5500000.0,142322000.0,304,34,350000.0,500000.0,136822000.0,1
+2020-01-01,2020-10-31,software consulting service payment,office snacks refill,500000.0,0.0,0.0,30000.0,5500000.0,142292000.0,304,33,30000.0,500000.0,136792000.0,1
+2020-01-01,2020-11-01,software consulting service payment,erp system integration - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,143492000.0,305,51,0.0,700000.0,137992000.0,1
+2020-01-01,2020-11-01,software consulting service payment,business technology platform setup - client payment,500000.0,0.0,0.0,500000.0,5500000.0,142992000.0,305,47,500000.0,500000.0,137492000.0,1
+2020-01-01,2020-11-01,software consulting service payment,software subscription fees - annual payment,500000.0,0.0,0.0,100000.0,5500000.0,142892000.0,305,64,100000.0,500000.0,137392000.0,1
+2020-01-01,2020-11-02,software consulting service payment,crm and customer experience development - client payment,500000.0,800000.0,0.0,0.0,5500000.0,143692000.0,306,44,0.0,300000.0,138192000.0,1
+2020-01-01,2020-11-02,software consulting service payment,office rent - november payment,500000.0,0.0,0.0,120000.0,5500000.0,143572000.0,306,52,120000.0,500000.0,138072000.0,1
+2020-01-01,2020-11-02,software consulting service payment,business network service charges,500000.0,0.0,0.0,150000.0,5500000.0,143422000.0,306,48,150000.0,500000.0,137922000.0,1
+2020-01-01,2020-11-03,software consulting service payment,cloud computing solutions - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,144422000.0,307,57,0.0,500000.0,138922000.0,1
+2020-01-01,2020-11-03,software consulting service payment,hr management system development - client payment,500000.0,0.0,0.0,350000.0,5500000.0,144072000.0,307,43,350000.0,500000.0,138572000.0,1
+2020-01-01,2020-11-03,software consulting service payment,office equipment purchase - laptops,500000.0,0.0,0.0,200000.0,5500000.0,143872000.0,307,40,200000.0,500000.0,138372000.0,1
+2020-01-01,2020-11-04,software consulting service payment,financial management solution - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,145372000.0,308,49,0.0,1000000.0,139872000.0,1
+2020-01-01,2020-11-04,software consulting service payment,server maintenance and backup services,500000.0,0.0,0.0,100000.0,5500000.0,145272000.0,308,41,100000.0,500000.0,139772000.0,1
+2020-01-01,2020-11-04,software consulting service payment,staff training - advanced software development,500000.0,0.0,0.0,50000.0,5500000.0,145222000.0,308,44,50000.0,500000.0,139722000.0,1
+2020-01-01,2020-11-05,software consulting service payment,supply chain management system - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,146222000.0,309,46,0.0,500000.0,140722000.0,1
+2020-01-01,2020-11-05,software consulting service payment,marketing campaign - new product launch,500000.0,0.0,0.0,150000.0,5500000.0,146072000.0,309,38,150000.0,500000.0,140572000.0,1
+2020-01-01,2020-11-05,software consulting service payment,office maintenance - hvac repairs,500000.0,0.0,0.0,80000.0,5500000.0,145992000.0,309,38,80000.0,500000.0,140492000.0,1
+2020-01-01,2020-11-06,software consulting service payment,enterprise software development - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,147192000.0,310,55,0.0,700000.0,141692000.0,1
+2020-01-01,2020-11-06,software consulting service payment,legal expenses - ip protection,500000.0,0.0,0.0,100000.0,5500000.0,147092000.0,310,31,100000.0,500000.0,141592000.0,1
+2020-01-01,2020-11-06,software consulting service payment,employee health insurance payment,500000.0,0.0,0.0,60000.0,5500000.0,147032000.0,310,56,60000.0,500000.0,141532000.0,1
+2020-01-01,2020-11-07,software consulting service payment,cloud application development - client payment,500000.0,800000.0,0.0,0.0,5500000.0,147832000.0,311,49,0.0,300000.0,142332000.0,1
+2020-01-01,2020-11-07,software consulting service payment,custom crm development - client payment,500000.0,0.0,0.0,200000.0,5500000.0,147632000.0,311,49,200000.0,500000.0,142132000.0,1
+2020-01-01,2020-11-07,software consulting service payment,staff welfare - monthly refill,500000.0,0.0,0.0,40000.0,5500000.0,147592000.0,311,40,40000.0,500000.0,142092000.0,1
+2020-01-01,2020-11-08,software consulting service payment,mobile app development - client payment,500000.0,900000.0,0.0,0.0,5500000.0,148492000.0,312,46,0.0,400000.0,142992000.0,1
+2020-01-01,2020-11-08,software consulting service payment,warehouse management system - client payment,500000.0,0.0,0.0,300000.0,5500000.0,148192000.0,312,53,300000.0,500000.0,142692000.0,1
+2020-01-01,2020-11-08,software consulting service payment,social media marketing - campaign fees,500000.0,0.0,0.0,120000.0,5500000.0,148072000.0,312,38,120000.0,500000.0,142572000.0,1
+2020-01-01,2020-11-09,software consulting service payment,sap successfactors implementation - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,149572000.0,313,49,0.0,1000000.0,144072000.0,1
+2020-01-01,2020-11-09,software consulting service payment,system integration services - client payment,500000.0,0.0,0.0,400000.0,5500000.0,149172000.0,313,61,400000.0,500000.0,143672000.0,1
+2020-01-01,2020-11-09,software consulting service payment,cloud storage payment,500000.0,0.0,0.0,100000.0,5500000.0,149072000.0,313,54,100000.0,500000.0,143572000.0,1
+2020-01-01,2020-11-10,software consulting service payment,ai development - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,150272000.0,314,48,0.0,700000.0,144772000.0,1
+2020-01-01,2020-11-10,software consulting service payment,office furniture purchase - chairs and desks,500000.0,0.0,0.0,150000.0,5500000.0,150122000.0,314,33,150000.0,500000.0,144622000.0,1
+2020-01-01,2020-11-10,software consulting service payment,professional development course - software engineering,500000.0,0.0,0.0,80000.0,5500000.0,150042000.0,314,36,80000.0,500000.0,144542000.0,1
+2020-01-01,2020-11-11,software consulting service payment,erp system deployment - client payment,500000.0,1000000.0,0.0,0.0,5500000.0,151042000.0,315,49,0.0,500000.0,145542000.0,1
+2020-01-01,2020-11-11,software consulting service payment,cloud services payment,500000.0,0.0,0.0,150000.0,5500000.0,150892000.0,315,67,150000.0,500000.0,145392000.0,1
+2020-01-01,2020-11-11,software consulting service payment,office consumables purchase,500000.0,0.0,0.0,30000.0,5500000.0,150862000.0,315,48,30000.0,500000.0,145362000.0,1
+2020-01-01,2020-11-12,software consulting service payment,ai integration services - client payment,500000.0,1100000.0,0.0,0.0,5500000.0,151962000.0,316,59,0.0,600000.0,146462000.0,1
+2020-01-01,2020-11-12,software consulting service payment,marketing and advertisement - ad campaigns,500000.0,0.0,0.0,90000.0,5500000.0,151872000.0,316,42,90000.0,500000.0,146372000.0,1
+2020-01-01,2020-11-12,software consulting service payment,software licensing renewal,500000.0,0.0,0.0,50000.0,5500000.0,151822000.0,316,62,50000.0,500000.0,146322000.0,1
+2020-01-01,2020-11-13,software consulting service payment,web application development - client payment,500000.0,900000.0,0.0,0.0,5500000.0,152722000.0,317,51,0.0,400000.0,147222000.0,1
+2020-01-01,2020-11-13,software consulting service payment,office cleaning services,500000.0,0.0,0.0,40000.0,5500000.0,152682000.0,317,58,40000.0,500000.0,147182000.0,1
+2020-01-01,2020-11-13,software consulting service payment,employee bonuses,500000.0,0.0,0.0,500000.0,5500000.0,152182000.0,317,31,500000.0,500000.0,146682000.0,1
+2020-01-01,2020-11-14,software consulting service payment,inventory management system - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,153382000.0,318,46,0.0,700000.0,147882000.0,1
+2020-01-01,2020-11-14,software consulting service payment,server hosting charges,500000.0,0.0,0.0,150000.0,5500000.0,153232000.0,318,49,150000.0,500000.0,147732000.0,1
+2020-01-01,2020-11-14,software consulting service payment,client refund for overpayment,500000.0,0.0,0.0,100000.0,5500000.0,153132000.0,318,50,100000.0,500000.0,147632000.0,1
+2020-01-01,2020-11-15,software consulting service payment,software product development - client payment,500000.0,1300000.0,0.0,0.0,5500000.0,154432000.0,319,62,0.0,800000.0,148932000.0,1
+2020-01-01,2020-11-15,software consulting service payment,employee salary payment,500000.0,0.0,0.0,2000000.0,5500000.0,152432000.0,319,48,2000000.0,500000.0,146932000.0,1
+2020-01-01,2020-11-15,software consulting service payment,software maintenance service payment,500000.0,0.0,0.0,120000.0,5500000.0,152312000.0,319,79,120000.0,500000.0,146812000.0,1
+2020-01-01,2020-11-16,software consulting service payment,custom software development - client payment,500000.0,1400000.0,0.0,0.0,5500000.0,153712000.0,320,58,0.0,900000.0,148212000.0,1
+2020-01-01,2020-11-16,software consulting service payment,legal consultation fee for contract review,500000.0,0.0,0.0,70000.0,5500000.0,153642000.0,320,44,70000.0,500000.0,148142000.0,1
+2020-01-01,2020-11-16,software consulting service payment,travel and business expenses,500000.0,0.0,0.0,50000.0,5500000.0,153592000.0,320,41,50000.0,500000.0,148092000.0,1
+2020-01-01,2020-11-17,software consulting service payment,cloud application payment - client,500000.0,800000.0,0.0,0.0,5500000.0,154392000.0,321,43,0.0,300000.0,148892000.0,1
+2020-01-01,2020-11-17,software consulting service payment,payroll processing fees,500000.0,0.0,0.0,40000.0,5500000.0,154352000.0,321,38,40000.0,500000.0,148852000.0,1
+2020-01-01,2020-11-17,software consulting service payment,advertising costs,500000.0,0.0,0.0,60000.0,5500000.0,154292000.0,321,35,60000.0,500000.0,148792000.0,1
+2020-01-01,2020-11-18,software consulting service payment,financial management solution payment - client,500000.0,1500000.0,0.0,0.0,5500000.0,155792000.0,322,42,0.0,1000000.0,150292000.0,1
+2020-01-01,2020-11-18,software consulting service payment,internet and data charges,500000.0,0.0,0.0,30000.0,5500000.0,155762000.0,322,33,30000.0,500000.0,150262000.0,1
+2020-01-01,2020-11-18,software consulting service payment,office software subscriptions,500000.0,0.0,0.0,50000.0,5500000.0,155712000.0,322,50,50000.0,500000.0,150212000.0,1
+2020-01-01,2020-11-19,software consulting service payment,erp system support - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,156912000.0,323,51,0.0,700000.0,151412000.0,1
+2020-01-01,2020-11-19,software consulting service payment,software testing services - client payment,500000.0,0.0,0.0,100000.0,5500000.0,156812000.0,323,78,100000.0,500000.0,151312000.0,1
+2020-01-01,2020-11-19,software consulting service payment,office rent for december,500000.0,0.0,0.0,200000.0,5500000.0,156612000.0,323,41,200000.0,500000.0,151112000.0,1
+2020-01-01,2020-11-20,software consulting service payment,human capital management - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,158112000.0,324,45,0.0,1000000.0,152612000.0,1
+2020-01-01,2020-11-20,software consulting service payment,office maintenance - electrical services,500000.0,0.0,0.0,60000.0,5500000.0,158052000.0,324,45,60000.0,500000.0,152552000.0,1
+2020-01-01,2020-11-20,software consulting service payment,server rental fees,500000.0,0.0,0.0,70000.0,5500000.0,157982000.0,324,34,70000.0,500000.0,152482000.0,1
+2020-01-01,2020-11-21,software consulting service payment,software prototyping - client payment,500000.0,1400000.0,0.0,0.0,5500000.0,159382000.0,325,69,0.0,900000.0,153882000.0,1
+2020-01-01,2020-11-21,software consulting service payment,software development - client payment,500000.0,0.0,0.0,200000.0,5500000.0,159182000.0,325,64,200000.0,500000.0,153682000.0,1
+2020-01-01,2020-11-21,software consulting service payment,office equipment purchase,500000.0,0.0,0.0,150000.0,5500000.0,159032000.0,325,40,150000.0,500000.0,153532000.0,1
+2020-01-01,2020-11-22,software consulting service payment,systems integration service - client payment,500000.0,1300000.0,0.0,0.0,5500000.0,160332000.0,326,61,0.0,800000.0,154832000.0,1
+2020-01-01,2020-11-22,software consulting service payment,travel expenses,500000.0,0.0,0.0,100000.0,5500000.0,160232000.0,326,36,100000.0,500000.0,154732000.0,1
+2020-01-01,2020-11-22,software consulting service payment,employee training and development,500000.0,0.0,0.0,80000.0,5500000.0,160152000.0,326,47,80000.0,500000.0,154652000.0,1
+2020-01-01,2020-11-23,software consulting service payment,business technology platform service - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,161652000.0,327,52,0.0,1000000.0,156152000.0,1
+2020-01-01,2020-11-23,software consulting service payment,cloud service payment,500000.0,0.0,0.0,120000.0,5500000.0,161532000.0,327,68,120000.0,500000.0,156032000.0,1
+2020-01-01,2020-11-23,software consulting service payment,employee healthcare benefits,500000.0,0.0,0.0,70000.0,5500000.0,161462000.0,327,35,70000.0,500000.0,155962000.0,1
+2020-01-01,2020-11-24,software consulting service payment,supply chain management service - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,162662000.0,328,53,0.0,700000.0,157162000.0,1
+2020-01-01,2020-11-24,software consulting service payment,software maintenance payment,500000.0,0.0,0.0,150000.0,5500000.0,162512000.0,328,70,150000.0,500000.0,157012000.0,1
+2020-01-01,2020-11-24,software consulting service payment,office rent,500000.0,0.0,0.0,250000.0,5500000.0,162262000.0,328,39,250000.0,500000.0,156762000.0,1
+2020-01-01,2020-11-25,software consulting service payment,customer experience solution payment,500000.0,1300000.0,0.0,0.0,5500000.0,163562000.0,329,51,0.0,800000.0,158062000.0,1
+2020-01-01,2020-11-25,software consulting service payment,office utilities payment,500000.0,0.0,0.0,80000.0,5500000.0,163482000.0,329,58,80000.0,500000.0,157982000.0,1
+2020-01-01,2020-11-25,software consulting service payment,client refund (overpayment),500000.0,0.0,0.0,100000.0,5500000.0,163382000.0,329,48,100000.0,500000.0,157882000.0,1
+2020-01-01,2020-11-26,software consulting service payment,supply chain management payment - client,500000.0,1400000.0,0.0,0.0,5500000.0,164782000.0,330,43,0.0,900000.0,159282000.0,1
+2020-01-01,2020-11-26,software consulting service payment,marketing services fee,500000.0,0.0,0.0,60000.0,5500000.0,164722000.0,330,60,60000.0,500000.0,159222000.0,1
+2020-01-01,2020-11-26,software consulting service payment,technology support services payment,500000.0,0.0,0.0,70000.0,5500000.0,164652000.0,330,66,70000.0,500000.0,159152000.0,1
+2020-01-01,2020-11-27,software consulting service payment,financial management services - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,166152000.0,331,54,0.0,1000000.0,160652000.0,1
+2020-01-01,2020-11-27,software consulting service payment,office supplies,500000.0,0.0,0.0,30000.0,5500000.0,166122000.0,331,36,30000.0,500000.0,160622000.0,1
+2020-01-01,2020-11-27,software consulting service payment,server upgrades,500000.0,0.0,0.0,80000.0,5500000.0,166042000.0,331,36,80000.0,500000.0,160542000.0,1
+2020-01-01,2020-11-28,software consulting service payment,crm solution - client payment,500000.0,1300000.0,0.0,0.0,5500000.0,167342000.0,332,56,0.0,800000.0,161842000.0,1
+2020-01-01,2020-11-28,software consulting service payment,employee development programs,500000.0,0.0,0.0,100000.0,5500000.0,167242000.0,332,34,100000.0,500000.0,161742000.0,1
+2020-01-01,2020-11-28,software consulting service payment,office furniture purchase,500000.0,0.0,0.0,150000.0,5500000.0,167092000.0,332,40,150000.0,500000.0,161592000.0,1
+2020-01-01,2020-11-29,software consulting service payment,cloud application development - client payment,500000.0,1500000.0,0.0,0.0,5500000.0,168592000.0,333,49,0.0,1000000.0,163092000.0,1
+2020-01-01,2020-11-29,software consulting service payment,licensing costs,500000.0,0.0,0.0,70000.0,5500000.0,168522000.0,333,36,70000.0,500000.0,163022000.0,1
+2020-01-01,2020-11-29,software consulting service payment,employee bonus payments,500000.0,0.0,0.0,200000.0,5500000.0,168322000.0,333,52,200000.0,500000.0,162822000.0,1
+2020-01-01,2020-11-30,software consulting service payment,software development project - client payment,500000.0,1200000.0,0.0,0.0,5500000.0,169522000.0,334,60,0.0,700000.0,164022000.0,1
+2020-01-01,2020-11-30,software consulting service payment,office equipment maintenance,500000.0,0.0,0.0,50000.0,5500000.0,169472000.0,334,38,50000.0,500000.0,163972000.0,1
+2020-01-01,2020-11-30,software consulting service payment,employee welfare program,500000.0,0.0,0.0,40000.0,5500000.0,169432000.0,334,37,40000.0,500000.0,163932000.0,1
+2020-01-01,2020-12-01,software consulting service payment,custom software development - payment from client a,500000.0,1500000.0,0.0,0.0,5500000.0,170932000.0,335,49,0.0,1000000.0,165432000.0,1
+2020-01-01,2020-12-01,software consulting service payment,office rent payment for december,500000.0,0.0,0.0,150000.0,5500000.0,170782000.0,335,42,150000.0,500000.0,165282000.0,1
+2020-01-01,2020-12-02,software consulting service payment,software license renewal - client b,500000.0,350000.0,0.0,0.0,5500000.0,171132000.0,336,57,0.0,150000.0,165632000.0,1
+2020-01-01,2020-12-02,software consulting service payment,marketing campaign expenses - online ads,500000.0,0.0,0.0,300000.0,5500000.0,170832000.0,336,37,300000.0,500000.0,165332000.0,1
+2020-01-01,2020-12-03,software consulting service payment,mobile app development - client c,500000.0,1000000.0,0.0,0.0,5500000.0,171832000.0,337,35,0.0,500000.0,166332000.0,1
+2020-01-01,2020-12-03,software consulting service payment,it hardware purchase - new servers,500000.0,0.0,0.0,200000.0,5500000.0,171632000.0,337,43,200000.0,500000.0,166132000.0,1
+2020-01-01,2020-12-04,software consulting service payment,cloud computing services - client d,500000.0,1200000.0,0.0,0.0,5500000.0,172832000.0,338,60,0.0,700000.0,167332000.0,1
+2020-01-01,2020-12-04,software consulting service payment,software subscription renewal - client e,500000.0,0.0,0.0,50000.0,5500000.0,172782000.0,338,56,50000.0,500000.0,167282000.0,1
+2020-01-01,2020-12-05,software consulting service payment,employee salary payment,500000.0,0.0,0.0,1500000.0,5500000.0,171282000.0,339,48,1500000.0,500000.0,165782000.0,1
+2020-01-01,2020-12-05,software consulting service payment,business travel - conference expenses,500000.0,0.0,0.0,100000.0,5500000.0,171182000.0,339,44,100000.0,500000.0,165682000.0,1
+2020-01-01,2020-12-06,software consulting service payment,custom crm development - client f,500000.0,800000.0,0.0,0.0,5500000.0,171982000.0,340,38,0.0,300000.0,166482000.0,1
+2020-01-01,2020-12-06,software consulting service payment,freelancer payment - backend developer,500000.0,0.0,0.0,150000.0,5500000.0,171832000.0,340,41,150000.0,500000.0,166332000.0,1
+2020-01-01,2020-12-07,software consulting service payment,erp software implementation - client g,500000.0,1500000.0,0.0,0.0,5500000.0,173332000.0,341,49,0.0,1000000.0,167832000.0,1
+2020-01-01,2020-12-07,software consulting service payment,office supplies purchase,500000.0,0.0,0.0,50000.0,5500000.0,173282000.0,341,44,50000.0,500000.0,167782000.0,1
+2020-01-01,2020-12-08,software consulting service payment,cloud data backup service - client h,500000.0,1000000.0,0.0,0.0,5500000.0,174282000.0,342,51,0.0,500000.0,168782000.0,1
+2020-01-01,2020-12-08,software consulting service payment,software development training - staff,500000.0,0.0,0.0,200000.0,5500000.0,174082000.0,342,50,200000.0,500000.0,168582000.0,1
+2020-01-01,2020-12-09,software consulting service payment,mobile application launch - client i,500000.0,1200000.0,0.0,0.0,5500000.0,175282000.0,343,37,0.0,700000.0,169782000.0,1
+2020-01-01,2020-12-09,software consulting service payment,legal consulting fee - intellectual property protection,500000.0,0.0,0.0,100000.0,5500000.0,175182000.0,343,47,100000.0,500000.0,169682000.0,1
+2020-01-01,2020-12-10,software consulting service payment,saas subscription - client j,500000.0,500000.0,0.0,0.0,5500000.0,175682000.0,344,41,0.0,0.0,170182000.0,1
+2020-01-01,2020-12-10,software consulting service payment,office cleaning services - monthly,500000.0,0.0,0.0,10000.0,5500000.0,175672000.0,344,61,10000.0,500000.0,170172000.0,1
+2020-01-01,2020-12-11,software consulting service payment,business consulting - client k,500000.0,700000.0,0.0,0.0,5500000.0,176372000.0,345,55,0.0,200000.0,170872000.0,1
+2020-01-01,2020-12-11,software consulting service payment,employee bonus payment,500000.0,0.0,0.0,400000.0,5500000.0,175972000.0,345,53,400000.0,500000.0,170472000.0,1
+2020-01-01,2020-12-12,software consulting service payment,cloud application development - client l,500000.0,1300000.0,0.0,0.0,5500000.0,177272000.0,346,43,0.0,800000.0,171772000.0,1
+2020-01-01,2020-12-12,software consulting service payment,staff training program - skill enhancement,500000.0,0.0,0.0,150000.0,5500000.0,177122000.0,346,44,150000.0,500000.0,171622000.0,1
+2020-01-01,2020-12-13,software consulting service payment,systems integration - client m,500000.0,2000000.0,0.0,0.0,5500000.0,179122000.0,347,40,0.0,1500000.0,173622000.0,1
+2020-01-01,2020-12-13,software consulting service payment,it infrastructure upgrade - servers & networking,500000.0,0.0,0.0,500000.0,5500000.0,178622000.0,347,39,500000.0,500000.0,173122000.0,1
+2020-01-01,2020-12-14,software consulting service payment,ai development service - client n,500000.0,1500000.0,0.0,0.0,5500000.0,180122000.0,348,50,0.0,1000000.0,174622000.0,1
+2020-01-01,2020-12-14,software consulting service payment,office snacks - monthly refill,500000.0,0.0,0.0,20000.0,5500000.0,180102000.0,348,34,20000.0,500000.0,174602000.0,1
+2020-01-01,2020-12-15,software consulting service payment,software prototyping - client o,500000.0,1000000.0,0.0,0.0,5500000.0,181102000.0,349,58,0.0,500000.0,175602000.0,1
+2020-01-01,2020-12-15,software consulting service payment,server maintenance & upgrade,500000.0,0.0,0.0,100000.0,5500000.0,181002000.0,349,41,100000.0,500000.0,175502000.0,1
+2020-01-01,2020-12-16,software consulting service payment,software product development - client p,500000.0,1500000.0,0.0,0.0,5500000.0,182502000.0,350,57,0.0,1000000.0,177002000.0,1
+2020-01-01,2020-12-16,software consulting service payment,travel expenses for business trip - client q,500000.0,0.0,0.0,80000.0,5500000.0,182422000.0,350,41,80000.0,500000.0,176922000.0,1
+2020-01-01,2020-12-17,software consulting service payment,custom software development - client r,500000.0,1000000.0,0.0,0.0,5500000.0,183422000.0,351,47,0.0,500000.0,177922000.0,1
+2020-01-01,2020-12-17,software consulting service payment,office rent payment for next year,500000.0,0.0,0.0,150000.0,5500000.0,183272000.0,351,41,150000.0,500000.0,177772000.0,1
+2020-01-01,2020-12-18,software consulting service payment,erp implementation - client s,500000.0,1500000.0,0.0,0.0,5500000.0,184772000.0,352,34,0.0,1000000.0,179272000.0,1
+2020-01-01,2020-12-18,software consulting service payment,staff health insurance premium,500000.0,0.0,0.0,50000.0,5500000.0,184722000.0,352,46,50000.0,500000.0,179222000.0,1
+2020-01-01,2020-12-19,software consulting service payment,web application development - client t,500000.0,1200000.0,0.0,0.0,5500000.0,185922000.0,353,44,0.0,700000.0,180422000.0,1
+2020-01-01,2020-12-19,software consulting service payment,legal fees - contract drafting,500000.0,0.0,0.0,30000.0,5500000.0,185892000.0,353,37,30000.0,500000.0,180392000.0,1
+2020-01-01,2020-12-20,software consulting service payment,cloud-based solutions - client u,500000.0,1000000.0,0.0,0.0,5500000.0,186892000.0,354,42,0.0,500000.0,181392000.0,1
+2020-01-01,2020-12-20,software consulting service payment,employee performance bonus,500000.0,0.0,0.0,200000.0,5500000.0,186692000.0,354,30,200000.0,500000.0,181192000.0,1
+2020-01-01,2020-12-21,software consulting service payment,software licensing fees - client v,500000.0,800000.0,0.0,0.0,5500000.0,187492000.0,355,64,0.0,300000.0,181992000.0,1
+2020-01-01,2020-12-21,software consulting service payment,business trip expenses for client meeting,500000.0,0.0,0.0,90000.0,5500000.0,187402000.0,355,39,90000.0,500000.0,181902000.0,1
+2020-01-01,2020-12-22,software consulting service payment,custom crm development - client w,500000.0,1000000.0,0.0,0.0,5500000.0,188402000.0,356,38,0.0,500000.0,182902000.0,1
+2020-01-01,2020-12-22,software consulting service payment,it hardware purchase - new laptops,500000.0,0.0,0.0,193132000.0,5500000.0,-4730000.0,356,38,193132000.0,500000.0,10230000.0,1
+2020-01-01,2020-12-23,software consulting service payment,business consulting fees - client x,500000.0,1200000.0,0.0,0.0,5500000.0,-3530000.0,357,57,0.0,700000.0,9030000.0,1
+2020-01-01,2020-12-23,software consulting service payment,office cleaning services,500000.0,0.0,0.0,1000000.0,5500000.0,-4530000.0,357,58,1000000.0,500000.0,10030000.0,1
+2020-01-01,2020-12-24,software consulting service payment,software training and development - client y,500000.0,1500000.0,0.0,0.0,5500000.0,-3030000.0,358,56,0.0,1000000.0,8530000.0,1
+2020-01-01,2020-12-24,software consulting service payment,office snacks monthly refill,500000.0,0.0,0.0,10000.0,5500000.0,-3040000.0,358,35,10000.0,500000.0,8540000.0,1
+2020-01-01,2020-12-25,software consulting service payment,software prototype delivery - client z,500000.0,1200000.0,0.0,0.0,5500000.0,-1840000.0,359,52,0.0,700000.0,7340000.0,1
+2020-01-01,2020-12-25,software consulting service payment,travel expenses - business presentation,500000.0,0.0,0.0,30000.0,5500000.0,-1870000.0,359,41,30000.0,500000.0,7370000.0,1
+2020-01-01,2020-12-26,software consulting service payment,cloud service subscription - client aa,500000.0,1000000.0,0.0,0.0,5500000.0,-870000.0,360,44,0.0,500000.0,6370000.0,1
+2020-01-01,2020-12-26,software consulting service payment,office rent payment for january,500000.0,0.0,0.0,150000.0,5500000.0,-1020000.0,360,42,150000.0,500000.0,6520000.0,1
+2020-01-01,2020-12-27,software consulting service payment,erp software update - client bb,500000.0,1500000.0,0.0,0.0,5500000.0,480000.0,361,48,0.0,1000000.0,5020000.0,1
+2020-01-01,2020-12-27,software consulting service payment,it support services - maintenance fee,500000.0,0.0,0.0,5000000.0,5500000.0,-4520000.0,361,47,5000000.0,500000.0,10020000.0,1
+2020-01-01,2020-12-28,software consulting service payment,custom software solution - client cc,500000.0,2000000.0,0.0,0.0,5500000.0,-2520000.0,362,54,0.0,1500000.0,8020000.0,1
+2020-01-01,2020-12-28,software consulting service payment,freelancer payment - frontend developer,500000.0,0.0,0.0,80000.0,5500000.0,-2600000.0,362,41,80000.0,500000.0,8100000.0,1
+2020-01-01,2020-12-29,software consulting service payment,business consulting service - client dd,500000.0,1200000.0,0.0,0.0,5500000.0,-1400000.0,363,68,0.0,700000.0,6900000.0,1
+2020-01-01,2020-12-29,software consulting service payment,cloud computing services - client ee,500000.0,0.0,0.0,300000.0,5500000.0,-1700000.0,363,59,300000.0,500000.0,7200000.0,1
+2020-01-01,2020-12-30,software consulting service payment,systems integration - client ff,500000.0,1500000.0,0.0,0.0,5500000.0,-200000.0,364,39,0.0,1000000.0,5700000.0,1
+2020-01-01,2020-12-30,software consulting service payment,business operations expense - office rent,500000.0,0.0,0.0,200000.0,5500000.0,-400000.0,364,45,200000.0,500000.0,5900000.0,1
+2020-01-01,2020-12-31,software consulting service payment,software development - client gg,500000.0,1500000.0,0.0,0.0,5500000.0,1100000.0,365,51,0.0,1000000.0,4400000.0,1
+2020-01-01,2020-12-31,software consulting service payment,travel costs - international business trip,500000.0,0.0,0.0,600000.0,5500000.0,500000.0,365,42,600000.0,500000.0,5000000.0,1
+2020-01-01,2021-01-01,software consulting service payment,software subscription revenue,500000.0,200000.0,0.0,0.0,5500000.0,700000.0,366,59,0.0,300000.0,4800000.0,1
+2020-01-01,2021-01-01,software consulting service payment,office supplies purchase,500000.0,0.0,0.0,15000.0,5500000.0,685000.0,366,44,15000.0,500000.0,4815000.0,1
+2020-01-01,2021-01-02,software consulting service payment,consulting services income,500000.0,300000.0,0.0,0.0,5500000.0,985000.0,367,69,0.0,200000.0,4515000.0,1
+2020-01-01,2021-01-02,software consulting service payment,utility bills payment,500000.0,0.0,0.0,50000.0,5500000.0,935000.0,367,46,50000.0,500000.0,4565000.0,1
+2020-01-01,2021-01-02,software consulting service payment,marketing campaign costs,500000.0,0.0,0.0,40000.0,5500000.0,895000.0,367,44,40000.0,500000.0,4605000.0,1
+2020-01-01,2021-01-03,software consulting service payment,api integration revenue,500000.0,250000.0,0.0,0.0,5500000.0,1145000.0,368,38,0.0,250000.0,4355000.0,1
+2020-01-01,2021-01-03,software consulting service payment,employee salaries,500000.0,0.0,0.0,300000.0,5500000.0,845000.0,368,31,300000.0,500000.0,4655000.0,1
+2020-01-01,2021-01-03,software consulting service payment,equipment maintenance costs,500000.0,0.0,0.0,45000.0,5500000.0,800000.0,368,32,45000.0,500000.0,4700000.0,1
+2020-01-01,2021-01-04,software consulting service payment,mobile app subscription revenue,500000.0,150000.0,0.0,0.0,5500000.0,950000.0,369,39,0.0,350000.0,4550000.0,1
+2020-01-01,2021-01-04,software consulting service payment,staff training program,500000.0,0.0,0.0,25000.0,5500000.0,925000.0,369,42,25000.0,500000.0,4575000.0,1
+2020-01-01,2021-01-04,software consulting service payment,advertising costs,500000.0,0.0,0.0,50000.0,5500000.0,875000.0,369,35,50000.0,500000.0,4625000.0,1
+2020-01-01,2021-01-05,software consulting service payment,cloud hosting revenue,500000.0,180000.0,0.0,0.0,5500000.0,1055000.0,370,46,0.0,320000.0,4445000.0,1
+2020-01-01,2021-01-05,software consulting service payment,office rent,500000.0,0.0,0.0,60000.0,5500000.0,995000.0,370,39,60000.0,500000.0,4505000.0,1
+2020-01-01,2021-01-05,software consulting service payment,business travel costs,500000.0,0.0,0.0,50000.0,5500000.0,945000.0,370,36,50000.0,500000.0,4555000.0,1
+2020-01-01,2021-01-06,software consulting service payment,saas licensing revenue,500000.0,200000.0,0.0,0.0,5500000.0,1145000.0,371,49,0.0,300000.0,4355000.0,1
+2020-01-01,2021-01-06,software consulting service payment,employee bonuses,500000.0,0.0,0.0,75000.0,5500000.0,1070000.0,371,31,75000.0,500000.0,4430000.0,1
+2020-01-01,2021-01-06,software consulting service payment,it hardware purchase,500000.0,0.0,0.0,85000.0,5500000.0,985000.0,371,40,85000.0,500000.0,4515000.0,1
+2020-01-01,2021-01-07,software consulting service payment,digital marketing revenue,500000.0,300000.0,0.0,0.0,5500000.0,1285000.0,372,43,0.0,200000.0,4215000.0,1
+2020-01-01,2021-01-07,software consulting service payment,internet subscription,500000.0,0.0,0.0,20000.0,5500000.0,1265000.0,372,39,20000.0,500000.0,4235000.0,1
+2020-01-01,2021-01-07,software consulting service payment,freelancer payment - graphics design,500000.0,0.0,0.0,40000.0,5500000.0,1225000.0,372,42,40000.0,500000.0,4275000.0,1
+2020-01-01,2021-01-08,software consulting service payment,mobile app sales revenue,500000.0,250000.0,0.0,0.0,5500000.0,1475000.0,373,34,0.0,250000.0,4025000.0,1
+2020-01-01,2021-01-08,software consulting service payment,office cleaning services,500000.0,0.0,0.0,15000.0,5500000.0,1460000.0,373,58,15000.0,500000.0,4040000.0,1
+2020-01-01,2021-01-08,software consulting service payment,training materials purchase,500000.0,0.0,0.0,25000.0,5500000.0,1435000.0,373,45,25000.0,500000.0,4065000.0,1
+2020-01-01,2021-01-09,software consulting service payment,software subscription revenue,500000.0,300000.0,0.0,0.0,5500000.0,1735000.0,374,59,0.0,200000.0,3765000.0,1
+2020-01-01,2021-01-09,software consulting service payment,office furniture purchase,500000.0,0.0,0.0,60000.0,5500000.0,1675000.0,374,40,60000.0,500000.0,3825000.0,1
+2020-01-01,2021-01-09,software consulting service payment,employee health insurance premiums,500000.0,0.0,0.0,30000.0,5500000.0,1645000.0,374,41,30000.0,500000.0,3855000.0,1
+2020-01-01,2021-01-10,software consulting service payment,digital advertising revenue,500000.0,150000.0,0.0,0.0,5500000.0,1795000.0,375,39,0.0,350000.0,3705000.0,1
+2020-01-01,2021-01-10,software consulting service payment,marketing campaign costs,500000.0,0.0,0.0,40000.0,5500000.0,1755000.0,375,44,40000.0,500000.0,3745000.0,1
+2020-01-01,2021-01-10,software consulting service payment,cloud hosting subscription,500000.0,0.0,0.0,50000.0,5500000.0,1705000.0,375,46,50000.0,500000.0,3795000.0,1
+2020-01-01,2021-01-11,software consulting service payment,it consulting revenue,500000.0,200000.0,0.0,0.0,5500000.0,1905000.0,376,61,0.0,300000.0,3595000.0,1
+2020-01-01,2021-01-11,software consulting service payment,staff training workshop,500000.0,0.0,0.0,45000.0,5500000.0,1860000.0,376,38,45000.0,500000.0,3640000.0,1
+2020-01-01,2021-01-11,software consulting service payment,office utility bills,500000.0,0.0,0.0,50000.0,5500000.0,1810000.0,376,33,50000.0,500000.0,3690000.0,1
+2020-01-01,2021-01-12,software consulting service payment,data analysis services revenue,500000.0,120000.0,0.0,0.0,5500000.0,1930000.0,377,52,0.0,380000.0,3570000.0,1
+2020-01-01,2021-01-12,software consulting service payment,freelance services payment,500000.0,0.0,0.0,35000.0,5500000.0,1895000.0,377,69,35000.0,500000.0,3605000.0,1
+2020-01-01,2021-01-12,software consulting service payment,travel expenses for client meeting,500000.0,0.0,0.0,20000.0,5500000.0,1875000.0,377,41,20000.0,500000.0,3625000.0,1
+2020-01-01,2021-01-13,software consulting service payment,mobile app licensing revenue,500000.0,200000.0,0.0,0.0,5500000.0,2075000.0,378,44,0.0,300000.0,3425000.0,1
+2020-01-01,2021-01-13,software consulting service payment,employee bonuses,500000.0,0.0,0.0,75000.0,5500000.0,2000000.0,378,31,75000.0,500000.0,3500000.0,1
+2020-01-01,2021-01-13,software consulting service payment,it hardware maintenance,500000.0,0.0,0.0,50000.0,5500000.0,1950000.0,378,38,50000.0,500000.0,3550000.0,1
+2020-01-01,2021-01-14,software consulting service payment,saas subscription revenue,500000.0,250000.0,0.0,0.0,5500000.0,2200000.0,379,43,0.0,250000.0,3300000.0,1
+2020-01-01,2021-01-14,software consulting service payment,office lease payment,500000.0,0.0,0.0,80000.0,5500000.0,2120000.0,379,55,80000.0,500000.0,3380000.0,1
+2020-01-01,2021-01-14,software consulting service payment,social media campaign costs,500000.0,0.0,0.0,30000.0,5500000.0,2090000.0,379,39,30000.0,500000.0,3410000.0,1
+2020-01-01,2021-01-15,software consulting service payment,web development services revenue,500000.0,300000.0,0.0,0.0,5500000.0,2390000.0,380,51,0.0,200000.0,3110000.0,1
+2020-01-01,2021-01-15,software consulting service payment,office internet subscription,500000.0,0.0,0.0,25000.0,5500000.0,2365000.0,380,41,25000.0,500000.0,3135000.0,1
+2020-01-01,2021-01-15,software consulting service payment,employee lunch allowance,500000.0,0.0,0.0,15000.0,5500000.0,2350000.0,380,31,15000.0,500000.0,3150000.0,1
+2020-01-01,2021-01-16,software consulting service payment,software customization revenue,500000.0,180000.0,0.0,0.0,5500000.0,2530000.0,381,58,0.0,320000.0,2970000.0,1
+2020-01-01,2021-01-16,software consulting service payment,employee training fees,500000.0,0.0,0.0,40000.0,5500000.0,2490000.0,381,35,40000.0,500000.0,3010000.0,1
+2020-01-01,2021-01-16,software consulting service payment,office cleaning service payment,500000.0,0.0,0.0,15000.0,5500000.0,2475000.0,381,76,15000.0,500000.0,3025000.0,1
+2020-01-01,2021-01-17,software consulting service payment,api development revenue,500000.0,250000.0,0.0,0.0,5500000.0,2725000.0,382,38,0.0,250000.0,2775000.0,1
+2020-01-01,2021-01-17,software consulting service payment,marketing material costs,500000.0,0.0,0.0,20000.0,5500000.0,2705000.0,382,44,20000.0,500000.0,2795000.0,1
+2020-01-01,2021-01-17,software consulting service payment,office snacks purchase,500000.0,0.0,0.0,10000.0,5500000.0,2695000.0,382,39,10000.0,500000.0,2805000.0,1
+2020-01-01,2021-01-18,software consulting service payment,cloud service subscription revenue,500000.0,150000.0,0.0,0.0,5500000.0,2845000.0,383,43,0.0,350000.0,2655000.0,1
+2020-01-01,2021-01-18,software consulting service payment,business travel expenses,500000.0,0.0,0.0,50000.0,5500000.0,2795000.0,383,37,50000.0,500000.0,2705000.0,1
+2020-01-01,2021-01-18,software consulting service payment,it equipment purchase,500000.0,0.0,0.0,60000.0,5500000.0,2735000.0,383,36,60000.0,500000.0,2765000.0,1
+2020-01-01,2021-01-19,software consulting service payment,website optimization revenue,500000.0,200000.0,0.0,0.0,5500000.0,2935000.0,384,41,0.0,300000.0,2565000.0,1
+2020-01-01,2021-01-19,software consulting service payment,employee wellness program,500000.0,0.0,0.0,25000.0,5500000.0,2910000.0,384,33,25000.0,500000.0,2590000.0,1
+2020-01-01,2021-01-19,software consulting service payment,freelancer payment - content writing,500000.0,0.0,0.0,35000.0,5500000.0,2875000.0,384,42,35000.0,500000.0,2625000.0,1
+2020-01-01,2021-01-20,software consulting service payment,digital content sales revenue,500000.0,175000.0,0.0,0.0,5500000.0,3050000.0,385,47,0.0,325000.0,2450000.0,1
+2020-01-01,2021-01-20,software consulting service payment,office maintenance - hvac repair,500000.0,0.0,0.0,40000.0,5500000.0,3010000.0,385,39,40000.0,500000.0,2490000.0,1
+2020-01-01,2021-01-20,software consulting service payment,software license renewal,500000.0,0.0,0.0,30000.0,5500000.0,2980000.0,385,58,30000.0,500000.0,2520000.0,1
+2020-01-01,2021-01-21,software consulting service payment,saas product sales revenue,500000.0,220000.0,0.0,0.0,5500000.0,3200000.0,386,43,0.0,280000.0,2300000.0,1
+2020-01-01,2021-01-21,software consulting service payment,staff travel reimbursement,500000.0,0.0,0.0,15000.0,5500000.0,3185000.0,386,46,15000.0,500000.0,2315000.0,1
+2020-01-01,2021-01-21,software consulting service payment,it security services payment,500000.0,0.0,0.0,25000.0,5500000.0,3160000.0,386,67,25000.0,500000.0,2340000.0,1
+2020-01-01,2021-01-22,software consulting service payment,e-commerce revenue,500000.0,250000.0,0.0,0.0,5500000.0,3410000.0,387,38,0.0,250000.0,2090000.0,1
+2020-01-01,2021-01-22,software consulting service payment,office stationery purchase,500000.0,0.0,0.0,20000.0,5500000.0,3390000.0,387,46,20000.0,500000.0,2110000.0,1
+2020-01-01,2021-01-22,software consulting service payment,team outing expenses,500000.0,0.0,0.0,50000.0,5500000.0,3340000.0,387,51,50000.0,500000.0,2160000.0,1
+2020-01-01,2021-01-23,software consulting service payment,consulting services revenue,500000.0,180000.0,0.0,0.0,5500000.0,3520000.0,388,68,0.0,320000.0,1980000.0,1
+2020-01-01,2021-01-23,software consulting service payment,employee health insurance,500000.0,0.0,0.0,40000.0,5500000.0,3480000.0,388,37,40000.0,500000.0,2020000.0,1
+2020-01-01,2021-01-23,software consulting service payment,business lunch with client,500000.0,0.0,0.0,30000.0,5500000.0,3450000.0,388,36,30000.0,500000.0,2050000.0,1
+2020-01-01,2021-01-24,software consulting service payment,mobile app revenue,500000.0,200000.0,0.0,0.0,5500000.0,3650000.0,389,30,0.0,300000.0,1850000.0,1
+2020-01-01,2021-01-24,software consulting service payment,office utility bill payment,500000.0,0.0,0.0,50000.0,5500000.0,3600000.0,389,55,50000.0,500000.0,1900000.0,1
+2020-01-01,2021-01-24,software consulting service payment,software update costs,500000.0,0.0,0.0,60000.0,5500000.0,3540000.0,389,50,60000.0,500000.0,1960000.0,1
+2020-01-01,2021-01-25,software consulting service payment,saas subscription revenue,500000.0,220000.0,0.0,0.0,5500000.0,3760000.0,390,43,0.0,280000.0,1740000.0,1
+2020-01-01,2021-01-25,software consulting service payment,freelancer payment - graphic design,500000.0,0.0,0.0,45000.0,5500000.0,3715000.0,390,43,45000.0,500000.0,1785000.0,1
+2020-01-01,2021-01-25,software consulting service payment,advertising costs - social media,500000.0,0.0,0.0,30000.0,5500000.0,3685000.0,390,39,30000.0,500000.0,1815000.0,1
+2020-01-01,2021-01-26,software consulting service payment,cloud computing revenue,500000.0,200000.0,0.0,0.0,5500000.0,3885000.0,391,48,0.0,300000.0,1615000.0,1
+2020-01-01,2021-01-26,software consulting service payment,office renovation expenses,500000.0,0.0,0.0,60000.0,5500000.0,3825000.0,391,43,60000.0,500000.0,1675000.0,1
+2020-01-01,2021-01-26,software consulting service payment,marketing brochures printing,500000.0,0.0,0.0,25000.0,5500000.0,3800000.0,391,48,25000.0,500000.0,1700000.0,1
+2020-01-01,2021-01-27,software consulting service payment,mobile app development revenue,500000.0,250000.0,0.0,0.0,5500000.0,4050000.0,392,37,0.0,250000.0,1450000.0,1
+2020-01-01,2021-01-27,software consulting service payment,staff entertainment allowance,500000.0,0.0,0.0,15000.0,5500000.0,4035000.0,392,41,15000.0,500000.0,1465000.0,1
+2020-01-01,2021-01-27,software consulting service payment,office internet upgrade,500000.0,0.0,0.0,40000.0,5500000.0,3995000.0,392,45,40000.0,500000.0,1505000.0,1
+2020-01-01,2021-01-28,software consulting service payment,web hosting services revenue,500000.0,180000.0,0.0,0.0,5500000.0,4175000.0,393,63,0.0,320000.0,1325000.0,1
+2020-01-01,2021-01-28,software consulting service payment,software subscription costs,500000.0,0.0,0.0,30000.0,5500000.0,4145000.0,393,55,30000.0,500000.0,1355000.0,1
+2020-01-01,2021-01-28,software consulting service payment,team building workshop,500000.0,0.0,0.0,50000.0,5500000.0,4095000.0,393,39,50000.0,500000.0,1405000.0,1
+2020-01-01,2021-01-29,software consulting service payment,software licensing revenue,500000.0,200000.0,0.0,0.0,5500000.0,4295000.0,394,66,0.0,300000.0,1205000.0,1
+2020-01-01,2021-01-29,software consulting service payment,employee recruitment costs,500000.0,0.0,0.0,25000.0,5500000.0,4270000.0,394,33,25000.0,500000.0,1230000.0,1
+2020-01-01,2021-01-29,software consulting service payment,office snacks purchase,500000.0,0.0,0.0,10000.0,5500000.0,4260000.0,394,39,10000.0,500000.0,1240000.0,1
+2020-01-01,2021-01-30,software consulting service payment,it consulting services revenue,500000.0,250000.0,0.0,0.0,5500000.0,4510000.0,395,71,0.0,250000.0,990000.0,1
+2020-01-01,2021-01-30,software consulting service payment,cloud storage upgrade,500000.0,0.0,0.0,50000.0,5500000.0,4460000.0,395,39,50000.0,500000.0,1040000.0,1
+2020-01-01,2021-01-30,software consulting service payment,freelance developer payment,500000.0,0.0,0.0,45000.0,5500000.0,4415000.0,395,55,45000.0,500000.0,1085000.0,1
+2020-01-01,2021-01-31,software consulting service payment,digital content licensing revenue,500000.0,300000.0,0.0,0.0,5500000.0,4715000.0,396,44,0.0,200000.0,785000.0,1
+2020-01-01,2021-01-31,software consulting service payment,office utility bill - final adjustment,500000.0,0.0,0.0,20000.0,5500000.0,4695000.0,396,44,20000.0,500000.0,805000.0,1
+2020-01-01,2021-01-31,software consulting service payment,marketing consultant fee,500000.0,0.0,0.0,25000.0,5500000.0,4670000.0,396,51,25000.0,500000.0,830000.0,1
+2020-01-01,2021-02-01,software consulting service payment,subscription renewal revenue,500000.0,280000.0,0.0,0.0,5500000.0,4950000.0,397,35,0.0,220000.0,550000.0,1
+2020-01-01,2021-02-01,software consulting service payment,employee equipment reimbursement,500000.0,0.0,0.0,25000.0,5500000.0,4925000.0,397,42,25000.0,500000.0,575000.0,1
+2020-01-01,2021-02-01,software consulting service payment,office pest control services,500000.0,0.0,0.0,10000.0,5500000.0,4915000.0,397,51,10000.0,500000.0,585000.0,1
+2020-01-01,2021-02-02,software consulting service payment,e-learning platform revenue,500000.0,300000.0,0.0,0.0,5500000.0,5215000.0,398,39,0.0,200000.0,285000.0,1
+2020-01-01,2021-02-02,software consulting service payment,office pantry supplies,500000.0,0.0,0.0,15000.0,5500000.0,5200000.0,398,35,15000.0,500000.0,300000.0,1
+2020-01-01,2021-02-02,software consulting service payment,data analysis tool subscription,500000.0,0.0,0.0,45000.0,5500000.0,5155000.0,398,36,45000.0,500000.0,345000.0,1
+2020-01-01,2021-02-03,software consulting service payment,mobile application hosting revenue,500000.0,200000.0,0.0,0.0,5500000.0,5355000.0,399,46,0.0,300000.0,145000.0,1
+2020-01-01,2021-02-03,software consulting service payment,office interior decoration,500000.0,0.0,0.0,60000.0,5500000.0,5295000.0,399,39,60000.0,500000.0,205000.0,1
+2020-01-01,2021-02-03,software consulting service payment,it support service payment,500000.0,0.0,0.0,30000.0,5500000.0,5265000.0,399,69,30000.0,500000.0,235000.0,1
+2020-01-01,2021-02-04,software consulting service payment,business intelligence software revenue,500000.0,350000.0,0.0,0.0,5500000.0,5615000.0,400,38,0.0,150000.0,115000.0,1
+2020-01-01,2021-02-04,software consulting service payment,security service - monthly payment,500000.0,0.0,0.0,25000.0,5500000.0,5590000.0,400,61,25000.0,500000.0,90000.0,1
+2020-01-01,2021-02-04,software consulting service payment,printing and stationery purchase,500000.0,0.0,0.0,20000.0,5500000.0,5570000.0,400,42,20000.0,500000.0,70000.0,1
+2020-01-01,2021-02-05,software consulting service payment,cloud backup service revenue,500000.0,220000.0,0.0,0.0,5500000.0,5790000.0,401,48,0.0,280000.0,290000.0,1
+2020-01-01,2021-02-05,software consulting service payment,professional membership fees,500000.0,0.0,0.0,15000.0,5500000.0,5775000.0,401,38,15000.0,500000.0,275000.0,1
+2020-01-01,2021-02-05,software consulting service payment,digital payment processing fees,500000.0,0.0,0.0,30000.0,5500000.0,5745000.0,401,36,30000.0,500000.0,245000.0,1
+2020-01-01,2021-02-06,software consulting service payment,ai consultation revenue,500000.0,250000.0,0.0,0.0,5500000.0,5995000.0,402,55,0.0,250000.0,495000.0,1
+2020-01-01,2021-02-06,software consulting service payment,software testing services payment,500000.0,0.0,0.0,45000.0,5500000.0,5950000.0,402,88,45000.0,500000.0,450000.0,1
+2020-01-01,2021-02-06,software consulting service payment,social media engagement services,500000.0,0.0,0.0,40000.0,5500000.0,5910000.0,402,45,40000.0,500000.0,410000.0,1
+2020-01-01,2021-02-07,software consulting service payment,remote work tool licensing revenue,500000.0,270000.0,0.0,0.0,5500000.0,6180000.0,403,46,0.0,230000.0,680000.0,1
+2020-01-01,2021-02-07,software consulting service payment,technical documentation expenses,500000.0,0.0,0.0,20000.0,5500000.0,6160000.0,403,39,20000.0,500000.0,660000.0,1
+2020-01-01,2021-02-07,software consulting service payment,employee parking space rent,500000.0,0.0,0.0,15000.0,5500000.0,6145000.0,403,45,15000.0,500000.0,645000.0,1
+2020-01-01,2021-02-08,software consulting service payment,website traffic analytics revenue,500000.0,300000.0,0.0,0.0,5500000.0,6445000.0,404,41,0.0,200000.0,945000.0,1
+2020-01-01,2021-02-08,software consulting service payment,employee wellness program,500000.0,0.0,0.0,35000.0,5500000.0,6410000.0,404,33,35000.0,500000.0,910000.0,1
+2020-01-01,2021-02-08,software consulting service payment,monthly cloud storage payment,500000.0,0.0,0.0,25000.0,5500000.0,6385000.0,404,56,25000.0,500000.0,885000.0,1

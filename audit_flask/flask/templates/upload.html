@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload XLSX Files</title>
+</head>
+<body>
+    <h1>Upload XLSX Files</h1>
+    {% with messages = get_flashed_messages() %}
+      {% if messages %}
+        <ul>
+          {% for message in messages %}
+            <li>{{ message }}</li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endwith %}
+
+    <form method="POST" enctype="multipart/form-data">
+        <label for="file1">File 1 (Cash Book):</label><br>
+        <input type="file" name="file1" accept=".xlsx"><br><br>
+
+        <label for="file2">File 2 (Bank Statement):</label><br>
+        <input type="file" name="file2" accept=".xlsx"><br><br>
+
+        <input type="submit" value="Upload and Load DataFrames">
+    </form>
+</body>
+</html>

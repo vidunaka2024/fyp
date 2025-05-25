@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Compute Features</title>
+</head>
+<body>
+    <h1>Features Computed</h1>
+    <p>New columns: 
+      {% for col in columns %}
+        {{ col }},
+      {% endfor %}
+    </p>
+    <a href="{{ url_for('set_thresholds') }}">Set Thresholds</a>
+</body>
+</html>
